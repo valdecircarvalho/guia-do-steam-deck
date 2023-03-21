@@ -1,0 +1,58 @@
+title = "O Guia do Steam Deck"
+baseURL = "/"
+themesDir = "themes"
+theme = "hugo-whisper-theme"
+languageCode = "en-us"
+
+
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses = true
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.55.0"
+
+# Controls how many words are printed in the content summary on the docs homepage.
+# See https://gohugo.io/content-management/summaries/
+summaryLength = 30
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Guia"
+    url = "/guia/"
+    weight = 2
+
+[[menu.main]]
+    name = "Twitter"
+    url = "https://twitter.com/guiadosteamdeck"
+    weight = 3
+
+[params]
+  homepage_button_link = '/guia'
+  homepage_button_text = 'Guia do Steam Deck'
+  homepage_intro = 'O Guia do Steam Deck em Português'
+  homepage_image = '/images/o-guia-do-steam-deck.png' ## Imagem localizada dentro da pasta themes\static
+
+  ## You can enable to add anchor links to header elements
+  # enable_anchor_link = true
+
+  [params.homepage_meta_tags]
+    meta_description = "O Guia do Steam Deck em Poruguês. O Guia Definitivo do Steam Deck. Dicas, Tutoriais, Configurações e Muito Mais Sobre o Steam Deck."
+    meta_og_title = "O Guia do Steam Deck"
+    meta_og_type = "website"
+    meta_og_url = "https://steamdeck.valdecir.me"
+    meta_og_image = "O-GUIA-DO-STEAM-DECK-V2.png"
+    meta_og_description = "O Guia do Steam Deck."
+    meta_twitter_card = "summary"
+    meta_twitter_site = "@guiadosteamdeck"
+    meta_twitter_creator = "@guiadosteamdeck"
+
+  [params.logo]
+      mobile = "/images/logo.svg"
+      standard  = "/images/logo.svg"
