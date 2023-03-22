@@ -1,5 +1,5 @@
 title = "O Guia do Steam Deck"
-baseURL = "/"
+baseURL = "/guia-do-steam-deck/"
 themesDir = "themes"
 theme = "hugo-whisper-theme"
 languageCode = "en-us"
