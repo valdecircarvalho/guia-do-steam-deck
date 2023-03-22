@@ -8,7 +8,7 @@ summary: 'Abacate'
 
 Esse trabalho está em _**construção**_ e em _**constante atualização**_. 
 
-Para **contribuir com o Guia do Steam Deck**, você pode criar um [issue](hhttps://github.com/valdecircarvalho/guia-do-steam-deck/issues) no repositório do github ou me mandar uma mensagem pelas minhas [redes sociais](https://iamval.me). Esse é um _**trabalho colaborativo**_ e toda contribuição será bem vinda.
+Para **contribuir com o Guia do Steam Deck**, você pode criar um [issue](https://github.com/valdecircarvalho/guia-do-steam-deck/issues) no repositório do github ou me mandar uma mensagem pelas minhas [redes sociais](https://iamval.me). Esse é um _**trabalho colaborativo**_ e toda contribuição será bem vinda.
 
 Volte sempre para ver as novidades.
 
