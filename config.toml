@@ -1,5 +1,5 @@
 title = "O Guia do Steam Deck"
-baseURL = "/guia-do-steam-deck"
+baseURL = "/"
 themesDir = "themes"
 theme = "hugo-whisper-theme"
 languageCode = "en-us"
@@ -20,7 +20,7 @@ summaryLength = 30
 
 [[menu.main]]
     name = "Home"
-    url = "/guia-do-steam-deck"
+    url = "/"
     weight = 1
 
 [[menu.main]]
@@ -37,7 +37,7 @@ summaryLength = 30
   homepage_button_link = '/guia'
   homepage_button_text = 'Guia do Steam Deck'
   homepage_intro = 'O Guia do Steam Deck em Português'
-  homepage_image = 'images/o-guia-do-steam-deck.png' ## Imagem localizada dentro da pasta themes\static
+  homepage_image = '/images/o-guia-do-steam-deck.png' ## Imagem localizada dentro da pasta themes\static
 
   ## You can enable to add anchor links to header elements
   # enable_anchor_link = true
@@ -54,5 +54,5 @@ summaryLength = 30
     meta_twitter_creator = "@guiadosteamdeck"
 
   [params.logo]
-      mobile = "/guia-do-steam-deck/images/logo.svg"
-      standard  = "/guia-do-steam-deck/images/logo.svg"
+      mobile = "/images/logo.svg"
+      standard  = "/images/logo.svg"
