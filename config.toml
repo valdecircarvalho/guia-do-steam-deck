@@ -20,7 +20,7 @@ summaryLength = 30
 
 [[menu.main]]
     name = "Home"
-    url = "/"
+    url = "/guia-do-steam-deck"
     weight = 1
 
 [[menu.main]]
@@ -54,5 +54,5 @@ summaryLength = 30
     meta_twitter_creator = "@guiadosteamdeck"
 
   [params.logo]
-      mobile = "images/logo.svg"
-      standard  = "images/logo.svg"
+      mobile = "/guia-do-steam-deck/images/logo.svg"
+      standard  = "/guia-do-steam-deck/images/logo.svg"
