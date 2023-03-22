@@ -1,0 +1,4 @@
+# Não mando os arquivos do diretorio _on-deck-share para o github. Esse diretorio irá sincronizar com o Deck via OneDrive
+/_on-deck-share/
+
+## CNAME
