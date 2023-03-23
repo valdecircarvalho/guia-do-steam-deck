@@ -1,13 +1,18 @@
-# O Guia do Steam Deck em Português
-[steamdeck.valdecir.me](https://steamdeck.valdecir.me)
+---
+title: 'Artigo - Minha Relação com o Steam Deck'
+date: 2023-03-01T00:00:00+00:00
+weight: 2
+summary: 'Um mês com o Steam Deck e como eu retomei o gosto por videoogames'
+---
 
-# Um mês com o Steam Deck e como eu retomei o gosto por videoogames.
--- 2023-02-07
+## Um mês com o Steam Deck e como eu retomei o gosto por videoogames.
+
+_2023-02-07_
 
 Eu sempre gostei de jogar video game, ainda hoje lembro do dia que ganhei o meu primeiro ATARI 2600, lá no ano de 1987
 Recentemente, comprei um Steam Deck - se você não sabe o que é um Steam Deck, vou resumir rapidinho aqui para você: é um PC portátil da Valve (aquela da Steam) que se parece com um Nintendo Switch, só que muito mais poderoso. - e posso dizer que faz muito tempo que não me divirto tanto com um gadget. Esse joguinho é poderoso o suficiente para rodar a grande maioria dos jogos de PC AAA do mercado com uma qualidade super bacana. 
 
-## Mas porque estou me divertindo tanto? 
+### Mas porque estou me divertindo tanto? 
 
  1. É super simples de usar. Basta baixar o jogo da Steam e começar a brincar. 
  2. Você aperta um botão e bum… já tá no jogo. Então qualquer 15 minutinhos que eu tenho livre já pego para jogar um pouquinho. Quando acaba o tempo, aperta o botão e ele hiberna. 
@@ -24,7 +29,7 @@ EMU DECK, um sistema simples e fácil de rodar emuladores no Steam Deck - https:
  11. Existe uma comunidade ENORME, então é bem tranquilo de encontrar resposta para problemas - no final do artigo vou compartilhar um link no meu GitHub onde estou colecionando links interessantes sobre o Steam Deck. 
  12. É um lindo objeto criado pela engenharia. 
 
-## Mas nem tudo são flores:
+### Mas nem tudo são flores:
 
  1. Custo no Brasil. Se você comprar um aqui no Mercado Livre, vai pagar coisa de 4500-5000 pelo modelo mais simples (64GB). Depois vai ter que gastar mais uns trocos com um SD card de pelo menos 512GB para colocar os joguinhos, mais um “Dock” para ter mais portas (HDMI, USB, rede, etc). 
  2. Bateria: Até você aprender a otimizar as configurações para aquele jogo, vai ser muito tentador jogar com tudo no máximo e isso vai drenar duas bateria. Em média, você consegue entre 2-3 horas de um jogo com tudo no máximo. Se configurar direitinho, vai chegar em 4-5 horas dependendo do jogo. Então sempre vai precisar estar perto da tomada ou investir em um bom power bank. 
@@ -36,6 +41,6 @@ EMU DECK, um sistema simples e fácil de rodar emuladores no Steam Deck - https:
 
 Se você está tentado a comprar um Steam Deck, o que posso dizer é vai fundo!!! 
 
-Aqui você vai encontrar dezenas de links sobre o Steam Deck que estou colecionando ao longo do tempo: 
+-- Valdecir Carvalho - [iamval.me](https://iamval.me)
 
-[steamdeck.valdecir.me](https://steamdeck.valdecir.me)
+[guiadosteamdeck.com.br](https://guiadosteamdeck.com.br)

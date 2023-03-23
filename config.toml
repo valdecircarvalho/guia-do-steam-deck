@@ -28,6 +28,11 @@ summaryLength = 30
     url = "/guia/"
     weight = 2
 
+## [[menu.main]]
+##     name = "Artigos"
+##     url = "/artigos"
+##     weight = 3
+
 [[menu.main]]
     name = "Twitter"
     url = "https://twitter.com/guiadosteamdeck"

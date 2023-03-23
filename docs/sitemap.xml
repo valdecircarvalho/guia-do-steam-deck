@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/artigos/minha-relacao-com-steamdeck/</loc>
+    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/guia/1.o-steam-deck/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -86,6 +89,9 @@
     <loc>/guia/ajuda/40.ajuda-sobre-o-steam-deck/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/artigos/</loc>
+    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/guia/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -105,8 +111,6 @@
     <loc>/guia/ajuda/ajuda/</loc>
   </url><url>
     <loc>/guia/ajuda/emulacao-nintendo-switch/</loc>
-  </url><url>
-    <loc>/guia/artigos/minha-relacao-com-steamdeck/</loc>
   </url><url>
     <loc>/guia/avancado/steamdeck-performance/</loc>
   </url><url>
