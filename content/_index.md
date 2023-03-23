@@ -6,6 +6,8 @@ summary: 'O Guia do Steam Deck - Conteúdo, recursos e muito mais sobre o Steam 
 
 #### Conteúdo sobre Steam Deck em Português compilado e traduzido por [Valdecir Carvalho](https://iamval.me).
 
+Seja bem-vindo(a) ao novo site do Guia do Steam Deck. Mudamos a página do domínio antigo para esse e fizemos uma remodelagem para facilitar a navegação.
+
 Esse trabalho está em _**construção**_ e em _**constante atualização**_. 
 
 Para **contribuir com o Guia do Steam Deck**, você pode criar um [issue](https://github.com/valdecircarvalho/guia-do-steam-deck/issues) no repositório do github ou me mandar uma mensagem pelas minhas [redes sociais](https://iamval.me). Esse é um _**trabalho colaborativo**_ e toda contribuição será bem vinda.
