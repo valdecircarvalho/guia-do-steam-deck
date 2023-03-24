@@ -1,5 +1,5 @@
 ---
-title: 'O Steam Deck no Brasil'
+title: '1.1 - O Steam Deck no Brasil'
 date: 2023-03-01T00:00:00+00:00
 weight: 3
 summary: 'O Steam Deck no Brasil'

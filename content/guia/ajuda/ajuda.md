@@ -1,3 +1,9 @@
+---
+title: 'Ajuda'
+date: 2024-03-01T00:00:00+00:00
+weight: 40
+summary: 'Artigos de ajuda e dicas sobre o Steam Deck'
+---
 # Ajuda
 
 Artigos de ajuda e dicas sobre o Steam Deck

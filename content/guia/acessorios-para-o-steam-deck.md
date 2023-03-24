@@ -1,5 +1,5 @@
 ---
-title: 'Acessórios "Obrigatórios"'
+title: '1.3 - Acessórios "Obrigatórios"'
 date: 2023-03-01T00:00:00+00:00
 weight: 5
 summary: 'Acessórios para o Steam Deck'
