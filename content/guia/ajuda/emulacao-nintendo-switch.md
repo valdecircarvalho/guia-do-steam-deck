@@ -1,1 +1,0 @@
-https://overkill.wtf/how-to-setup-yuzu-for-steam-deck/

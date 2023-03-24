@@ -1,5 +1,5 @@
 ---
-title: 'Qual modelo comprar?'
+title: '1.2 - Qual modelo comprar?'
 date: 2023-03-01T00:00:00+00:00
 weight: 4
 summary: 'Qual modelo de Steam Deck devo comprar?'

@@ -1,5 +1,5 @@
 ---
-title: 'Impressão 3D de acessórios para o Steam Deck'
+title: '5 - Impressão 3D de acessórios para o Steam Deck'
 date: 2023-03-01T00:00:00+00:00
 weight: 6
 summary: 'Acessórios que podem ser impressos em 3D para o seu Steam Deck'

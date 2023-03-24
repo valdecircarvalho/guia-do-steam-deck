@@ -5,6 +5,13 @@ theme = "hugo-whisper-theme"
 languageCode = "en-us"
 publishDir = "docs"
 
+## My Settings
+uglyURLs = false
+posts = '/:title/'
+
+[permalinks]
+  post = "/:title/"
+
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
