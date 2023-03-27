@@ -1,10 +1,12 @@
 ---
-title: 'Communidades Reddit'
+title: '2.5 - Comunidades Reddit'
 date: 2023-03-01T00:00:00+00:00
-weight: 10
-summary: 'Communidades Reddit sobre o Steam Deck'
+weight: 2.5
+summary: 'Comunidades Reddit sobre o Steam Deck'
+slug: 'comunidades-reddit-steam-deck'
 ---
 
+Eu sou um heavy user do Reddit. Lá você encontra comunidades de praticamente qualquer assunto e o Steam Deck não ficaria de fora. Abaixo estão listadas as maiores comunidades sobre o Steam Deck no Reddit.
 
 - [r/steamdeckbrasil](https://www.reddit.com/r/steamdeckbrasil/) ** esse subredit foi criado e é mantido por mim :)
 - [Steam Deck on Reddit](https://www.reddit.com/user/valdecircarvalho/m/steam_deck/) - Coleção de sub reddits sobre Steam Deck :new:

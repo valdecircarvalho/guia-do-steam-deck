@@ -1,7 +1,7 @@
 ---
-title: 'ProtonDB'
+title: '3.1 - ProtonDB'
 date: 2023-03-01T00:00:00+00:00
-weight: 15
+weight: 3.1
 summary: 'O que é o ProtonDB? Como usar, níveis de compatibilidade de jogos, configurações, etc.'
 ---
 

@@ -1,8 +1,9 @@
 ---
-title: 'Redes Sociais - Twitter'
+title: '2.1 - Redes Sociais - Twitter'
 date: 2023-03-01T00:00:00+00:00
-weight: 8
+weight: 2.1
 summary: 'Redes Sociais do Steam Deck - Twitter'
+slug: 'redes-sociais-steam-deck-twitter'
 ---
 
 As contas abaixo são uma excelente fonte de informações sobre novidades, dicas e atualizações sobre o Steam Deck. 

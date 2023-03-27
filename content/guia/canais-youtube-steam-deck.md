@@ -1,8 +1,9 @@
 ---
-title: 'Canais de Youtube sobre o Steam Deck'
+title: '2.4 - Canais de Youtube sobre o Steam Deck'
 date: 2023-03-01T00:00:00+00:00
-weight: 13
+weight: 2.4
 summary: 'Canais de Youtube sobre o Steam Deck'
+slug: 'canais-youtube-sobre-steam-deck'
 ---
 
 - [#steamdeck - videos no Youtube com a hashtag steamdeck](https://www.youtube.com/hashtag/steamdeck)

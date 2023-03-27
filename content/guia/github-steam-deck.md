@@ -1,8 +1,9 @@
 ---
-title: 'Steam Deck no Github'
+title: '2.3 - Steam Deck no Github'
 date: 2023-03-01T00:00:00+00:00
-weight: 11
+weight: 2.3
 summary: 'Steam Deck no Github - Repositórios no GitHub com ferramentas, guias e diversos outros conteúdos sobre o Steam Deck'
+slug: 'comunidades-e-ferramentas-steam-deck-no-github'
 ---
 
 **_Em construção_**

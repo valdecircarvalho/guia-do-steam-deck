@@ -1,8 +1,9 @@
 ---
-title: 'Links Oficiais'
+title: '2.0 - Links Oficiais'
 date: 2023-03-01T00:00:00+00:00
-weight: 7
+weight: 2.0
 summary: 'Sites e Links Oficiais sobre o Steam Deck'
+slug: 'links-oficiais-sobre-o-steam-deck'
 ---
 
 ### Português Brasil

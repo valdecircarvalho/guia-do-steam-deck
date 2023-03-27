@@ -1,8 +1,9 @@
 ---
 title: '1.1 - O Steam Deck no Brasil'
 date: 2023-03-01T00:00:00+00:00
-weight: 3
+weight: 1.1
 summary: 'O Steam Deck no Brasil'
+slug: 'o-steam-deck-no-brasil'
 ---
 
 O Steam Deck **ainda não é oficialmente vendido pela Valve no Brasil**, mas não é por isso que você não vai conseguir comprar o seu. 

@@ -1,8 +1,9 @@
 ---
 title: '1.2 - Qual modelo comprar?'
 date: 2023-03-01T00:00:00+00:00
-weight: 4
+weight: 1.2
 summary: 'Qual modelo de Steam Deck devo comprar?'
+slug: 'qual-modelo-de-steam-deck-devo-comprar'
 ---
 
 Esse é um grande debate. Se você fizer as contas, comprar o modelo de 64GB + SSD 1Tb para fazer o upgrade pode sair mais barato, mas ai vai de você querer passar pelo trabalho de fazer a troca, etc. 

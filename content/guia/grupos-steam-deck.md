@@ -1,8 +1,9 @@
 ---
-title: 'Grupos sobre o Stem Deck'
+title: '2.2 - Grupos sobre o Stem Deck'
 date: 2023-03-01T00:00:00+00:00
-weight: 9
+weight: 2.2
 summary: 'Grupos Facebook, Telegram e WhatsApp sobre o Steam Deck para você se socializar e conhecer outras pessoas interessadas em Steam Deck'
+slug: 'grupos-steam-deck-telegram-whatsapp'
 ---
 
 ### Grupos Telegram

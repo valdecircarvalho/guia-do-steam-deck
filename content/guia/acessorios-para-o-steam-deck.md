@@ -1,8 +1,9 @@
 ---
 title: '1.3 - Acessórios "Obrigatórios"'
 date: 2023-03-01T00:00:00+00:00
-weight: 5
+weight: 1.3
 summary: 'Acessórios para o Steam Deck'
+slug: 'acessorios-para-o-steam-deck'
 ---
 
 Hoje existem diversos acessórios do Steam Deck e essa quantidade só tende a aumentar ao longo do tempo.

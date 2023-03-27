@@ -1,8 +1,9 @@
 ---
-title: 'Jogos no Steam Deck'
+title: '3.0 - Jogos no Steam Deck'
 date: 2023-03-01T00:00:00+00:00
-weight: 14
+weight: 3.0
 summary: 'Quais jogos posso rodar no Stem Deck? Jogos Verificados, Compatibilidade, Jogos Epic, BattleNet, GoG, etc.'
+slug: 'sites-e-blogs-sobre-steam-deck'
 ---
 
 ## Jogos no Steam Deck

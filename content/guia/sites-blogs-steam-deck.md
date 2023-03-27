@@ -1,8 +1,9 @@
 ---
-title: 'Sites e Blogs sobre o Steam Deck'
+title: '1.10 - Sites e Blogs sobre o Steam Deck'
 date: 2023-03-01T00:00:00+00:00
-weight: 12
+weight: 1.10
 summary: 'Sites e Blogs sobre o Steam Deck'
+slug: 'sites-e-blogs-sobre-steam-deck'
 ---
 
 - [steamdeckhq.com](https://steamdeckhq.com/)

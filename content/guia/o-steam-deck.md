@@ -1,9 +1,9 @@
 ---
 title: '1 - O Steam Deck'
-slug: 'o-steam-deck'
 date: 2023-03-01T00:00:00+00:00
-weight: 2
+weight: 1.0
 summary: 'O Steam Deck'
+slug: 'o-steam-deck'
 ---
 
 ## O que é o Steam Deck?
