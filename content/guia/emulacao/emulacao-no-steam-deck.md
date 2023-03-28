@@ -3,6 +3,7 @@ title: 'Emulação no Steam Deck'
 date: 2023-03-01T00:00:00+00:00
 weight: 30
 summary: 'Emulação no Steam Deck'
+slug: 'emulacao-no-steam-deck'
 ---
 
 ## Emulação no Steam Deck
