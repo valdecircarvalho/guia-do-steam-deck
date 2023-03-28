@@ -39,7 +39,8 @@
   - Instalar o (Windows) Steam Deck Tools [https://github.com/ayufan/steam-deck-tools] / [https://steamdecklife.com/2022/12/26/steam-deck-tools-for-windows/]
   - Windows Update
   - Seguindo o guia https://baldsealion.github.io/Steam-Deck-Ultimate-Windows-Guide
-  - 
+  - Windows Update novamente
+  - CONTINUA....
 ## Instalar o SteamOS
 
 - [Instruções de recuperação do Steam Deck](https://help.steampowered.com/pt-br/faqs/view/1b71-edf2-eb6d-2bb3)
