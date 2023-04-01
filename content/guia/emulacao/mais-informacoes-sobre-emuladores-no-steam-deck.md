@@ -13,9 +13,9 @@ summary: 'Mais informações sobre emulação no Steam Deck'
   - ### Nintendo 3DS
   - ### Microsoft Xbox 360
   - ### Microsoft Xbox
+  - ### Sony Playstation 1
+  - ### Sony Playstation 2
   - ### Sony Playstation 3
-  - ### Sony Playstation 2
-  - ### Sony Playstation 2
   - ### Sony PSP
   - ### Sony Playstation Vita
   - ### Android
