@@ -12,7 +12,7 @@ git pull
 Write-Host "Update arquivos no repo"
 git add . && git commit -m "$mensagemCommit" && git push
 Write-host "Build do site..."
-hugo --cleanDestinationDir --gc --minify
+hugo --cleanDestinationDir --gc --minify --quiet
 Write-host "Update arquivos estáticos no repo"
 git pull
 git add . && git commit -m "$mensagemCommit" && git push
