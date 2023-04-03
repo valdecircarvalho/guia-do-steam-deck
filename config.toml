@@ -2,7 +2,7 @@ title = "O Guia do Steam Deck"
 baseURL = "/"
 themesDir = "themes"
 theme = "hugo-whisper-theme"
-languageCode = "en-us"
+languageCode = "pt-br"
 publishDir = "docs"
 
 ## My Settings
