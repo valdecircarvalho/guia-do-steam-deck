@@ -3,17 +3,21 @@
 
 [![O Guia do Steam Deck](o-guia-do-steam-deck.png)](https://guiadosteamdeck.com.br/)
 
-O **Guia do Steam Deck** é um trabalho que está em _**construção**_ , em _**constante atualização**_ e _**totalmente colaborativo**_ e foi criado _**para a comunidade Steam Deck**_  falantes da língua Portuguesa.
+Seja bem-vindo(a)(e) Guia do Steam Deck. 
+
+Eu sou o **Valdecir Carvalho**, criador e idealizador do **O Guia do Steam Deck**. 
+
+O Guia do Steam Deck foi criado no início de Março de 2023 e a minha maior motivação foi que eu comprei um Steam Deck e não encontrei quase nenhum conteúdo em Português sobre o console. 
+
+Notei que a comunidade de usuários de Steam Deck no Brasil estava crescendo cada vez mais, basta olhar os grupos de Facebook, grupos do Telegram, etc para ver que a cada dia, mais e mais pessoas estão se decidindo por comprar o seu Steam Deck.
+
+Foi ai que tive a idéia de começar a reunir em uma página simples, links que eu havia coletado durante minhas pesquisas antes de me decidir por comprar o meu Steam Deck. 
+
+O **Guia do Steam Deck** é um trabalho que está em _**construção**_ , em _**constante atualização**_ e _**totalmente colaborativo**_ e foi criado _**para a comunidade Steam Deck**_  de falantes da língua Portuguesa.
 
 Se você encontrar algum erro, alguma página que não estiver funcionando, link quebrado, imagem faltando ou qualquer outro problema, por favor nos avise.
 
-Para **contribuir com o Guia do Steam Deck**, você pode criar um [issue](https://github.com/valdecircarvalho/guia-do-steam-deck/issues) no repositório do Github, preencher [esse formulário](https://forms.gle/PA2i5HFoY5pu5JBL6) ou me mandar uma mensagem pelas minhas [redes sociais](https://iamval.me).
-
-> ### **__"A atenção é seu último recurso finito e sempre escasso!"__**. 
-
-Um dos muitos benefícios de uma comunidade é que ela ajuda a resolver o problema **"não sei o que não sei"**. Ao nos conectarmos a uma comunidade, somos expostos a uma base de conhecimento profunda, diversos pontos de vista e conexões que revelam recursos que nunca havíamos encontrado antes.
-
-Através do poder de compartilhar nossa experiência e recursos favoritos, podemos coletivamente priorizar nossa atenção no que tem maior impacto em nosso sucesso.
+Para **contribuir com o Guia do Steam Deck**, você pode criar um [issue](https://github.com/valdecircarvalho/guia-do-steam-deck/issues) no repositório do Github, preencher [esse formulário](https://forms.gle/PA2i5HFoY5pu5JBL6) ou mandar uma mensagem pelas minhas [redes sociais](https://iamval.me).
 
 ### Como você pode contribuir com O Guia do Steam Deck:
 
