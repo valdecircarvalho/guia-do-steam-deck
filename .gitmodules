@@ -1,0 +1,21 @@
+[submodule "content/guia/sources/steam-deck-utilities"]
+	path = content/guia/sources/steam-deck-utilities
+	url = https://github.com/CryoByte33/steam-deck-utilities.git
+[submodule "content/guia/sources/steamdeck-emulation"]
+	path = content/guia/sources/steamdeck-emulation
+	url = https://github.com/n1ckoates/steamdeck-emulation.git
+[submodule "content/guia/sources/awesome-steam-deck"]
+	path = content/guia/sources/awesome-steam-deck
+	url = https://github.com/matthewbarreiro/awesome-steam-deck.git
+[submodule "content/guia/sources/steam-deck-guide-en"]
+	path = content/guia/sources/steam-deck-guide-en
+	url = https://github.com/mikeroyal/Steam-Deck-Guide.git
+[submodule "content/guia/sources/steam-deck-guide-cn"]
+	path = content/guia/sources/steam-deck-guide-cn
+	url = https://github.com/feathersx/Steam-Deck-Guide.git
+[submodule "content/guia/sources/awesome-steamdeck"]
+	path = content/guia/sources/awesome-steamdeck
+	url = https://github.com/wilco42/awesome-steamdeck.git
+[submodule "content/guia/sources/emudeck-wiki"]
+	path = content/guia/sources/emudeck-wiki
+	url = https://github.com/dragoonDorise/EmuDeck.wiki.git
