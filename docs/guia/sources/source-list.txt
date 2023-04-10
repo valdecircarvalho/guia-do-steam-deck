@@ -1,0 +1,10 @@
+git submodule add https://github.com/CryoByte33/steam-deck-utilities.git steam-deck-utilities
+git submodule add https://github.com/n1ckoates/steamdeck-emulation.git steamdeck-emulation
+git submodule add https://github.com/matthewbarreiro/awesome-steam-deck.git awesome-steam-deck
+git submodule add https://github.com/mikeroyal/Steam-Deck-Guide.git steam-deck-guide-en
+git submodule add https://github.com/feathersx/Steam-Deck-Guide.git steam-deck-guide-cn
+git submodule add https://github.com/wilco42/awesome-steamdeck.git awesome-steamdeck
+git submodule add https://github.com/dragoonDorise/EmuDeck.wiki.git emudeck-wiki
+
+
+git submodule update --remote emudeck-wiki
