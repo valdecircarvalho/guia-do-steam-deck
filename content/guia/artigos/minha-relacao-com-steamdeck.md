@@ -1,6 +1,6 @@
 ---
 title: 'Artigo - Minha Relação com o Steam Deck'
-date: 2023-03-01T00:00:00+00:00
+date: 2024-03-01T00:00:00+00:00
 ## weight: 2
 summary: 'Um mês com o Steam Deck e como eu retomei o gosto por videoogames'
 slug: 'minha-relacao-como-o-steam-deck'

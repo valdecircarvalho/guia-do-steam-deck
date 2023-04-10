@@ -5,6 +5,11 @@ theme = "hugo-whisper-theme"
 languageCode = "pt-br"
 publishDir = "docs"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+      
 ## My Settings
 uglyURLs = false
 posts = '/:title/'
@@ -45,17 +50,6 @@ summaryLength = 30
      url = "/guia/como-contribuir-com-o-guia-do-steam-deck"
      weight = 5
 
-
-[[menu.main]]
-     name = "Artigos"
-     url = "/guia/artigos/"
-     weight = 4
-
-[[menu.main]]
-     name = "Novidades sobre o Steam Deck"
-     url = "/guia/news/"
-     weight = 3
-
 [[menu.main]]
     name = "Twitter @guiadosteamdeck"
     url = "https://twitter.com/guiadosteamdeck"
@@ -84,3 +78,4 @@ summaryLength = 30
   [params.logo]
       mobile = "/images/logo.svg"
       standard  = "/images/logo.svg"
+
