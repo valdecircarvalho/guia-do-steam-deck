@@ -5,11 +5,11 @@ Conteúdo sobre **_Steam Deck_** em Português compilado, produzido, adaptado e 
 
 [![O Guia do Steam Deck](o-guia-do-steam-deck.png)](https://guiadosteamdeck.com.br/)
 
-Seja bem-vindo(a)(e) Guia do Steam Deck. 
+Seja bem-vindo(a)(e) ao Guia do Steam Deck. 
 
 Eu sou o **Valdecir Carvalho**, criador e idealizador do **O Guia do Steam Deck**. 
 
-O Guia do Steam Deck foi criado no início de Março de 2023 e a minha maior motivação foi que eu comprei um Steam Deck e não encontrei quase nenhum conteúdo em Português sobre o console. 
+O Guia do Steam Deck foi criado no início de Março de 2023 e a minha maior motivação foi que eu comprei um Steam Deck e não encontrei quase nenhum conteúdo em Português sobre o console. Essa é a terceira versão do Guia e acredito que agora, é a definitiva :) 
 
 Notei que a comunidade de usuários de Steam Deck no Brasil estava crescendo cada vez mais, basta olhar os grupos de Facebook, grupos do Telegram, etc para ver que a cada dia, mais e mais pessoas estão se decidindo por comprar o seu Steam Deck.
 
