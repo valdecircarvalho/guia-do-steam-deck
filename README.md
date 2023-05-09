@@ -3,7 +3,7 @@
 
 Conteúdo sobre **_Steam Deck_** em Português compilado, produzido, adaptado e traduzido por [Valdecir Carvalho](https://iamval.me).
 
-[![O Guia do Steam Deck](o-guia-do-steam-deck.png)](https://guiadosteamdeck.com.br/)
+[![O Guia do Steam Deck](/docs/img/o-guia-do-steam-deck.png)](https://guiadosteamdeck.com.br/)
 
 Seja bem-vindo(a)(e) ao Guia do Steam Deck. 
 

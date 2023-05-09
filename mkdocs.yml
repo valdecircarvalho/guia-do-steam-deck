@@ -10,10 +10,10 @@ site_url: https://guiadosteamdeck.com.br/
   # bootstrap386 - https://gitlab.com/lramage/mkdocs-bootstrap386
   # gitbook - https://gitlab.com/lramage/mkdocs-gitbook-theme
 # site_dir: ""
-site_description: ""
-site_author: ""
+site_description: "O Guia do Steam Deck - Conteúdo, recursos e muito mais sobre o Steam Deck em Português. Tudo o que você precisa saber sobre o Steam Deck está aqui. Conteúdo compilado, produzido, adaptado e traduzido por Valdecir Carvalho"
+site_author: "Valdecir Carvalho - iamval.me"
 copyright: >
-  Copyright &copy; 2023 - Guia do Steam Deck por Valdecir Carvalho.
+  Copyright &copy; 2023 - Guia do Steam Deck (v3) por Valdecir Carvalho.
   <a href="#__consent"></a>
 
 #repo_url: https://github.com/valdecircarvalho/guia-do-steam-deck/
@@ -41,11 +41,8 @@ plugins:
       tags_file: tags.md
       tags_slugify: headerid.slugify
       tags_slugify_separator: "-"
-#  - social:
-#      cards_color:
-#        fill: "#0FF1CE" 
-#        text: "#FFFFFF"
-
+  #- social:
+  #   cards_layout: default/variant
 
 
 
@@ -221,5 +218,6 @@ nav:
   - Sobre o Guia do Steam Deck: sobre.md
   - Contribua com o Guia do Steam Deck: contribua.md
   - Tags: tags.md
+  - Depot: http://depot.guiadosteamdeck.com.br/
   #- Template: template.md
 
