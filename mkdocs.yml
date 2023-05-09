@@ -1,7 +1,7 @@
 docs_dir: 'source'
 site_dir: 'docs'
 site_name: O Guia do Steam Deck 
-#site_url: https://guiadosteamdeck.com.br/
+site_url: https://guiadosteamdeck.com.br/
 
 # Theme options: https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes
   # bootstrap4 - https://github.com/byrnereese/mkdocs-bootstrap4
