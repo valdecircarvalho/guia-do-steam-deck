@@ -1,0 +1,9 @@
+@mixin input-label {
+	font-weight: bold;
+	user-select: none;
+	transition: letter-spacing 0.3s;
+
+	&:hover {
+		letter-spacing: 0.04rem;
+	}
+}

@@ -1,54 +1,42 @@
-[submodule "content/guia/sources/steam-deck-utilities"]
-	path = content/guia/sources/steam-deck-utilities
-	url = https://github.com/CryoByte33/steam-deck-utilities.git
-[submodule "content/guia/sources/steamdeck-emulation"]
-	path = content/guia/sources/steamdeck-emulation
-	url = https://github.com/n1ckoates/steamdeck-emulation.git
-[submodule "content/guia/sources/awesome-steam-deck"]
-	path = content/guia/sources/awesome-steam-deck
-	url = https://github.com/matthewbarreiro/awesome-steam-deck.git
-[submodule "content/guia/sources/steam-deck-guide-en"]
-	path = content/guia/sources/steam-deck-guide-en
-	url = https://github.com/mikeroyal/Steam-Deck-Guide.git
-[submodule "content/guia/sources/steam-deck-guide-cn"]
-	path = content/guia/sources/steam-deck-guide-cn
-	url = https://github.com/feathersx/Steam-Deck-Guide.git
-[submodule "content/guia/sources/awesome-steamdeck"]
-	path = content/guia/sources/awesome-steamdeck
-	url = https://github.com/wilco42/awesome-steamdeck.git
-[submodule "content/guia/sources/emudeck-wiki"]
-	path = content/guia/sources/emudeck-wiki
+[submodule "aux-repos/emudeck-wiki"]
+	path = aux-repos/emudeck-wiki
 	url = https://github.com/dragoonDorise/EmuDeck.wiki.git
-[submodule "repos/emudeck-wiki"]
-	path = repos/emudeck-wiki
-	url = https://github.com/dragoonDorise/EmuDeck.wiki.git
-[submodule "repos/decky-loader"]
-	path = repos/decky-loader
+[submodule "aux-repos/decky-loader"]
+	path = aux-repos/decky-loader
 	url = https://github.com/SteamDeckHomebrew/decky-loader.git
-[submodule "repos/Steam-Deck-Guide"]
-	path = repos/Steam-Deck-Guide
+[submodule "aux-repos/Steam-Deck-Guide"]
+	path = aux-repos/Steam-Deck-Guide
 	url = https://github.com/mikeroyal/Steam-Deck-Guide.git
-[submodule "repos/steam-deck-utilities"]
-	path = repos/steam-deck-utilities
+[submodule "aux-repos/steam-deck-utilities"]
+	path = aux-repos/steam-deck-utilities
 	url = https://github.com/CryoByte33/steam-deck-utilities.git
-[submodule "repos/steam-deck-tools"]
-	path = repos/steam-deck-tools
+[submodule "aux-repos/steam-deck-tools"]
+	path = aux-repos/steam-deck-tools
 	url = https://github.com/ayufan/steam-deck-tools.git
-[submodule "repos/steamdeck-emulation"]
-	path = repos/steamdeck-emulation
+[submodule "aux-repos/steamdeck-emulation"]
+	path = aux-repos/steamdeck-emulation
 	url = https://github.com/n1ckoates/steamdeck-emulation.git
-[submodule "repos/SteamDeckAutomatedInstall"]
-	path = repos/SteamDeckAutomatedInstall
+[submodule "aux-repos/SteamDeckAutomatedInstall"]
+	path = aux-repos/SteamDeckAutomatedInstall
 	url = https://github.com/CelesteHeartsong/SteamDeckAutomatedInstall.git
-[submodule "repos/SteamDeck-Clover-dualboot"]
-	path = repos/SteamDeck-Clover-dualboot
+[submodule "aux-repos/SteamDeck-Clover-dualboot"]
+	path = aux-repos/SteamDeck-Clover-dualboot
 	url = https://github.com/ryanrudolfoba/SteamDeck-Clover-dualboot.git
-[submodule "repos/awesome-steam-deck"]
-	path = repos/awesome-steam-deck
+[submodule "aux-repos/awesome-steam-deck"]
+	path = aux-repos/awesome-steam-deck
 	url = https://github.com/matthewbarreiro/awesome-steam-deck.git
-[submodule "repos/steam-deck-romate"]
-	path = repos/steam-deck-romate
+[submodule "aux-repos/steam-deck-romate"]
+	path = aux-repos/steam-deck-romate
 	url = https://github.com/brenoprata10/steam-deck-romate.git
-[submodule "repos/awesome-steamdeck"]
-	path = repos/awesome-steamdeck
+[submodule "aux-repos/awesome-steamdeck"]
+	path = aux-repos/awesome-steamdeck
 	url = https://github.com/wilco42/awesome-steamdeck.git
+[submodule "aux-repos/Steam-Deck-Ultimate-Windows-Guide"]
+	path = aux-repos/Steam-Deck-Ultimate-Windows-Guide
+	url = https://github.com/baldsealion/Steam-Deck-Ultimate-Windows-Guide.git
+[submodule "aux-repos/steam-deck-tricks"]
+	path = aux-repos/steam-deck-tricks
+	url = https://github.com/popsUlfr/steam-deck-tricks.git
+[submodule "aux-repos/steamdeck-tips"]
+	path = aux-repos/steamdeck-tips
+	url = https://github.com/Matalus/steamdeck-tips.git

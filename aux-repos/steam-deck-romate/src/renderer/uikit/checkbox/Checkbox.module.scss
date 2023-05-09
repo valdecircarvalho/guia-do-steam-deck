@@ -1,0 +1,9 @@
+@use '../../scss/input.scss' as input;
+
+.checkbox {
+	@include input.input-label;
+
+	label {
+		cursor: pointer;
+	}
+}

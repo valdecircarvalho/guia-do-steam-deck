@@ -1,0 +1,16 @@
+.assets-grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(11rem, 1fr));
+	align-items: center;
+	justify-items: center;
+	gap: 1rem;
+
+	.item {
+		transition: 0.2s ease-in-out;
+		cursor: pointer;
+
+		&:hover {
+			transform: scale(1.1);
+		}
+	}
+}

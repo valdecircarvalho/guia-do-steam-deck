@@ -1,0 +1,8 @@
+enum ESetup {
+	EMU_DECK = 'EMU_DECK',
+	CREATE_PARSERS = 'CREATE_PARSERS',
+	STEAM_ASSETS = 'STEAM_ASSETS',
+	CUSTOM_FOLDER = 'CUSTOM_FOLDER'
+}
+
+export default ESetup

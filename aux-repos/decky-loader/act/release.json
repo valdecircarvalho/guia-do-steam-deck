@@ -1,0 +1,6 @@
+{
+  "inputs": {
+    "release": "release",
+    "bump": "none"
+  }
+}

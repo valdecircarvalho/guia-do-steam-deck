@@ -1,0 +1,40 @@
+https://github.com/Python-Markdown/markdown/wiki/Third-Party-Extensions
+https://python-markdown.github.io/extensions/
+
+
+
+pip install \
+    mkdocs \
+    mkdocs-material \
+    mkdocs-autolink-plugin \
+    mkdocs-minify-plugin \
+    pymdown-extensions \
+    mkdocs-git-revision-date-localized-plugin
+
+Plugins
+
+pip install mkdocs-minify-plugin
+pip install mkdocs-redirects
+pip install pillow cairosvg
+pip install mkdocs-awesome-pages-plugin - https://github.com/lukasgeiter/mkdocs-awesome-pages-plugin
+
+
+add submodules
+
+git submodule add https://github.com/dragoonDorise/EmuDeck.wiki.git emudeck-wiki
+git submodule add https://github.com/SteamDeckHomebrew/decky-loader.git
+git submodule add https://github.com/mikeroyal/Steam-Deck-Guide.git
+git submodule add https://github.com/CryoByte33/steam-deck-utilities.git
+git submodule add https://github.com/mikeroyal/Steam-Deck-Guide.git
+git submodule add https://github.com/ayufan/steam-deck-tools.git
+git submodule add https://github.com/n1ckoates/steamdeck-emulation.git
+git submodule add https://github.com/CelesteHeartsong/SteamDeckAutomatedInstall.git
+git submodule add https://github.com/ryanrudolfoba/SteamDeck-Clover-dualboot.git
+git submodule add https://github.com/matthewbarreiro/awesome-steam-deck.git
+git submodule add https://github.com/brenoprata10/steam-deck-romate.git
+git submodule add https://github.com/wilco42/awesome-steamdeck.git
+
+git submodule add https://github.com/XargonWan/RetroDECK.wiki.git
+git submodule add https://github.com/baldsealion/Steam-Deck-Ultimate-Windows-Guide.git
+git submodule add https://github.com/popsUlfr/steam-deck-tricks.git
+git submodule add https://github.com/Matalus/steamdeck-tips.git

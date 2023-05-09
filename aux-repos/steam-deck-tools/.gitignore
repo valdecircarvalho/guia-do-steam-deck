@@ -1,0 +1,11 @@
+bin/
+obj/
+/.vs/
+*.user
+build-Release/
+build-Debug/
+.vscode/
+scripts/Redist/
+SteamDeckTools_Setup*.exe
+GameProfiles/
+ControllerProfiles/

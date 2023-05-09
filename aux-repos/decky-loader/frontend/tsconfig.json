@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",
+    "target": "ES2021",
+    "jsx": "react",
+    "jsxFactory": "window.SP_REACT.createElement",
+    "jsxFragmentFactory": "window.SP_REACT.Fragment",
+    "declaration": false,
+    "moduleResolution": "node",
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "esModuleInterop": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "noImplicitAny": true,
+    "strict": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "allowSyntheticDefaultImports": true,
+    "skipLibCheck": true
+  },
+  "include": ["src", "index.d.ts"],
+  "exclude": ["node_modules"]
+}

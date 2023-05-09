@@ -1,0 +1,55 @@
+on:
+  push:
+    paths-ignore:
+      - '.github/workflows/build_release.yaml'
+      - 'RELEASE.md'
+  pull_request:
+
+env:
+  RELEASE_NAME: SteamDeckTools
+  DOTNET_VERSION: '6.0.x'
+
+jobs:
+  build-and-test:
+    runs-on: windows-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v1
+      with:
+        dotnet-version: ${{ env.DOTNET_VERSION }}
+    - name: Install dependencies
+      run: dotnet restore
+    - name: Build without Version
+      run: dotnet build --configuration Debug --output ${{ env.RELEASE_NAME }}-debug/
+    - name: Test
+      run: dotnet test --no-restore --verbosity normal
+    - uses: vimtor/action-zip@v1
+      with:
+        files: ${{ env.RELEASE_NAME }}-debug
+        dest: ${{ env.RELEASE_NAME }}-debug.zip
+        recursive: true
+    - name: Install NSIS
+      run: choco install nsis
+    - name: Create debug installer
+      uses: joncloud/makensis-action@v3.7
+      with:
+        script-file: scripts/SteamDeckTools_Setup.nsi
+        arguments:
+          /V3
+          /DUSE_WINGET
+          /DBUILD_DIR=../${{ env.RELEASE_NAME }}-debug
+          /DOUTPUT_FILE=../${{ env.RELEASE_NAME }}-setup-debug.exe
+    - name: 'Upload Artifact debug.zip'
+      uses: actions/upload-artifact@v3
+      with:
+        name: debug.zip
+        path: ${{ env.RELEASE_NAME }}-debug.zip
+        retention-days: 14
+    - name: 'Upload Artifact setup-debug.exe'
+      uses: actions/upload-artifact@v3
+      with:
+        name: setup-debug.exe
+        path: ${{ env.RELEASE_NAME }}-setup-debug.exe
+        retention-days: 14
+
