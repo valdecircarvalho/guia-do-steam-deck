@@ -21,79 +21,65 @@ O Steam Deck é um dispositivo portátil de jogos desenvolvido pela Valve. É um
 
 ## Especificações técnicas
 
-### Componentes
-- #### **Processamento**
-  - **Processador**
-    - APU da AMD
-    - CPU: Zen 2, 4c/8t, 2.4-3.5GHz (até 448 GFlops FP32)
-    - GPU: 8 unidades de computação de RDNA 2, 1.0-1.6GHz (até 1.6 TFlops FP32)
-    - Consumo da APU: 4-15W
-  - **RAM**
-    - 16 GB de RAM LPDDR5 integrada (quatro canais de 32 bits, 5500 MT/s)
-  - **Armazenamento**
-    - eMMC de 64 GB (PCIe Gen 2 x1)
-    - SSD NVMe de 256 GB (PCIe Gen 3 x4 ou PCIe Gen 3 x2*)
-    - SSD NVMe de 512 GB de alta velocidade (PCIe Gen 3 x4 ou PCIe Gen 3 x2*)
+| Processamento | |
+| --- | --- |
+| Processador | APU da AMD <br /> CPU: Zen 2, 4c/8t, 2.4-3.5GHz (até 448 GFlops FP32) <br /> GPU: 8 unidades de computação de RDNA 2, 1.0-1.6GHz (até 1.6 TFlops FP32) <br/> Consumo da APU: 4-15W |
+| RAM | 16 GB de RAM LPDDR5 integrada (quatro canais de 32 bits, 5500 MT/s) |
+| Armazenamento | eMMC de 64 GB (PCIe Gen 2 x1) <br /> SSD NVMe de 256 GB (PCIe Gen 3 x4 ou PCIe Gen 3 x2*) <br /> SSD NVMe de 512 GB de alta velocidade (PCIe Gen 3 x4 ou PCIe Gen 3 x2*)  <br /> <br /> *Todos os modelos usam módulos para sockets m.2 2230 (não concebidos para substituição pelo utilizador) <br /> *Todos os modelos incluem uma ranhura para cartão microSD de alta velocidade <br /> *Alguns modelos de 256 GB e 512 GB vêm com um SSD PCIe Gen 3 x2. Nos nossos testes, não reparámos em nenhuma diferença no desempenho de jogos entre os modelos x2 e x4. 
 
-      > - _Todos os modelos usam módulos para sockets m.2 2230 (não concebidos para substituição pelo utilizador)_
-      > - _Todos os modelos incluem uma ranhura para cartão microSD de alta velocidade_
-      > - _*Alguns modelos de 256 GB e 512 GB vêm com um SSD PCIe Gen 3 x2. Nos nossos testes, não reparámos em nenhuma diferença no desempenho de jogos entre os modelos x2 e x4._
+| Controles e botões|  |
+| --- | --- |
+| Controles de comando | Botões A B X Y <br /> D-pad <br /> Gatilhos analógicos L e R <br /> Botões superiores L e R <br /> Botões Ver e Menu <br /> 4 botões traseiros configuráveis |
+| Sticks | 2 sticks analógicos de tamanho standard com sensores de toque capacitivo integrados |
+| Resposta háptica | Resposta háptica de alta definição |
+| Trackpads | 2 trackpads quadrados de 32,5 mm² com feedback háptico <br /> Latência 55% melhor em comparação com o Comando Steam <br /> Sensíveis à pressão para configurar a força do clique |
+| Giroscópio | Unidade de medição inercial de 6 eixos |
 
-- #### **Controles e botões**
-    - **Controles de comando**
-      - Botões A, B, X, e Y
-      - D-pad
-      - Gatilhos analógicos L e R
-      - Botões superiores L e R
-      - Botões Select e Menu
-      - 4 botões traseiros configuráveis
-    - **Sticks**
-        - 2 sticks analógicos de tamanho standard com sensores de toque capacitivo integrados
-   - **Resposta háptica**
-      - Resposta háptica de alta definição
-    - **Trackpads**
-      - 2 trackpads quadrados de 32,5 mm² com feedback háptico
-      - Latência 55% melhor em comparação com o Comando Steam
-      - Sensíveis à pressão para configurar a força do clique
-    - **Giroscópio**
-      - Unidade de medição inercial de 6 eixos
+| Tela |  |
+| --- | --- |
+| Resolução | 1280 x 800 px (formato 16:10) |
+| Tipo | LCD IPS com "optical bonding" para melhor legibilidade |
+| Tamanho do tela | 7 polegadas na diagonal |
+| Luminosidade | 400 cd/m² (valor normal) |
+| Taxa de atualização | 60Hz |
+| Sensível ao toque | Sim |
+| Sensores | Sensor de luz ambiente |
 
-- #### **Tela**
-    - **Resolução** - 1280 x 800 px (formato 16:10)
-    - **Tipo** - LCD IPS com "optical bonding" para melhor legibilidade
-    - **Tamanho da tela** - 7 polegadas na diagonal
-    - **Luminosidade** - 400 cd/m² (valor normal)
-    - **Taxa de atualização** - 60Hz
-    - **Sensível ao toque** - Sim
-    - **Sensores** - Sensor de luz ambiente
+| Conectividade | |
+| --- | ---|
+| Bluetooth | Bluetooth 5.0 (compatível com comandos, acessórios e áudio) |
+| Wi-Fi | Rádio Wi-Fi de banda dupla, 2.4GHz e 5GHz, 2 x 2 MIMO, IEEE 802.11a/b/g/n/ac|
 
-- #### **Conectividade**
-    - **Bluetooth** - Bluetooth 5.0 (compatível com comandos, acessórios e áudio)
-    - **Wi-Fi** - Rádio Wi-Fi de banda dupla, 2.4GHz e 5GHz, 2 x 2 MIMO, IEEE 802.11a/b/g/n/ac
+| Áudio |  |
+| --- | --- |
+| Canais | Estéreo com DPS integrado para uma experiência auditiva imersiva |
+| Microfones | Microfone de matriz dupla |
+| Entrada para headphones/microfone | Entrada de 3,5 mm para headphones/headsets |
+| Digital | Áudio multicanal via DisplayPort por USB-C, USB-C standard ou Bluetooth 5.0 |
 
-- #### **Áudio**
-    - **Canais** - Estéreo com DPS integrado para uma experiência auditiva imersiva
-    - **Microfones** - Microfone de matriz dupla
-    - **Entrada para headphones/microfone** - Entrada de 3,5 mm para headphones/headsets
-    - **Digital** - Áudio multicanal via DisplayPort por USB-C, USB-C standard ou Bluetooth 5.0
 
-- #### **Energia**
-    - **Entrada** - Fonte de alimentação de 45W, USB tipo C PD3.0
-    - **Bateria** - Bateria de 40Whr, entre 2 e 8 horas de jogo
+| Energia |  |
+| --- | ------------------- |
+| Entrada | Fonte de alimentação de 45W, USB tipo C PD3.0 |
+| Bateria | Bateria de 40Whr, entre 2 e 8 horas de jogo |
 
-- #### **Expansão**
-    - **microSD** - UHS-I compatível com SD, SDXC e SDHC
-    - **Conectividade externa para comandos e monitores** - USB-C compatível com Alt-mode DisplayPort 1.4; até 8K a 60Hz ou 4K a 120Hz, USB 3.2 Gen 2
+| Expansão |  |
+| ------- | ------------------------------------ |
+| microSD | UHS-I compatível com SD, SDXC e SDHC |
+| Conectividade externa para comandos e monitores | USB-C compatível com Alt-mode DisplayPort 1.4; até 8K a 60Hz ou 4K a 120Hz, USB 3.2 Gen 2 |
 
-- #### **Tamanho e peso**
-    - **Tamanho**  - 298 mm x 117 mm x 49 mm
-    - **Peso** - Aprox. 669 gramas
+| Tamanho e peso | |
+| ------- | ---------------------- |
+| Tamanho | 298 mm x 117 mm x 49 mm |
+| Peso | Aprox. 669 gramas |
 
-- #### **Software**
-    - **Sistema operacional** - SteamOS 3.0 (baseado em Arch Linux)
-    - **Ambiente de trabalho** - KDE Plasma
+| Software |  |
+| ----------------- | ---------------------------------- |
+| Sistema operativo | SteamOS 3.0 (baseado em Arch Linux) |
+| Ambiente de trabalho | KDE Plasma |
 
 ----
+
 ## Modelos Disponíveis
 
 Existem atualmente **3 modelos de Steam Deck** disponíveis para compra e o que diferem um modelo do outro são basicamente a quantidade de armazenamento e a tela (no modelo de 512GB)
@@ -101,22 +87,22 @@ Existem atualmente **3 modelos de Steam Deck** disponíveis para compra e o que 
 ![Modelos Steam Deck](/img/modelos-steam-deck.png)
 
 - **Modelo 64 GB**
-  - $399.00 USD
-  - Case
-  - Memória eMMC (mais lenta)
-  - Carregador
+    - $399.00 USD
+    - Case
+    - Memória eMMC (mais lenta)
+    - Carregador
 
 - **Modelo 128 GB**
-  - $529.00 USD
-  - Case
-  - Memória NVME (mais rápida)
-  - Exclusivo Steam Community profile bundle
+    - $529.00 USD
+    - Case
+    - Memória NVME (mais rápida)
+    - Exclusivo Steam Community profile bundle
 
 - **Modelo 512GB**
-  - $649.00 USD
-  - Case exclusiva
-  - Tela anti-reflexo
-  - Memória NVME (mais rápida)
+    - $649.00 USD
+    - Case exclusiva
+    - Tela anti-reflexo
+    - Memória NVME (mais rápida)
 
 Aqui vale uma informação importante, **TODOS** os modelos do Steam Deck usam o SSD do modelo **M.2 2230** como da imagem abaixo.
 
