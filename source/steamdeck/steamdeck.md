@@ -106,7 +106,7 @@ Existem atualmente **3 modelos de Steam Deck** disponíveis para compra e o que 
 
 Aqui vale uma informação importante, **TODOS** os modelos do Steam Deck usam o SSD do modelo **M.2 2230** como da imagem abaixo.
 
-Aqui uma imagem com os principais modelos de SSD M.2 disponíveis no mercado, o maior, modelo **2280** é o mais utilizado notebooks e PCs e o mais barato e faacilmente encontrados nos sites de e-commerce do Brasil. Esse modelo **NÃO É COMPATÍVEL COM O STEAM DECK**!
+Essa é uma imagem com os principais modelos de SSD M.2 disponíveis no mercado, o maior, modelo **2280** é o mais utilizado notebooks e PCs e o mais barato e facilmente encontrados nos sites de e-commerce do Brasil. Esse modelo **NÃO É COMPATÍVEL COM O STEAM DECK**! O modelo correto para o seu Steam Deck é o menor, 2230.
 
 ![Modelos de SSD M.2](/img/ssd-m2-modelos.png)
 
