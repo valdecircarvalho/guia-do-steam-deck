@@ -127,6 +127,9 @@ Como dito anteriormente, a Valve criou um game especialmente para isso e de queb
 
 ### Instale seus jogos preferidos
 
+### Explore o Modo Desktop do Steam Deck
+
+
 ### Links Úteis
 
 !!! tip "Links Úteis"

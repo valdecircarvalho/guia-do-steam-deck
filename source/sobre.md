@@ -1,4 +1,4 @@
-![Sobre o Guia do Steam Deck - Insert Coin](/images/insert-coin.png)
+![Sobre o Guia do Steam Deck - Insert Coin](/img/insert-coin.png)
 
 Seja bem-vindo(a)(e) Guia do Steam Deck. 
 

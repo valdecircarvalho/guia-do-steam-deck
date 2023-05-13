@@ -1,7 +1,6 @@
 # Tags
 
-Following is a list of relevant tags:
+Navegue pelo site usando as tags abaixo: 
 
 [TAGS]
 
-Texto Depois das Tags
