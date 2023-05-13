@@ -70,3 +70,5 @@ E essas são uma coleção das configurações mais importantes que analisamos a
 
 
 Tradução Livre para o Português. Fonte: https://steamdeckhq.com/tips-and-guides/the-sdhq-performance-settings-encyclopedia/
+
+Mais aqui >> https://overkill.wtf/how-to-graphic-settings-steam-deck/

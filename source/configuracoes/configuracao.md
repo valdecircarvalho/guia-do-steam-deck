@@ -51,19 +51,79 @@ Para atualizar, ligue, pressione o botão ```Steam``` e role para baixo até ```
 
 Talvez seja melhor não mudar se tiver medo de estragar as coisas. **Stable** é a opção mais segura. 
 
-![Modelos de SSD M.2](/img/updates.jpeg)
+![Steam Deck Updates](/img/updates.jpeg)
 
 Certifique-se de tocar em ```Check for updates``` se há atualizações e deixe tudo instalar.
 
 ### Procure por possíveis problemas
 
+Depois de instalar todas as atualizações, é hora de verificar se há algum problema no Steam Deck.
+
+Aqui estão alguns dos problemas mais frequentes do Steam Deck mencionados pela comunidade:
+
+- Botões de ombro morto
+- Pixels mortos
+- Bolhas sob a tela
+- Botões pegajosos/sticky ABXY — o botão B parece especialmente propenso a isso
+- Ventilador irritantemente alto
+
+Se você se deparar com algum desses e tiver certeza de que não é um problema de software, talvez seja necessário [entrar em contato com o suporte da Valve](https://help.steampowered.com/en/wizard/HelpWithSteamDeck)
+
+O próximo passo a fazer é testar suas entradas:
+
+- Clique no botão ```Steam```.
+- Vá para ```Settings``` e depois para ```Controller```.
+- Clique em ```Test Device Inputs``` e siga as instruções.
+
+A Valve criou um game especialmente para isso e de quebra, ajuda você a se acostumar com os controles do Steam Deck e é um game totalmente grátis e bem legalzinho para se acostumar.
+
+![](/img/Aperture-Desk-Job-Steam-Deck-Game.png)
+
+[Aperture Deck Job](https://store.steampowered.com/app/1902490/Aperture_Desk_Job/)
+
+
+!!! tip "Dica"
+    Se o seu Steam Deck parar de responder, você pode forçar uma reinicialização pressionando o ```botão liga / desliga``` por três segundos. Se o Steam Deck ainda não responder, pode ser um problema no nível do sistema operacional - tente segurar o ```botão liga / desliga``` por dez segundos.
+.
+
 ### Faça a calibração da bateria
+
+Às vezes, a bateria não parece calibrada corretamente de fábrica e seu Steam Deck pode relatar uma porcentagem de integridade da bateria significativamente menor do que a realmente correta. Eu tive esse problema, pois meu Steam Deck exibia uma capacidade máxima de bateria de 82% na primeira vez que o inicializei, em vez dos 100 esperados. Se você tiver problemas semelhantes, continue lendo.
+
+Antes de entrar em pânico, uma maneira de resolver esse problema, se for realmente um problema simples de calibração, é calibrá-lo adequadamente. Aqui está o que você precisa fazer:
+
+1. Jogue um jogo até que seu Steam Deck desligue. Se o LED de energia piscar três vezes, você precisará conectar o carregador para a próxima etapa. Caso contrário, o Steam Deck não liga.
+2. Com o Steam Deck desligado, segure o botão de aumentar o volume enquanto pressiona o botão liga/desliga. Isso inicializará no menu do BIOS. Você deseja permanecer neste menu até que o Steam Deck seja desligado. Em seguida, repita uma ou duas vezes até que o Deck desligue antes que você consiga acessar o menu do BIOS. Você pode conectar brevemente o carregador para chegar até aqui. (Resumidamente, você não deseja carregar o Steam Deck. Apenas o suficiente para ligar o Deck e, em seguida, desconecte-o imediatamente.)
+3. Em seguida, queremos carregar o Steam Deck durante a noite enquanto estiver desligado. Se o Steam Deck ligar automaticamente, desligue imediatamente o carregador e volte a ligá-lo quando o Steam Deck se desligar novamente.
+4. Após cerca de 8 horas no carregador, ele deve estar totalmente carregado. Ligue-o e verifique a integridade da bateria na barra de tarefas. Para isso, você precisa alternar para o modo Desktop ou instalar o plug-in de saúde da bateria para Decky seguindo este guia.
+5. Para inicializar no modo Desktop, clique no botão Steam, vá para Power e depois em Switch to Desktop. Aguarde o Deck reiniciar.
+6. De volta ao modo Desktop, você encontrará a integridade da bateria na barra de tarefas. Deve estar acima de 90%, mas não necessariamente em 100% (embora possa estar em 100%). Há sempre uma pequena margem de erro.
+   
+!!! warning "Observação"
+    Observação: as etapas de bateria acima são necessárias apenas se você estiver enfrentando algum tipo de problema de integridade da bateria.
 
 ### Navegue pelos menus
 
+Navegue pelos menus do Steam Deck. Não tenha medo, se algo der errado, você sempre pode reiniciar o seu Steam Deck como de fábrica. 
+
+Se você pressionar o botão de três pontos, também conhecido como menu de acesso rápido, verá um painel deslizar da direita. Está dividido em vários grupos, todos identificáveis por um ícone.
+
+- O ícone de sino é a guia Notificações. Aqui você vê a atividade de seus amigos e outras notificações.
+- A próxima guia é a guia de amigos e é bastante autoexplicativa.
+- O ícone de engrenagem representa as configurações rápidas. Aqui você pode alterar os níveis de brilho e áudio, ativar diferentes opções de conectividade (Wi-Fi, Bluetooth, etc.) e ativar o Rumble e o Steam Haptics.
+- O ícone da bateria é a guia Desempenho
+- O ponto de interrogação é a seção de ajuda do menu.
+
 ### Instale um jogo para se acostumar com os controles
 
-Aperture Desk Job - https://store.steampowered.com/app/1902490/Aperture_Desk_Job/
+Como dito anteriormente, a Valve criou um game especialmente para isso e de quebra, ajuda você a se acostumar com os controles do Steam Deck e é um game totalmente grátis e bem legalzinho para se acostumar.
+
+!!! tip "Conta Steam"
+      Para instalar um jogo da Steam, você irá precisar ter uma conta Steam, caso ainda não tenha uma. Veja como criar uma conta [aqui](/configuracoes/conta-steam)
+
+![](/img/Aperture-Desk-Job-Steam-Deck-Game.png)
+
+[Aperture Deck Job](https://store.steampowered.com/app/1902490/Aperture_Desk_Job/)
 
 ### Instale seus jogos preferidos
 
