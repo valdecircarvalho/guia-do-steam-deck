@@ -154,7 +154,10 @@ extra:
       link: https://github.com/valdecircarvalho
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/guiadosteamdeck
-
+  
+  analytics:
+    provider: google
+    property: G-GN0G1F8Y3X
 
 # Navigation Menu
 
