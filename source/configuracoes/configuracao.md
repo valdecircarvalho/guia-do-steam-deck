@@ -25,19 +25,19 @@ Após tirar o seu novo Steam Deck da caixa - aprecie cada momento do unbox - dê
 
 ![Modelos de SSD M.2](/img/steamdeck-fechado.jpg)
 
-Caso esteja usando o seu Steam Deck pela primeira vez, você precisará deixá-lo ligado na tomada por alguns minutos usando a fonte de alimentação fornecida para despertá-lo do modo de economia de energia configurado de fábrica. 
+- Caso esteja usando o seu Steam Deck pela primeira vez, você precisará deixá-lo ligado na tomada por alguns minutos usando a fonte de alimentação fornecida para despertá-lo do modo de economia de energia configurado de fábrica. 
 
-Caso já tenha usado o seu Steam Deck antes, mas ele não esteja ligando, coloque-o para carregar e verifique o LED ao lado da porta de carregamento.
+- Caso já tenha usado o seu Steam Deck antes, mas ele não esteja ligando, coloque-o para carregar e verifique o LED ao lado da porta de carregamento.
 
-Caso o LED esteja ligado, então o dispositivo está recebendo carga. O LED permanecerá aceso mesmo depois que a bateria estiver totalmente carregada.
+- Caso o LED esteja ligado, então o dispositivo está recebendo carga. O LED permanecerá aceso mesmo depois que a bateria estiver totalmente carregada.
 
-Caso o LED pisque depois de apertar o botão Ligar/Desligar, a bateria está descarregada. Conecte o dispositivo à tomada usando a fonte fornecida, confirme que o LED está aceso e deixe-o carregando por 15 minutos ou mais antes de tentar ligá-lo novamente.
+- Caso o LED pisque depois de apertar o botão Ligar/Desligar, a bateria está descarregada. Conecte o dispositivo à tomada usando a fonte fornecida, confirme que o LED está aceso e deixe-o carregando por 15 minutos ou mais antes de tentar ligá-lo novamente.
 
-Caso o Steam Deck pareça estar carregando normalmente, mas o botão Ligar/Desligar não responde, tente segurá-lo junto com o botão Aumentar Volume (+) até a tela ligar, e então selecione Continuar (ou Continue) para inicializar a partir das opções do BIOS.
+- Caso o Steam Deck pareça estar carregando normalmente, mas o botão Ligar/Desligar não responde, tente segurá-lo junto com o botão Aumentar Volume (+) até a tela ligar, e então selecione Continuar (ou Continue) para inicializar a partir das opções do BIOS.
 
-Se você deixar o seu dispositivo carregando por muito tempo, é possível que indique ter menos de 100% de bateria. Isto é normal. Quando o dispositivo fica muito tempo carregando, é proposital que a bateria descarregue lentamente para otimizar o seu funcionamento a longo prazo.
+- Se você deixar o seu dispositivo carregando por muito tempo, é possível que indique ter menos de 100% de bateria. Isto é normal. Quando o dispositivo fica muito tempo carregando, é proposital que a bateria descarregue lentamente para otimizar o seu funcionamento a longo prazo.
 
-O Steam Deck usa USB Power Delivery e não é compatível com outras especificações de carga rápida.
+- O Steam Deck usa USB Power Delivery e não é compatível com outras especificações de carga rápida.
 
 ### Updates
 
