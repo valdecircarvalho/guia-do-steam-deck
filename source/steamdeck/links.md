@@ -137,6 +137,7 @@ Mais algumas contas no Twitter que vale a pena seguir e que falam sobre Steam De
 
 ### Steam Deck no Github :fontawesome-solid-person-digging:
 
++ [Guia do Steam Deck por @rodrigonogueira](https://github.com/rodrigonogueira/guia_steam_deck/wiki)
 + [A plugin loader for the Steam Deck.](https://github.com/SteamDeckHomebrew/decky-loader)
 + [Steam Deck Guide](https://github.com/mikeroyal/Steam-Deck-Guide)
 + [A utility to improve performance and help manage storage on Steam Deck](https://github.com/CryoByte33/steam-deck-utilities)
