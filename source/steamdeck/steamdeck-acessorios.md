@@ -1,6 +1,6 @@
 ---
 title:  Impressão 3D e o Steam Deck#aparece no titulo do navegador
-description:  Acessórios do Steam Deck feitas com impressão 3D # descrição para meta tag
+description:  Acessórios do Steam Deck feitas com impressão 3D 
 authors:
     - Valdecir Carvalho
 date: 2023-04-01

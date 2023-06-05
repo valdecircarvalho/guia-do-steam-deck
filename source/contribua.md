@@ -1,6 +1,6 @@
 ---
-title: Como contribuir com o Guia do Steam Deck #aparece no titulo do navegador
-description: Como contribuir com o Guia do Steam Deck # descrição para meta tag
+title: Como contribuir com o Guia do Steam Deck 
+description: Como contribuir com o Guia do Steam Deck 
 authors:
     - Valdecir Carvalho
 date: 2023-04-01

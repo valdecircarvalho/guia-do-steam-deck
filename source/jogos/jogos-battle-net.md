@@ -1,6 +1,6 @@
 ---
-title: Como instalar jogos Battle.net no Steam Deck #aparece no titulo do navegador
-description: Como instalar jogos Battle.net no Steam Deck # descrição para meta tag
+title: Como instalar jogos Battle.net no Steam Deck 
+description: Como instalar jogos Battle.net no Steam Deck 
 authors:
     - Valdecir Carvalho
 date: 2023-04-01

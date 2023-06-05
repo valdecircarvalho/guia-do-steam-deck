@@ -1,6 +1,6 @@
 ---
-title:  Retrodeck #aparece no titulo do navegador
-description:  # descrição para meta tag
+title:  Retrodeck 
+description:  
 authors:
     - Valdecir Carvalho
 date: 2023-04-01

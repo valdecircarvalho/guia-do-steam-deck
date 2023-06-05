@@ -1,6 +1,6 @@
 ---
-title: Windows no Steam Deck #aparece no titulo do navegador
-description: Windows no Steam Deck # descrição para meta tag
+title: Windows no Steam Deck 
+description: Windows no Steam Deck 
 authors:
     - Valdecir Carvalho
 date: 2023-04-01

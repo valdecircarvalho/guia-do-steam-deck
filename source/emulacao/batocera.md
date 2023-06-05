@@ -1,6 +1,6 @@
 ---
-title:  Batocera #aparece no titulo do navegador
-description:  # descrição para meta tag
+title:  Batocera 
+description:  
 authors:
     - Valdecir Carvalho
 date: 2023-04-01

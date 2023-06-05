@@ -1,6 +1,6 @@
 ---
-title: Emulação no Steam Deck - Home #aparece no titulo do navegador
-description: O Guia do Steam Deck # descrição para meta tag
+title: Emulação no Steam Deck - Home 
+description: O Guia do Steam Deck 
 authors:
     - Valdecir Carvalho
 date: 2023-04-01

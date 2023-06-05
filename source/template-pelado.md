@@ -1,6 +1,6 @@
 ---
-title:  #aparece no titulo do navegador
-description:  # descrição para meta tag
+title:  
+description:  
 authors:
     - Valdecir Carvalho
 date: 2023-04-01

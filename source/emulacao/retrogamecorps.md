@@ -1,5 +1,5 @@
 ---
-title: Guia de Emulação para o Steam Deck - Retro Game Corp #aparece no titulo do navegador
+title: Guia de Emulação para o Steam Deck - Retro Game Corp 
 description: Guia de Emulação para o Steam Deck por Russ Crandall - Retro Game Corps# descrição para meta tag
 authors:
     - Valdecir Carvalho

@@ -1,6 +1,6 @@
 ---
-title: O Steam Deck #aparece no titulo do navegador
-description: O que é o Steam Deck # descrição para meta tag
+title: O Steam Deck 
+description: O que é o Steam Deck 
 authors:
     - Valdecir Carvalho
 date: 2023-04-01

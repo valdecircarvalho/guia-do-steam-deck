@@ -1,6 +1,6 @@
 ---
-title: Configurações do Steam Deck #aparece no titulo do navegador
-description: Configurações do Steam Deck # descrição para meta tag
+title: Configurações do Steam Deck 
+description: Configurações do Steam Deck 
 authors:
     - Valdecir Carvalho
 date: 2023-04-01

@@ -1,6 +1,6 @@
 ---
-title: Shadow of Mordor #aparece no titulo do navegador
-description: Shadow of Mordor # descrição para meta tag
+title: Shadow of Mordor 
+description: Shadow of Mordor 
 authors:
     - Valdecir Carvalho
 date: 2023-04-01

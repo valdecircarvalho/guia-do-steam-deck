@@ -1,6 +1,6 @@
 ---
-title: Links sobre o Steam Deck #aparece no titulo do navegador
-description: Links sobre o Steam Deck # descrição para meta tag
+title: Links sobre o Steam Deck 
+description: Links sobre o Steam Deck 
 authors:
     - Valdecir Carvalho
 date: 2023-04-01

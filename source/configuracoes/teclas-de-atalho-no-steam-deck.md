@@ -1,6 +1,6 @@
 ---
-title: Teclas de Atalho no Steam Deck #aparece no titulo do navegador
-description: Lista de Teclas de Atalho no Steam Deck # descrição para meta tag
+title: Teclas de Atalho no Steam Deck 
+description: Lista de Teclas de Atalho no Steam Deck 
 authors:
     - Valdecir Carvalho
 date: 2023-04-01

@@ -1,5 +1,5 @@
 ---
-title: ProtonDB #aparece no titulo do navegador
+title: ProtonDB 
 description:   O que é o ProtonDB? Como usar, níveis de compatibilidade de jogos, configurações, etc.# descrição para meta tag
 authors:
     - Valdecir Carvalho

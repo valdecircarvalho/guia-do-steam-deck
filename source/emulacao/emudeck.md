@@ -1,6 +1,6 @@
 ---
-title: Emu Deck #aparece no titulo do navegador
-description: O Emu Deck - O melhor sistema de emulação para o Steam Deck # descrição para meta tag
+title: Emu Deck 
+description: O Emu Deck - O melhor sistema de emulação para o Steam Deck 
 authors:
     - Valdecir Carvalho
 date: 2023-04-01

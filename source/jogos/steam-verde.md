@@ -1,6 +1,6 @@
 ---
-title: Steam Verde #aparece no titulo do navegador
-description: Steam Verde - Sites para baixar jogos de forma não-oficial  # descrição para meta tag
+title: Steam Verde 
+description: Steam Verde - Sites para baixar jogos de forma não-oficial  
 authors:
     - Valdecir Carvalho
 date: 2023-04-01

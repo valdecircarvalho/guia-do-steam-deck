@@ -1,6 +1,6 @@
 ---
-title: Emulação no Steam Deck - O Guia descomplicado do Emudeck #aparece no titulo do navegador
-description: O Guia descomplicado do Emudeck - Parte 1 - Nesse guia, iremos falar sobre todos os detalhes sobre o uso do Emudeck no Steam Deck # descrição para meta tag
+title: Emulação no Steam Deck - O Guia descomplicado do Emudeck 
+description: O Guia descomplicado do Emudeck - Parte 1 - Nesse guia, iremos falar sobre todos os detalhes sobre o uso do Emudeck no Steam Deck 
 authors:
     - Valdecir Carvalho
 date: 2023-04-01

@@ -1,6 +1,6 @@
 ---
-title: Emulação no Steam Deck - Roms Megathread #aparece no titulo do navegador
-description: Emulação no Steam Deck - Roms Megathread # descrição para meta tag
+title: Emulação no Steam Deck - Roms Megathread 
+description: Emulação no Steam Deck - Roms Megathread 
 authors:
     - Valdecir Carvalho
 date: 2023-04-01

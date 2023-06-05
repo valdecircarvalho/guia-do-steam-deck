@@ -1,6 +1,6 @@
 ---
-title: Outros sites para comprar jogos Steam #aparece no titulo do navegador
-description: Outros sites para comprar jogos Steam  # descrição para meta tag
+title: Outros sites para comprar jogos Steam 
+description: Outros sites para comprar jogos Steam  
 authors:
     - Valdecir Carvalho
 date: 2023-04-01

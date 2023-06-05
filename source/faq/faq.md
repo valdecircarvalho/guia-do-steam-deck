@@ -1,6 +1,6 @@
 ---
-title: FAQ & Dúvidas #aparece no titulo do navegador
-description: FAQ & Dúvidas sobre o Steam Deck # descrição para meta tag
+title: FAQ & Dúvidas 
+description: FAQ & Dúvidas sobre o Steam Deck 
 authors:
     - Valdecir Carvalho
 date: 2023-04-01

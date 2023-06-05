@@ -1,6 +1,6 @@
 ---
-title: Game Config #aparece no titulo do navegador
-description: Configurações Recomendadas para jogos no Steam Deck # descrição para meta tag
+title: Game Config 
+description: Configurações Recomendadas para jogos no Steam Deck 
 authors:
     - Valdecir Carvalho
 date: 2023-04-01

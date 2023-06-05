@@ -1,6 +1,6 @@
 ---
-title: Conta Steam #aparece no titulo do navegador
-description: Conta Steam # descrição para meta tag
+title: Conta Steam 
+description: Conta Steam 
 authors:
     - Valdecir Carvalho
 date: 2023-04-01

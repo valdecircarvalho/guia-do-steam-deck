@@ -1,6 +1,6 @@
 ---
-title: Título da Página no Navegador #aparece no titulo do navegador
-description: page description jabuticaba # descrição para meta tag
+title: Título da Página no Navegador 
+description: page description jabuticaba 
 authors:
     - Valdecir Carvalho
 date: 2023-04-01

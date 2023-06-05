@@ -1,6 +1,6 @@
 ---
-title: 50 dicas & truques sobre o Steam Deck #aparece no titulo do navegador
-description: 50 dicas & truques sobre o Steam Deck # descrição para meta tag
+title: 50 dicas & truques sobre o Steam Deck 
+description: 50 dicas & truques sobre o Steam Deck 
 authors:
     - Valdecir Carvalho
 date: 2023-04-01

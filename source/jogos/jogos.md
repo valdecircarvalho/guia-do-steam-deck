@@ -1,6 +1,6 @@
 ---
-title: Jogos no Steam Deck #aparece no titulo do navegador
-description: Jogos no Steam Deck # descrição para meta tag
+title: Jogos no Steam Deck 
+description: Jogos no Steam Deck 
 authors:
     - Valdecir Carvalho
 date: 2023-04-01

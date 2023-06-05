@@ -1,6 +1,6 @@
 ---
-title: Upgrade do SSD - Passo-a-Passo #aparece no titulo do navegador
-description: Upgrade do SSD - Passo-a-Passo # descrição para meta tag
+title: Upgrade do SSD - Passo-a-Passo 
+description: Upgrade do SSD - Passo-a-Passo 
 authors:
     - Valdecir Carvalho
 date: 2023-04-01
