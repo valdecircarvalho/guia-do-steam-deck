@@ -291,6 +291,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://guiadosteamdeck.com.br/jogos/games-mega-thread-1/</loc>
+         <lastmod>2023-06-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://guiadosteamdeck.com.br/jogos/jogos-alternativos-steam-deck/</loc>
          <lastmod>2023-06-05</lastmod>
          <changefreq>daily</changefreq>
@@ -332,6 +337,11 @@
     </url>
     <url>
          <loc>https://guiadosteamdeck.com.br/jogos/protondb/</loc>
+         <lastmod>2023-06-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://guiadosteamdeck.com.br/jogos/steam-verde/</loc>
          <lastmod>2023-06-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
