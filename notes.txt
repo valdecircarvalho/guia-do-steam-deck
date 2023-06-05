@@ -19,6 +19,10 @@ pip install pillow cairosvg
 pip install mkdocs-awesome-pages-plugin - https://github.com/lukasgeiter/mkdocs-awesome-pages-plugin
 
 
+pip install mkdocs-open-in-new-tab (https://github.com/JakubAndrysek/mkdocs-open-in-new-tab)
+
+
+
 add submodules
 
 git submodule add https://github.com/dragoonDorise/EmuDeck.wiki.git emudeck-wiki
@@ -38,3 +42,6 @@ git submodule add https://github.com/XargonWan/RetroDECK.wiki.git
 git submodule add https://github.com/baldsealion/Steam-Deck-Ultimate-Windows-Guide.git
 git submodule add https://github.com/popsUlfr/steam-deck-tricks.git
 git submodule add https://github.com/Matalus/steamdeck-tips.git
+
+
+git submodule add https://gitlab.com/r-roms/megathread.git

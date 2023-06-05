@@ -40,3 +40,6 @@
 [submodule "aux-repos/steamdeck-tips"]
 	path = aux-repos/steamdeck-tips
 	url = https://github.com/Matalus/steamdeck-tips.git
+[submodule "aux-repos/megathread"]
+	path = aux-repos/megathread
+	url = https://gitlab.com/r-roms/megathread.git
