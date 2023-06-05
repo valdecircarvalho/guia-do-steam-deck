@@ -29,3 +29,12 @@ tags:
 - [Steam Deck Ultimate Windows Guide](https://baldsealion.github.io/Steam-Deck-Ultimate-Windows-Guide/)
 
 ## Dúvidas Frequentes e Solução de Problemas
+
+## Links
+
+- [SteamedWindows - A version of Windows 10 for the Steam Deck](https://github.com/RedPrez16/SteamedWindows)
+- [(Windows) Steam Deck Tools](https://github.com/ayufan/steam-deck-tools)
+- [Steam Deck - Installing Clover for Dual Boot Between SteamOS and Windows](https://github.com/ryanrudolfoba/SteamDeck-Clover-dualboot)
+- [WinDeckHelper](https://github.com/anejolov/WinDeckHelper)
+- [SteamDeck-Windows-Script](https://github.com/TomBayne/SteamDeck-Windows-Script)
+- [Steam Deck Windows 11 Ultimate Configuration](https://github.com/Gotcha007/steamdeck-configuration-ultime-windows11/wiki)
