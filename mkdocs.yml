@@ -110,7 +110,7 @@ theme:
         icon: material/lightbulb-outline
         name: Modo Claro
   features:
-    - navigation.instant
+    # - navigation.instant
     - navigation.tracking
     - navigation.tabs # habilitar depois de organizar
     - navigation.tabs.sticky  
