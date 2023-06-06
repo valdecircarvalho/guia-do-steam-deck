@@ -214,8 +214,8 @@ nav:
         - Outros Consoles: emulacao/outros/outros.md
     - Windows no Steam Deck: windows/windows.md
     - Hacks & Utilitários:
-        - Hacks & Utilitários para o Steam Deck: hscks-e-utilitarios/hacks.md
-        - CryoUtilities: hscks-e-utilitarios/cryoutilities.md
+        - Hacks & Utilitários para o Steam Deck: hacks-e-utilitarios/hacks.md
+        - CryoUtilities: hacks-e-utilitarios/cryoutilities.md
     - Ajuda & Dicas: ajuda/ajuda.md
   #- Game Config: game-config/index.md
   - FAQ: faq/faq.md
