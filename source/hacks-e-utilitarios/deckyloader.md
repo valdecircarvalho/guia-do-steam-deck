@@ -17,8 +17,10 @@ tags:
 
 # Decky Loader
 
+- [Decky Loader Site Oficial](https://decky.xyz/)
 - [Decky Loader Github page](https://github.com/SteamDeckHomebrew/decky-loader)
-- [STEAM DECK PLUGINS](https://steamdecklife.com/category/steam-deck-plugins/)
+- [Decky Plugins - Site Oficial](https://plugins.deckbrew.xyz/)
+- [Plugins para o Steam Deck by SteamDeck Life](https://steamdecklife.com/category/steam-deck-plugins/)
 
 ## 📖 About
 
