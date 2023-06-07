@@ -13,7 +13,9 @@ site_url: https://guiadosteamdeck.com.br/
 site_description: "O Guia do Steam Deck - Conteúdo, recursos e muito mais sobre o Steam Deck em Português. Tudo o que você precisa saber sobre o Steam Deck está aqui. Conteúdo compilado, produzido, adaptado e traduzido por Valdecir Carvalho"
 site_author: "Valdecir Carvalho - iamval.me"
 copyright: >
-  Copyright &copy; 2023 - Guia do Steam Deck (v3) por Valdecir Carvalho.
+  Copyright &copy; 2023 - Guia do Steam Deck (v3) por Valdecir Carvalho. 
+  <br> Guia do Steam Deck is a fan project and is in no way associated with Valve and/or Steam. 
+  <br> The Steam Deck, logos, and images are property of Valve. All game images and logos are property of their respective owners.
   <a href="#__consent"></a>
 
 #repo_url: https://github.com/valdecircarvalho/guia-do-steam-deck/
@@ -152,10 +154,13 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/valdecircarvalho/guia-do-steam-deck
+      name: Github Guia do Steam Deck
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/guiadosteamdeck
+      name: Twitter Guia do Steam Deck @guiadosteamdeck
     - icon: fontawesome/solid/glasses
       link: https://valdecir.me
+      name: Valdecir Carvalho
   
   analytics:
     provider: google
