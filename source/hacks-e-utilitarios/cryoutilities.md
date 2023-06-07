@@ -28,7 +28,10 @@ O CryoUtilities está atualmente na versão 2.0 e essa versão trás um ganho ba
 
 Antes de instalar, recomendo que você leia o [FAQ](https://github.com/CryoByte33/steam-deck-utilities/blob/main/docs/faq.md) na página do desenvolvedor e também a página [Tweak Explanation](https://github.com/CryoByte33/steam-deck-utilities/blob/main/docs/tweak-explanation.md) onde você poderá ver exatamente o que o script faz no seu Deck, quais alterações e principalmente o motivo de cada alteração. 
 
-<Resumir o que faz o CryoUtilities>
+<Resumir aqui o que faz o CryoUtilities>
+
+- [Tradução da página Tweak Explanation em Português](tweak-explanation-pt-br.md)
+- [Tradução da página FAQ em Português](cyoutilities-faq-pt-br.md)
 
 ## Como instalar Cryoutilities no Steam Deck
 
