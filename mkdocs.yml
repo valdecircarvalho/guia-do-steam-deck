@@ -151,9 +151,11 @@ extra:
 
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/valdecircarvalho
+      link: https://github.com/valdecircarvalho/guia-do-steam-deck
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/guiadosteamdeck
+    - icon: fontawesome/solid/glasses
+      link: https://valdecir.me
   
   analytics:
     provider: google
