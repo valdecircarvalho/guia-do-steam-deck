@@ -1,0 +1,2406 @@
+
+<!doctype html>
+<html lang="pt" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Guia de Emulação para o Steam Deck por Russ Crandall - Retro Game Corps# descrição para meta tag">
+      
+      
+        <meta name="author" content="Valdecir Carvalho - iamval.me">
+      
+      
+        <link rel="canonical" href="https://guiadosteamdeck.com.br/emulacao/retrogamecorps/">
+      
+      
+        <link rel="prev" href="../guia1/">
+      
+      
+        <link rel="next" href="../packs-completos-de-emuladores-para-o-steam-deck/">
+      
+      <link rel="icon" href="/img/favicon.ico">
+      <meta name="generator" content="mkdocs-1.4.2, mkdocs-material-9.1.9">
+    
+    
+      
+        <title>Guia de Emulação para o Steam Deck - Retro Game Corp - O Guia do Steam Deck</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.85bb2934.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.a6bdf11c.min.css">
+      
+      
+
+    
+    
+    
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+
+  <script id="__analytics">function __md_analytics(){function n(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],n("js",new Date),n("config","G-GN0G1F8Y3X"),document.addEventListener("DOMContentLoaded",function(){document.forms.search&&document.forms.search.query.addEventListener("blur",function(){this.value&&n("event","search",{search_term:this.value})}),document$.subscribe(function(){var a=document.forms.feedback;if(void 0!==a)for(var e of a.querySelectorAll("[type=submit]"))e.addEventListener("click",function(e){e.preventDefault();var t=document.location.pathname,e=this.getAttribute("data-md-value");n("event","feedback",{page:t,data:e}),a.firstElementChild.disabled=!0;e=a.querySelector(".md-feedback__note [data-md-value='"+e+"']");e&&(e.hidden=!1)}),a.hidden=!1}),location$.subscribe(function(e){n("config","G-GN0G1F8Y3X",{page_path:e.pathname})})});var e=document.createElement("script");e.async=!0,e.src="https://www.googletagmanager.com/gtag/js?id=G-GN0G1F8Y3X",document.getElementById("__analytics").insertAdjacentElement("afterEnd",e)}</script>
+
+  
+    <script>var consent;"undefined"==typeof __md_analytics||(consent=__md_get("__consent"))&&consent.analytics&&__md_analytics()</script>
+  
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="light-blue" data-md-color-accent="light-blue">
+  
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#guia-inicial-de-emulação-para-steam-deck" class="md-skip">
+          Pular para conteúdo
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Cabeçalho">
+    <a href="../.." title="O Guia do Steam Deck" class="md-header__button md-logo" aria-label="O Guia do Steam Deck" data-md-component="logo">
+      
+  <img src="/img/guia-do-steam-deck-logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            O Guia do Steam Deck
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Guia de Emulação para o Steam Deck - Retro Game Corp
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+          
+            
+            
+            
+            <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="light-blue" data-md-color-accent="light-blue"  aria-label="Modo Escuro"  type="radio" name="__palette" id="__palette_1">
+            
+              <label class="md-header__button md-icon" title="Modo Escuro" for="__palette_2" hidden>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2a7 7 0 0 0-7 7c0 2.38 1.19 4.47 3 5.74V17a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1v-2.26c1.81-1.27 3-3.36 3-5.74a7 7 0 0 0-7-7M9 21a1 1 0 0 0 1 1h4a1 1 0 0 0 1-1v-1H9v1Z"/></svg>
+              </label>
+            
+          
+            
+            
+            
+            <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="light-blue" data-md-color-accent="light-blue"  aria-label="Modo Claro"  type="radio" name="__palette" id="__palette_2">
+            
+              <label class="md-header__button md-icon" title="Modo Claro" for="__palette_1" hidden>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2a7 7 0 0 1 7 7c0 2.38-1.19 4.47-3 5.74V17a1 1 0 0 1-1 1H9a1 1 0 0 1-1-1v-2.26C6.19 13.47 5 11.38 5 9a7 7 0 0 1 7-7M9 21v-1h6v1a1 1 0 0 1-1 1h-4a1 1 0 0 1-1-1m3-17a5 5 0 0 0-5 5c0 2.05 1.23 3.81 3 4.58V16h4v-2.42c1.77-.77 3-2.53 3-4.58a5 5 0 0 0-5-5Z"/></svg>
+              </label>
+            
+          
+        </form>
+      
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Buscar" placeholder="Buscar" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Pesquisar">
+        
+          <a href="javascript:void(0)" class="md-search__icon md-icon" title="Compartilhar" aria-label="Compartilhar" data-clipboard data-clipboard-text="" data-md-component="search-share" tabindex="-1">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7 0-.24-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.15c-.05.21-.08.43-.08.66 0 1.61 1.31 2.91 2.92 2.91 1.61 0 2.92-1.3 2.92-2.91A2.92 2.92 0 0 0 18 16.08Z"/></svg>
+          </a>
+        
+        <button type="reset" class="md-search__icon md-icon" title="Limpar" aria-label="Limpar" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Inicializando busca
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Abas" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+    
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../.." class="md-tabs__link md-tabs__link--active">
+        Home
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="../../faq/faq/" class="md-tabs__link">
+      FAQ
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="../../sobre/" class="md-tabs__link">
+      Sobre o Guia do Steam Deck
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="../../contribua/" class="md-tabs__link">
+      Contribua com o Guia do Steam Deck
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="../../tags/" class="md-tabs__link">
+      Tags
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="http://depot.guiadosteamdeck.com.br/" class="md-tabs__link">
+      Depot
+    </a>
+  </li>
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navegação" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="O Guia do Steam Deck" class="md-nav__button md-logo" aria-label="O Guia do Steam Deck" data-md-component="logo">
+      
+  <img src="/img/guia-do-steam-deck-logo.png" alt="logo">
+
+    </a>
+    O Guia do Steam Deck
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1" checked>
+      
+      
+        
+          
+            
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        
+        
+        <div class="md-nav__link md-nav__link--index ">
+          <a href="../..">Home</a>
+          
+            <label for="__nav_1">
+              <span class="md-nav__icon md-icon"></span>
+            </label>
+          
+        </div>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_1_label" aria-expanded="true">
+        <label class="md-nav__title" for="__nav_1">
+          <span class="md-nav__icon md-icon"></span>
+          Home
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_2" >
+      
+      
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        <label class="md-nav__link" for="__nav_1_2" id="__nav_1_2_label" tabindex="0">
+          Steam Deck
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_1_2_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_1_2">
+          <span class="md-nav__icon md-icon"></span>
+          Steam Deck
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../steamdeck/steamdeck/" class="md-nav__link">
+        O Steam Deck
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../steamdeck/steamdeck-acessorios/" class="md-nav__link">
+        Acessórios
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../steamdeck/links/" class="md-nav__link">
+        Links Úteis
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_3" >
+      
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        <label class="md-nav__link" for="__nav_1_3" id="__nav_1_3_label" tabindex="0">
+          Configurações Básicas
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_1_3_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_1_3">
+          <span class="md-nav__icon md-icon"></span>
+          Configurações Básicas
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../configuracoes/configuracao/" class="md-nav__link">
+        Configurações Iniciais
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../configuracoes/conta-steam/" class="md-nav__link">
+        Conta Steam
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../configuracoes/controles/" class="md-nav__link">
+        Controles
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../configuracoes/teclas-de-atalho-no-steam-deck/" class="md-nav__link">
+        Teclas de Atalho
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_4" >
+      
+      
+        
+          
+        
+          
+        
+      
+      
+        <label class="md-nav__link" for="__nav_1_4" id="__nav_1_4_label" tabindex="0">
+          Configurações Avançadas
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_1_4_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_1_4">
+          <span class="md-nav__icon md-icon"></span>
+          Configurações Avançadas
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../configuracoes-avancadas/configuracoes-avancadas-steam-deck/" class="md-nav__link">
+        Configurações Avançadas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../configuracoes-avancadas/steamdeck-performance/" class="md-nav__link">
+        Configurações de Performance
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_5" >
+      
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        <label class="md-nav__link" for="__nav_1_5" id="__nav_1_5_label" tabindex="0">
+          Jogos
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_1_5_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_1_5">
+          <span class="md-nav__icon md-icon"></span>
+          Jogos
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jogos/jogos/" class="md-nav__link">
+        Jogos no Steam Deck
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jogos/onde-comprar-jogos-para-o-steam-deck/" class="md-nav__link">
+        Onde comprar Jogos para o Steam Deck
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jogos/protondb/" class="md-nav__link">
+        O ProtomDB
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_5_4" >
+      
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        <label class="md-nav__link" for="__nav_1_5_4" id="__nav_1_5_4_label" tabindex="0">
+          Como rodar jogos não Steam no Steam Deck
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_1_5_4_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_1_5_4">
+          <span class="md-nav__icon md-icon"></span>
+          Como rodar jogos não Steam no Steam Deck
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jogos/jogos-epic/" class="md-nav__link">
+        Jogos Epic & GoG
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jogos/jogos-battle-net/" class="md-nav__link">
+        Jogos Battle.net
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jogos/jogos-amazon-prime/" class="md-nav__link">
+        Jogos Amazon Prime
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jogos/jogos-xbox-pc-game-pass/" class="md-nav__link">
+        Jogos Xbox e PC Game Pass
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jogos/jogos-alternativos-steam-deck/" class="md-nav__link">
+        Como rodar jogos alternativos no Steam Deck
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jogos/steam-verde/" class="md-nav__link">
+        Steam Verde
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_6" checked>
+      
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        <label class="md-nav__link" for="__nav_1_6" id="__nav_1_6_label" tabindex="0">
+          Emulacao
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_1_6_label" aria-expanded="true">
+        <label class="md-nav__title" for="__nav_1_6">
+          <span class="md-nav__icon md-icon"></span>
+          Emulacao
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../emulacao/" class="md-nav__link">
+        Emulacao no Steam Deck
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../emudeck/" class="md-nav__link">
+        Emudeck
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../guia1/" class="md-nav__link">
+        Guia Descomplicado do Emudeck
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Guia de Emulação para o Steam Deck - Retro Game Corps
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Guia de Emulação para o Steam Deck - Retro Game Corps
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#guia-inicial-de-emulação-para-steam-deck" class="md-nav__link">
+    GUIA INICIAL DE EMULAÇÃO PARA STEAM DECK
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#emudeck-vs-batocera-vs-retrodeck-vs-emulationstation" class="md-nav__link">
+    EmuDeck vs Batocera vs RetroDeck vs EmulationStation
+  </a>
+  
+    <nav class="md-nav" aria-label="EmuDeck vs Batocera vs RetroDeck vs EmulationStation">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ferramentas-recomendadas" class="md-nav__link">
+    Ferramentas recomendadas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#teclado-e-mouse" class="md-nav__link">
+    Teclado e mouse
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#dock-do-steam-deck-ou-hub-usb-c" class="md-nav__link">
+    Dock do Steam Deck ou hub USB-C
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cartão-microsd" class="md-nav__link">
+    Cartão microSD
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#unidade-flash-ou-disco-rígido-usb-externo" class="md-nav__link">
+    Unidade flash ou disco rígido USB externo:
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#começando-com-o-emudeck" class="md-nav__link">
+    Começando com o EmuDeck
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#adicionando-jogos-e-arquivos-bios" class="md-nav__link">
+    Adicionando jogos e arquivos BIOS
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#steam-rom-manager" class="md-nav__link">
+    Steam ROM Manager
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#1-configure-seus-parsers" class="md-nav__link">
+    1. CONFIGURE SEUS PARSERS
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-gerar-a-lista-de-aplicativos" class="md-nav__link">
+    2. GERAR A LISTA DE APLICATIVOS.
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-personalize-sua-arte" class="md-nav__link">
+    3. Personalize sua arte
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4-salve-e-limpe-a-lista-de-aplicativos" class="md-nav__link">
+    4. SALVE E LIMPE A LISTA DE APLICATIVOS.
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#emulationstation-desktop-edition" class="md-nav__link">
+    EmulationStation Desktop Edition
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#atualizando-o-emudeck-e-emuladores" class="md-nav__link">
+    Atualizando o EmuDeck e emuladores
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cryoutilities" class="md-nav__link">
+    CryoUtilities
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ferramentas-adicionais-do-emudeck" class="md-nav__link">
+    Ferramentas adicionais do EmuDeck
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#hotkeys" class="md-nav__link">
+    Hotkeys
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#retroarch" class="md-nav__link">
+    RetroArch
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../packs-completos-de-emuladores-para-o-steam-deck/" class="md-nav__link">
+        Packs de Emuladores para o Steam Deck
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../retrodeck/" class="md-nav__link">
+        Retrodeck
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../batocera/" class="md-nav__link">
+        Batocera
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../roms/" class="md-nav__link">
+        Roms
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_6_9" >
+      
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        <label class="md-nav__link" for="__nav_1_6_9" id="__nav_1_6_9_label" tabindex="0">
+          Emulacao - Nintendo
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_1_6_9_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_1_6_9">
+          <span class="md-nav__icon md-icon"></span>
+          Emulacao - Nintendo
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../nintendo/emulacao-nintendo-switch-steam-deck/" class="md-nav__link">
+        Nintendo Switch
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../nintendo/emulacao-nintendo-wii-u-steam-deck/" class="md-nav__link">
+        Nintendo Wii U
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../nintendo/emulacao-nintendo-wii-steam-deck/" class="md-nav__link">
+        Nintendo Wii
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../nintendo/emulacao-nintendo-3ds-steam-deck/" class="md-nav__link">
+        Nintendo 3DS
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_6_10" >
+      
+      
+        
+          
+        
+          
+        
+      
+      
+        <label class="md-nav__link" for="__nav_1_6_10" id="__nav_1_6_10_label" tabindex="0">
+          Emulacao - Microsoft
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_1_6_10_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_1_6_10">
+          <span class="md-nav__icon md-icon"></span>
+          Emulacao - Microsoft
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../microsoft/microsoft-xbox/" class="md-nav__link">
+        Microsoft Xbox
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../microsoft/microsoft-xbox-360/" class="md-nav__link">
+        Microsoft Xbox 360
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_6_11" >
+      
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        <label class="md-nav__link" for="__nav_1_6_11" id="__nav_1_6_11_label" tabindex="0">
+          Emulacao - Sony
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_1_6_11_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_1_6_11">
+          <span class="md-nav__icon md-icon"></span>
+          Emulacao - Sony
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../sony/sony-playstation-1/" class="md-nav__link">
+        Sony PlayStation 1
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../sony/sony-playstation-2/" class="md-nav__link">
+        Sony PlayStation 2
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../sony/sony-playstation-3/" class="md-nav__link">
+        Sony PlayStation 3
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../sony/sony-playstation-psp/" class="md-nav__link">
+        Sony PlayStation PSP
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../sony/sony-playstation-vita/" class="md-nav__link">
+        Sony PlayStation Vita
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_6_12" >
+      
+      
+        
+          
+        
+      
+      
+        <label class="md-nav__link" for="__nav_1_6_12" id="__nav_1_6_12_label" tabindex="0">
+          Emulacao - Outros
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_1_6_12_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_1_6_12">
+          <span class="md-nav__icon md-icon"></span>
+          Emulacao - Outros
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../outros/outros.md" class="md-nav__link">
+        Outros Consoles
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../windows/windows/" class="md-nav__link">
+        Windows no Steam Deck
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1_8" >
+      
+      
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        <label class="md-nav__link" for="__nav_1_8" id="__nav_1_8_label" tabindex="0">
+          Hacks & Utilitários
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_1_8_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_1_8">
+          <span class="md-nav__icon md-icon"></span>
+          Hacks & Utilitários
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../hacks-e-utilitarios/hacks/" class="md-nav__link">
+        Hacks & Utilitários para o Steam Deck
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../hacks-e-utilitarios/cryoutilities/" class="md-nav__link">
+        CryoUtilities
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../hacks-e-utilitarios/deckyloader/" class="md-nav__link">
+        Decky Loader
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ajuda/ajuda/" class="md-nav__link">
+        Ajuda & Dicas
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../faq/faq/" class="md-nav__link">
+        FAQ
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sobre/" class="md-nav__link">
+        Sobre o Guia do Steam Deck
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../contribua/" class="md-nav__link">
+        Contribua com o Guia do Steam Deck
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../tags/" class="md-nav__link">
+        Tags
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="http://depot.guiadosteamdeck.com.br/" class="md-nav__link">
+        Depot
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#guia-inicial-de-emulação-para-steam-deck" class="md-nav__link">
+    GUIA INICIAL DE EMULAÇÃO PARA STEAM DECK
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#emudeck-vs-batocera-vs-retrodeck-vs-emulationstation" class="md-nav__link">
+    EmuDeck vs Batocera vs RetroDeck vs EmulationStation
+  </a>
+  
+    <nav class="md-nav" aria-label="EmuDeck vs Batocera vs RetroDeck vs EmulationStation">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ferramentas-recomendadas" class="md-nav__link">
+    Ferramentas recomendadas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#teclado-e-mouse" class="md-nav__link">
+    Teclado e mouse
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#dock-do-steam-deck-ou-hub-usb-c" class="md-nav__link">
+    Dock do Steam Deck ou hub USB-C
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cartão-microsd" class="md-nav__link">
+    Cartão microSD
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#unidade-flash-ou-disco-rígido-usb-externo" class="md-nav__link">
+    Unidade flash ou disco rígido USB externo:
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#começando-com-o-emudeck" class="md-nav__link">
+    Começando com o EmuDeck
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#adicionando-jogos-e-arquivos-bios" class="md-nav__link">
+    Adicionando jogos e arquivos BIOS
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#steam-rom-manager" class="md-nav__link">
+    Steam ROM Manager
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#1-configure-seus-parsers" class="md-nav__link">
+    1. CONFIGURE SEUS PARSERS
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-gerar-a-lista-de-aplicativos" class="md-nav__link">
+    2. GERAR A LISTA DE APLICATIVOS.
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-personalize-sua-arte" class="md-nav__link">
+    3. Personalize sua arte
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4-salve-e-limpe-a-lista-de-aplicativos" class="md-nav__link">
+    4. SALVE E LIMPE A LISTA DE APLICATIVOS.
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#emulationstation-desktop-edition" class="md-nav__link">
+    EmulationStation Desktop Edition
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#atualizando-o-emudeck-e-emuladores" class="md-nav__link">
+    Atualizando o EmuDeck e emuladores
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cryoutilities" class="md-nav__link">
+    CryoUtilities
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ferramentas-adicionais-do-emudeck" class="md-nav__link">
+    Ferramentas adicionais do EmuDeck
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#hotkeys" class="md-nav__link">
+    Hotkeys
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#retroarch" class="md-nav__link">
+    RetroArch
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+  
+
+  <nav class="md-tags" >
+    
+      
+        
+        
+      
+      
+        <a href="../../tags/#steamdeck" class="md-tag md-tag-icon">steamdeck</a>
+      
+    
+      
+        
+        
+      
+      
+        <a href="../../tags/#emulação" class="md-tag md-tag-icon">emulação</a>
+      
+    
+      
+        
+        
+      
+      
+        <a href="../../tags/#roms" class="md-tag md-tag-icon">roms</a>
+      
+    
+      
+        
+        
+      
+      
+        <a href="../../tags/#downloads" class="md-tag md-tag-icon">downloads</a>
+      
+    
+      
+        
+        
+      
+      
+        <a href="../../tags/#packs" class="md-tag md-tag-icon">packs</a>
+      
+    
+      
+        
+        
+      
+      
+        <a href="../../tags/#guia" class="md-tag md-tag-icon">guia</a>
+      
+    
+      
+        
+        
+      
+      
+        <a href="../../tags/#emudeck" class="md-tag md-tag-icon">emudeck</a>
+      
+    
+  </nav>
+
+
+
+
+  <h1>Guia de Emulação para o Steam Deck - Retro Game Corps</h1>
+
+<blockquote>
+<p>Texto traduzido e adaptado do Inglês para o Português do Brasil com autorização do autor, Russ Crandall. O conteúdo original pode ser encontrado em <a href="https://retrogamecorps.com/2022/10/16/steam-deck-emulation-starter-guide/">https://retrogamecorps.com/2022/10/16/steam-deck-emulation-starter-guide/</a>.</p>
+</blockquote>
+<p>Deixo aqui o meu <strong>agradecimento público</strong> ao Russ que autorizou a tradução e publicação desse texto no <a href="https://steamdeck.valdecir.me">Guia do Steam Deck em Português</a>. Se esse conteúdo foi útil para você, vá até o <a href="https://twitter.com/RetroGameCorps">Twitter</a> e agradeça o Russ dizendo que viu o conteúdo dele aqui. </p>
+<hr />
+<h2 id="guia-inicial-de-emulação-para-steam-deck">GUIA INICIAL DE EMULAÇÃO PARA STEAM DECK<a class="headerlink" href="#guia-inicial-de-emulação-para-steam-deck" title="Permanent link">&para;</a></h2>
+<p><strong>Última atualização:</strong> 08MAR2023 (veja o <a href="https://retrogamecorps.com/changelog/">Changelog</a> para mais detalhes)</p>
+<p>O Steam Deck da Valve é uma combinação perfeita de dispositivos portáteis: possui uma excelente relação custo-benefício, uma vasta biblioteca de jogos graças à sua integração com o <a href="https://store.steampowered.com/steamdeck">Steam</a> e está se tornando cada vez mais disponível a cada mês. Neste guia, mostrarei como jogar seus sistemas de jogos retrô (e modernos) favoritos através da emulação de software.</p>
+<p>Este guia usará principalmente um aplicativo chamado EmuDeck para configurar sua experiência de emulação, mas também abordarei outras soluções, como RetroDeck e Batocera. Se você está procurando um guia geral de configuração para o Steam Deck em si, recomendo este abrangente <a href="https://github.com/mikeroyal/Steam-Deck-Guide">guia do Steam Deck</a> do usuário mikeroyal no GitHub.</p>
+<h2 id="emudeck-vs-batocera-vs-retrodeck-vs-emulationstation">EmuDeck vs Batocera vs RetroDeck vs EmulationStation<a class="headerlink" href="#emudeck-vs-batocera-vs-retrodeck-vs-emulationstation" title="Permanent link">&para;</a></h2>
+<p>Vamos dar uma olhada rápida em algumas opções de emulação no Steam Deck.</p>
+<p><strong>EmuDeck</strong> é uma ferramenta que integra muitas funções em uma: ela baixará emuladores de suas fontes oficiais, pré-configurará suas configurações e hotkeys, e trabalhará em conjunto com EmulationStation e o <a href="https://store.steampowered.com/app/1100640/Steam_ROM_Manager/">Steam ROM Manager</a>. Não é um &ldquo;aplicativo&rdquo; no sentido estrito, mas uma coleção de scripts inteligentes que cuidam de todas as instalações e configurações manuais para você. Vi algumas preocupações sobre permitir que um aplicativo instale itens no seu Steam Deck, mas o EmuDeck não requer acesso sudo/root para funcionar e instala apenas os mesmos sistemas de arquivos que você instalaria se instalasse os emuladores manualmente. No entanto, se você preferir uma solução autônoma, confira o <strong>Batocera</strong> ou o <strong>RetroDeck</strong>.</p>
+<p><strong>Batocera</strong> é um sistema operacional Linux personalizado focado na emulação de jogos. É completamente autônomo e inicializável a partir de uma variedade de formatos. Isso significa que você pode carregar o Batocera em um cartão microSD, unidade flash ou disco rígido externo e inicializá-lo a partir daí. Como exemplo, você poderia usar o seu Steam Deck principalmente para jogos de PC, e quando estiver pronto para fazer algumas emulações, pode simplesmente adicionar o cartão SD do Batocera, inicializar no cartão e começar a jogar. Esta é uma excelente configuração se você quiser separar sua experiência de jogos SteamOS no PC e sua emulação de jogos retrô.</p>
+<p><strong>RetroDeck</strong> é uma solução de emulação tudo-em-um que usa o EmulationStation como sua interface principal. Como é autônomo, ele se comportará como um único aplicativo com todos os seus emuladores pré-instalados e configurados. Esta é uma ótima solução se você quiser apenas uma experiência de emulação simples que você possa acessar diretamente do seu ambiente SteamOS. Além disso, o aplicativo está disponível como um FlatPak diretamente no aplicativo Discover via Desktop Mode no seu Steam Deck, tornando o processo de instalação super fácil. O RetroDeck está em desenvolvimento ativo e ainda não está em um estado de lançamento final.</p>
+<p><strong>EmulationStation</strong> é um frontend que fornecerá uma interface de usuário autônoma para navegar e lançar seus jogos retrô favoritos. A versão encontrada no Steam Deck é conhecida como EmulationStation-DE (Desktop Edition, abreviada para ES-DE). Ele pode ser instalado independentemente baixando a última <a href="https://github.com/HerbFargus/ES-Portable/releases">AppImage</a> e instalando-o no seu Steam Deck, ou vem incluído nos ambientes EmuDeck ou RetroDeck. O ES-DE atualiza automaticamente, portanto, se você remover ou adicionar ROMs às suas pastas, ele detectará automaticamente essas alterações e refletirá no aplicativo na próxima vez que você iniciar o ES-DE.</p>
+<blockquote>
+<p>No final, nenhuma das opções acima são necessárias para executar emulação no Steam Deck. Se você quiser, pode instalar manualmente cada emulador individual na <a href="https://store.steampowered.com/search/?term=emulator">Discovery Store</a> e configurá-los por conta própria, como faria em um PC com Windows. Ou você pode instalar a Edição Desktop do EmulationStation e configurá-la por si mesmo. As ferramentas acima simplesmente oferecem a opção de tornar esse processo mais fácil.</p>
+</blockquote>
+<h3 id="ferramentas-recomendadas">Ferramentas recomendadas<a class="headerlink" href="#ferramentas-recomendadas" title="Permanent link">&para;</a></h3>
+<h3 id="teclado-e-mouse">Teclado e mouse<a class="headerlink" href="#teclado-e-mouse" title="Permanent link">&para;</a></h3>
+<p>Porque usaremos o Desktop Mode para configurar nossa experiência de emulação, às vezes é mais fácil usar um mouse e teclado do que tentar navegar em tudo usando os trackpads e teclado na tela do Steam Deck. Além disso, há momentos em que precisaremos ter o aplicativo Steam fechado (como ao usar o Steam ROM Manager), o que desativa alguns dos controles do trackpad mais úteis.</p>
+<p>Se você tiver um teclado e mouse Bluetooth, é fácil pareá-los e o emparelhamento persistirá entre o Game Mode e o Desktop Mode (quão conveniente é isso?). No entanto, se você quiser algo mais portátil, <a href="https://amzn.to/31YINRJ">este teclado da Rii</a> é o que eu uso. Ele é recarregável por USB e possui um dongle USB de 2,4GHz para conexão fácil.</p>
+<h3 id="dock-do-steam-deck-ou-hub-usb-c">Dock do Steam Deck ou hub USB-C<a class="headerlink" href="#dock-do-steam-deck-ou-hub-usb-c" title="Permanent link">&para;</a></h3>
+<p>Para tornar a configuração ainda mais fácil, você pode acoplar seu Steam Deck a um monitor ou TV e usá-lo como um PC comum. Você pode usar um hub USB-C como este da Anker, a Estação de Ancoragem Oficial do Valve Steam Deck ou docks de terceiros como este da iVoler. Aqui está um vídeo onde eu comparo quatro soluções diferentes de dock para o Steam Deck.</p>
+<h3 id="cartão-microsd">Cartão microSD<a class="headerlink" href="#cartão-microsd" title="Permanent link">&para;</a></h3>
+<p>Independentemente de como você configurar o seu Steam Deck para jogos retrô, você vai querer armazenar seus jogos em algum lugar. Eu recomendo armazenar seus jogos retrô em um cartão microSD, já que os cartões são relativamente baratos e você pode trocá-los conforme necessário. O tamanho do cartão microSD dependerá de como você planeja usá-lo. Se você for usar um único cartão microSD para armazenar jogos do Steam e seus jogos retrô, um cartão maior pode ser melhor. Se você vai usar um cartão microSD dedicado para jogos retrô, pode usar algo menor (mas tenha em mente que jogos baseados em CD e jogos modernos ocupam mais espaço de armazenamento do que sistemas de cartuchos antigos).</p>
+<p>Observe que, quando se trata de emulação, as velocidades de leitura/gravação no cartão microSD geralmente não afetam a velocidade de carregamento de jogos ou emulação, então armazenar jogos no armazenamento interno provavelmente não fornecerá um impulso de desempenho. No entanto, se você for usar o cartão para armazenar jogos do PC/Steam também, então você vai querer obter um cartão Classe 2 de alta velocidade (A2) em vez de um cartão Classe 1 (A1), já que isso pode afetar os tempos de carregamento dos jogos do PC. Eu recomendaria comprar um cartão microSD de uma marca respeitável como <a href="https://amzn.to/31ZRvR1">SanDisk</a> ou <a href="https://amzn.to/3vVcGho">Samsung</a> para garantir a integridade do cartão a longo prazo. Pessoalmente, uso um cartão SanDisk Extreme de 1TB no meu Steam Deck, e o uso para armazenar jogos do PC, bem como todos os meus sistemas emulados.</p>
+<ul>
+<li>256GB microSD:</li>
+<li><a href="https://amzn.to/3cb1Y9X">SanDisk Ultra</a></li>
+<li><a href="https://amzn.to/3ct1l3q">SanDisk Extreme</a></li>
+<li><a href="https://amzn.to/3clhvQJ">Samsung EVO Select</a></li>
+<li>512GB microSD:</li>
+<li><a href="https://amzn.to/31XK9GM">SanDisk Ultra</a></li>
+<li><a href="https://amzn.to/3ct4wqA">SanDisk Extreme</a></li>
+<li><a href="https://amzn.to/3f43Q2I">Samsung EVO Select</a></li>
+<li>1TB microSD:</li>
+<li><a href="https://amzn.to/31XKMLI">SanDisk Ultra</a></li>
+<li><a href="https://amzn.to/3f27JtF">SanDisk Extreme</a></li>
+<li><a href="https://amzn.to/31XKJWz">SanDisk Extreme Pro</a></li>
+</ul>
+<blockquote>
+<p>Se você for usar um cartão microSD para armazenar seus jogos, o cartão precisa ser formatado primeiro.
+- Insira o cartão no seu Steam Deck enquanto estiver executando o SteamOS Game Mode
+- Vá para STEAM &gt; Configurações &gt; Sistema e selecione &ldquo;Formatar cartão SD&rdquo;</p>
+</blockquote>
+<p>Observe que, embora o cartão possa ser lido tanto no SteamOS Game Mode quanto no Desktop Mode, ele usa um sistema de arquivos Linux que não é legível por PCs com Windows ou Mac sem software especializado</p>
+<h3 id="unidade-flash-ou-disco-rígido-usb-externo">Unidade flash ou disco rígido USB externo:<a class="headerlink" href="#unidade-flash-ou-disco-rígido-usb-externo" title="Permanent link">&para;</a></h3>
+<p>Se você estiver usando um computador Windows ou Mac como seu computador, a maneira mais fácil de adicionar arquivos de jogos ao seu Steam Deck (independentemente de onde você estiver armazenando eles, no armazenamento interno ou em um cartão microSD) é usar uma unidade flash ou um disco rígido USB externo. Isso ocorre porque o Steam Deck pode ler sistemas de arquivos do Windows (como exFAT e NTFS) no Desktop Mode, mas o Windows e os Macs não podem ler sistemas de arquivos do Linux. Portanto, você vai querer mover seus arquivos de jogos para um disco rígido externo (ou unidade flash) e, em seguida, conectar essa unidade ao seu Steam Deck (geralmente via um dock ou hub USB-C) para que você possa arrastar e soltar seus arquivos nas pastas apropriadas.</p>
+<blockquote>
+<p><strong>Se o seu cartão não estiver sendo reconhecido dentro do SteamOS Game Mode após formatá-lo ou executar o EmuDeck, você pode ter que re-linkar o cartão com sua biblioteca do Steam.</strong> Para fazer isso, abra o Steam Deck no Desktop Mode e, em seguida, abra o Steam e vá para Configurações &gt; Downloads &gt; Pastas da biblioteca do Steam &gt; ícone &ldquo;Mais&rdquo; &gt; e navegue até a localização do seu cartão SD (/run/media/mmcblk0p1) e selecione-o. Agora você deve ser capaz de usar seu cartão SD para armazenar jogos do Steam.</p>
+</blockquote>
+<h3 id="começando-com-o-emudeck">Começando com o EmuDeck<a class="headerlink" href="#começando-com-o-emudeck" title="Permanent link">&para;</a></h3>
+<p>O EmuDeck é super simples de instalar no Steam Deck. O processo é um pouco diferente dependendo se você deseja armazenar seus jogos no próprio Steam Deck ou em um cartão microSD. Se estiver usando o Steam Deck para armazenar seus jogos, não será necessário nenhum ajuste extra, mas para o cartão microSD, você precisará formatá-lo no Steam Deck primeiro (consulte a seção acima se você ainda não o fez).</p>
+<blockquote>
+<p>O EmuDeck recentemente criou uma página de <a href="https://github.com/dragoonDorise/EmuDeck/wiki/Frequently-Asked-Questions">FAQ</a> abrangente e eu recomendo dar uma olhada se você tiver algum problema não coberto neste guia.</p>
+</blockquote>
+<p>Para instalar o EmuDeck, entre no Desktop Mode no seu Steam Deck (STEAM &gt; Power &gt; Switch to Desktop), e usando um navegador da web (como o FireFox), vá para o site do <a href="https://www.emudeck.com/">EmuDeck</a> e faça o download do aplicativo diretamente no seu Steam Deck. Quando solicitado a salvar o arquivo, salve-o diretamente na sua área de trabalho. Em seguida, navegue até sua área de trabalho e abra o aplicativo EmuDeck.</p>
+<p>O EmuDeck irá inicializar e baixar alguns arquivos, e em seguida você será recebido com a opção de escolher o MODO FÁCIL ou o MODO PERSONALIZADO.</p>
+<p>Modo Fácil: Todos os sistemas serão baixados automaticamente e tudo será pré-configurado. Se você só quer começar a jogar e não quer se preocupar com personalização, esta é uma ótima escolha. Note que mesmo se você usar o Modo Fácil para começar, você sempre pode voltar e executar o EmuDeck novamente por meio do Modo Personalizado ou Configurações Rápidas.</p>
+<p>Modo Personalizado: Este modo permite que você escolha quais sistemas deseja instalar e você pode escolher configurações especiais como proporção de aspecto, tema do EmulationStation, shaders e mais. Se você está familiarizado com emulação, eu recomendo usar este modo.</p>
+<p>Depois de selecionar qual modo do EmuDeck usar, o aplicativo irá guiá-lo pelos demais prompts para começar. Assista ao vídeo acima para uma demonstração desse processo. Provavelmente você receberá algumas mensagens pop-up sobre chaves Yuzu (Switch) faltando e um prompt sobre onde colocar seus arquivos de jogo. Você pode ignorá-los por enquanto, já que abordaremos isso na próxima seção.</p>
+<h3 id="adicionando-jogos-e-arquivos-bios">Adicionando jogos e arquivos BIOS<a class="headerlink" href="#adicionando-jogos-e-arquivos-bios" title="Permanent link">&para;</a></h3>
+<p>Depois de instalar o EmuDeck, o próximo passo é adicionar seus jogos (&ldquo;ROMs&rdquo;) e arquivos BIOS.</p>
+<p>Os arquivos ROM possuem direitos autorais e não serão compartilhados neste site. Você precisará extrair seus próprios arquivos de jogos (esse processo varia por emulador) ou encontrar arquivos ROM por conta própria. Da mesma forma, os arquivos BIOS (do sistema) têm direitos autorais e não serão compartilhados.</p>
+<p>Se você estiver usando um PC com Windows ou Mac como seu computador, a maneira mais fácil de adicionar arquivos de jogos ao seu Steam Deck ( independentemente de armazená-los no armazenamento interno ou em um cartão microSD) é usar uma unidade flash ou disco rígido USB externo. Isso ocorre porque o Steam Deck pode ler sistemas de arquivos do Windows (como exFAT e NTFS) quando no Modo Desktop, mas Windows e Macs não podem ler sistemas de arquivos Linux. Portanto, você deve mover seus arquivos de jogos para um disco rígido externo (ou unidade flash) e, em seguida, conectá-lo ao seu Steam Deck (geralmente por meio de um dock ou hub USB-C) para que possa arrastar e soltar seus arquivos nas pastas apropriadas. Você economizará muito tempo e dor de cabeça usando um mouse e teclado USB/Bluetooth durante esta etapa.</p>
+<p>Observação: você pode achar a navegação nas janelas do Linux pouco intuitiva, porque em versões mais antigas do SteamOS, clicar uma vez em um objeto na verdade abrirá o arquivo. Para alterar isso, abra o menu Configurações no Modo Desktop do SteamOS (no canto inferior esquerdo), vá para Comportamento da Área de Trabalho&gt; Comportamento Geral&gt; &ldquo;Clicando em arquivos ou pastas&rdquo; e altere essa opção para &ldquo;Selecioná-los&rdquo;.</p>
+<p>Aqui é onde você deve colocar seus arquivos:</p>
+<p>ROMS: Primary/Emulation/roms/ (método do cartão microSD)
+BIOS: Primary/Emulation/bios/ (método do cartão microSD)</p>
+<p>Você também pode navegar até esses locais indo para:
+/run/media/NOME_DO_CARTAO_SD/Emulation (método do cartão microSD)</p>
+<p>/home/deck/Emulation/roms/ (método de armazenamento interno)
+/home/deck/Emulation/bios/ (método de armazenamento interno)</p>
+<p>Para encontrar as pastas específicas, tipos de arquivo e arquivos BIOS necessários para cada emulador, confira este guia Emulator Cheatsheet útil ou consulte a página do emulador individual no wiki EmuDeck. Observe que com alguns emuladores, os arquivos BIOS precisam ser colocados em um local específico (como a subpasta &ldquo;dc&rdquo; para BIOS do Dreamcast).</p>
+<p>Aqui está uma lista rápida dos arquivos BIOS que uso pessoalmente em minha configuração do EmuDeck (e sua localização):</p>
+<ul>
+<li>NINTENDO GAME BOY (boot logo):<ul>
+<li>/Emulation/bios/gb_bios.bin</li>
+</ul>
+</li>
+<li>NINTENDO GAME BOY COLOR (boot logo):<ul>
+<li>/Emulation/bios/gbc_bios.bin</li>
+</ul>
+</li>
+<li>NINTENDO GAME BOY ADVANCE (boot logo):<ul>
+<li>/Emulation/bios/gba_bios.bin</li>
+</ul>
+</li>
+<li>NINTENDO DS:<ul>
+<li>/Emulation/bios/bios7.bin</li>
+<li>/Emulation/bios/bios9.bin</li>
+<li>/Emulation/bios/firmware.bin</li>
+</ul>
+</li>
+<li>NINTENDO GAMECUBE (boot logo):<ul>
+<li>/home/deck/.var/app/org.DolphinEmu.dolphin-emu/data/dolphin-emu/GC/USA/IPL.bin</li>
+<li>veja a seção GameCube abaixo para mais informações</li>
+</ul>
+</li>
+<li>NINTENDO SWITCH:<ul>
+<li>/Emulation/bios/yuzu/keys/prod.keys</li>
+</ul>
+</li>
+<li>SONY PLAYSTATION 1:<ul>
+<li>/Emulation/bios/scph5501.bin</li>
+</ul>
+</li>
+<li>SONY PLAYSTATION 2:</li>
+<li>/Emulation/bios/SCPH-70012.bin</li>
+<li>/Emulation/bios/SCPH-70012.MEC</li>
+<li>/Emulation/bios/SCPH-70012.NVM</li>
+<li>SEGA CD:</li>
+<li>/Emulation/bios/bios_CD_E.bin</li>
+<li>/Emulation/bios/bios_CD_J.bin</li>
+<li>/Emulation/bios/bios_CD_U.bin</li>
+<li>SEGA SATURN:</li>
+<li>/Emulation/bios/sega_101.bin</li>
+<li>/Emulation/bios/mpr-17933.bin</li>
+<li>SEGA DREAMCAST:</li>
+<li>/Emulation/bios/dc/dc_boot.bin</li>
+<li>MICROSOFT XBOX:</li>
+<li>/Emulation/bios/mcpx_1.0.bin</li>
+<li>/Emulation/bios/Complex_4627.bin (versão modificada de varejo)</li>
+<li>NEO GEO:</li>
+<li>/Emulation/roms/neogeo/neogeo.zip</li>
+</ul>
+<h3 id="steam-rom-manager">Steam ROM Manager<a class="headerlink" href="#steam-rom-manager" title="Permanent link">&para;</a></h3>
+<p>Depois de adicionar seus arquivos ROM e BIOS às pastas correspondentes, é hora de adicionar nossos jogos à experiência SteamOS. Vamos usar uma ferramenta chamada Steam ROM Manager (SRM) para integrar seus jogos à interface principal do usuário SteamOS para o jogo que você deseja ver diretamente em seu menu principal e, em seguida, poderemos acessar o restante via EmulationStation.</p>
+<p>Observe que o uso do Steam ROM Manager exigirá que você saia do Steam, o que reverterá seus controles no modo &ldquo;lizard&rdquo; do Steam Deck, que terá menos funcionalidade. Ainda é possível fazer isso usando o trackpad direito como cursor do mouse, L2 para clicar com o botão direito e R2 para clicar com o botão esquerdo. Para facilitar as coisas, recomendo o uso de um mouse e teclado para essas etapas abaixo.</p>
+<h3 id="1-configure-seus-parsers">1. CONFIGURE SEUS PARSERS<a class="headerlink" href="#1-configure-seus-parsers" title="Permanent link">&para;</a></h3>
+<p>Abra o EmuDeck e vá em Ferramentas e coisas &gt; SteamRomManager. Ele pedirá para você confirmar que vai sair do aplicativo Steam e abrir o SRM. Depois que o SRM estiver aberto, você será recebido pela tela que vê acima, que pode ser bastante intimidante. Aqui, você só quer percorrer a coluna esquerda e desativar qualquer sistema que não deseja que apareça na interface do SteamOS (ainda aparecerá no EmulationStation, independentemente de você ativar ou desativar aqui). Preste atenção especial aos sistemas que possuem vários parsers, como PSP, Switch e PS3. Para esses sistemas, certifique-se de escolher o emulador que deseja usar ou, no caso do PS3, o tipo de arquivo que está usando.</p>
+<p>Em geral, quanto menos sistemas você analisar, melhor - lembre-se de que esses jogos vão aparecer na interface do SteamOS e você provavelmente não quer poluir a IU. O restante dos sistemas aparecerá no EmulationStation. Observe também que, se você deseja que apenas um jogo de um determinado sistema (como um único jogo SNES) apareça na interface do SteamOS, ainda será necessário analisar todo o catálogo SNES - mas é fácil limpar isso na Etapa <a class="magiclink magiclink-github magiclink-issue" href="https://github.com/valdecircarvalho/guia-do-steam-deck/issues/4" title="GitHub Issue: valdecircarvalho/guia-do-steam-deck #4">#4</a> abaixo.</p>
+<h3 id="2-gerar-a-lista-de-aplicativos">2. GERAR A LISTA DE APLICATIVOS.<a class="headerlink" href="#2-gerar-a-lista-de-aplicativos" title="Permanent link">&para;</a></h3>
+<p>Em seguida, vamos clicar em “Preview” na seção superior esquerda do SRM e selecionar “Generate app list”. Isso irá examinar todos os parsers que você deixou ativados e fará a correspondência dos jogos com o banco de dados do SteamGridDB. Isso levará vários minutos, dependendo do tamanho da sua biblioteca. Você pode acompanhar a contagem regressiva na parte superior da tela enquanto o SRM busca os recursos (artworks) para seus jogos.</p>
+<p>Assim que a lista de aplicativos for concluída, você poderá rolar a lista de jogos para verificar se todos correspondem aos ROMs que você adicionou. Se houver uma seção de jogos faltando (como jogos do 3DS, por exemplo), é provável que você tenha colocado os ROMs no lugar errado ou usado um tipo de arquivo que não é compatível com o EmuDeck (consulte esta planilha para verificar). Se houver uma incompatibilidade com o jogo e a arte, pode ser o nome do arquivo do ROM ou o SteamGridDB o correspondeu ao jogo errado (isso ocorre com frequência para jogos que usam o mesmo título para vários jogos em diferentes gerações de consoles, como Bionic Commando). Recomendamos verificar o jogo no SteamGridDB para ver se é necessário mudar o nome.</p>
+<h3 id="3-personalize-sua-arte">3. Personalize sua arte<a class="headerlink" href="#3-personalize-sua-arte" title="Permanent link">&para;</a></h3>
+<p>Agora vem a parte divertida. Aqui, vamos percorrer nossa lista de jogos e modificar a arte de acordo com nossas preferências. Se você usar o mouse para pairar sobre a arte, poderá ver que há várias imagens que você pode rolar até encontrar a que mais gosta. Certifique-se de fazer isso para vários formatos de arte. Por padrão, você estará olhando para a &ldquo;Grade&rdquo;, que é a imagem que você verá no SteamOS quando for o jogo mais recente que você jogou. Mas se você for para o topo da tela e escolher Selecionar tipo &gt; Cartazes, você encontrará a arte de capa comum que você verá ao navegar pelo SteamOS. Essas são as imagens em que eu mais foco ao fazer ajustes.</p>
+<p>Se você tiver um jogo desajustado ou faltando arte, poderá adicionar a sua própria baixando as imagens desejadas do SteamGridDB e salvando-as no seu Steam Deck. Em seguida, você pode pairar sobre o jogo e clicar no pequeno ícone de foto no canto inferior esquerdo, encontrar a imagem que você baixou e adicioná-la manualmente. Além disso, você pode corrigir uma entrada desajustada por meio da ferramenta de &ldquo;exceção&rdquo; do SRM (mais informações aqui). Se for um jogo que você não planeja adicionar à sua interface do SteamOS de qualquer maneira, você pode simplesmente ignorá-lo por enquanto.</p>
+<h3 id="4-salve-e-limpe-a-lista-de-aplicativos">4. SALVE E LIMPE A LISTA DE APLICATIVOS.<a class="headerlink" href="#4-salve-e-limpe-a-lista-de-aplicativos" title="Permanent link">&para;</a></h3>
+<p>Uma vez que você esteja satisfeito com as artes dos seus jogos, vamos salvar a configuração clicando em &ldquo;Salvar lista de aplicativos&rdquo; próximo ao final da tela. Isso pode levar vários minutos e você pode clicar no &ldquo;Registro de Eventos&rdquo; no canto superior esquerdo para acompanhar o seu progresso. Uma vez que o Registro de Eventos diz &ldquo;Concluído adicionando/removendo entradas&rdquo;, você está pronto para ir - saia do Steam ROM Manager e abra o Steam.</p>
+<p>Na seção Biblioteca, do lado esquerdo, você verá que seus jogos foram adicionados ao Steam e organizados por sistema ou emulador. Aqui, queremos passar por cada um e excluir todos os jogos que NÃO queremos ver na interface do SteamOS (a exclusão do jogo aqui não irá deletar o arquivo do jogo, apenas apaga sua presença na sua experiência SteamOS). Note também que a remoção de um jogo não afetará se ele aparecerá no EmulationStation. Para remover um jogo, clique com o botão direito do mouse e selecione Gerenciar &gt; Remover jogo não-Steam da sua biblioteca. Para facilitar, você pode pressionar CTRL no teclado e selecionar vários jogos de uma vez, assim como faria em qualquer outro navegador de arquivos.</p>
+<p>Assim que você tiver removido todos os jogos que não quer ver no Modo de Jogo SteamOS, você terminou! Agora você pode sair do Modo Desktop, entrar no Modo de Jogo e aproveitar os frutos do seu trabalho. Claro, sua jornada de emulação está apenas começando, então não deixe de conferir as seções por sistema abaixo para garantir que cada um dos seus sistemas esteja ajustado exatamente como você gosta. </p>
+<h3 id="emulationstation-desktop-edition">EmulationStation Desktop Edition<a class="headerlink" href="#emulationstation-desktop-edition" title="Permanent link">&para;</a></h3>
+<p>Adicionar o EmulationStation-DE à sua experiência SteamOS via EmuDeck é super fácil. Depois de executar o EmuDeck pela primeira vez, abra o Steam ROM Manager (veja a seção acima para mais detalhes), e em seguida, sob a seção Parsers no lado esquerdo, certifique-se de que esteja habilitado. Na verdade, se você quiser APENAS adicionar o ES-DE ao SteamOS e nenhum outro jogo, simplesmente desligue tudo, exceto o ES-DE na seção Parsers. <a href="https://github.com/dragoonDorise/EmuDeck/wiki/EmulationStation-DE#how-to-add-emulationstation-de-to-your-steam-library">Aqui está uma visualização do processo cortesia do wiki EmuDeck</a>.</p>
+<p>Por padrão, o EmulationStation prefere emuladores específicos. Para trocá-los, acesse o Menu Principal pressionando START &gt; Other Settings &gt; Alternative Emulators e mude-os como desejar. Estes são os emuladores que prefiro usar com alguns dos principais sistemas no ES-DE (os que são alterados em relação ao padrão estão <strong>em negrito</strong>):</p>
+<p>dreamcast = Flycast
+gb = Gambatte
+gba = mGBA
+gbc = Gambatte
+gc = <strong>Dolphin (standalone)</strong>
+genesis = Genesis Plus GX
+mame = <strong>MAME 2003-Plus (se estiver usando o conjunto de ROMs Mame 2003 Plus)</strong>
+n3ds = <strong>Citra (standalone)</strong>
+n64 = Mupen64Plus-Next
+nds = <strong>melonDS</strong>
+nes = <strong>Nestopia UE</strong>
+ps2 = <strong>PCSX2 (standalone)</strong>
+psp = PPSSPP
+psx = <strong>SwanStation ou DuckStation (standalone)</strong>
+saturn = Beetle Saturn
+snes = <strong>bsnes</strong>
+switch = Yuzu (standalone)
+wii = <strong>Dolphin (standalone)</strong></p>
+<p>Em geral, escolho usar os núcleos RetroArch para sistemas como PS1, N64 e PSP. Embora você possa executar emuladores independentes e obter um desempenho melhor, prefiro as características universais como hotkeys e RetroAchievements que você pode obter ao usar os núcleos do RetroArch, em vez de ter que configurar essas características manualmente para os emuladores independentes. Se você quiser ajustar um emulador para um jogo específico, passe o mouse sobre o jogo no menu, pressione SELECT &gt; Edit this Game’s Metadata &gt; Alternative Emulator e faça a mudança lá.</p>
+<p>Se você quiser baixar temas adicionais, <a href="https://gitlab.com/es-de/themes/themes-list#emulationstation-desktop-edition-es-de-recommended-theme-sets">confira estas opções</a> em seu site. Os temas são salvos em Home/.emulationstation/themes (você precisará habilitar arquivos ocultos para encontrar a pasta .emulationstation). Observe que, para alguns temas, será necessário ajustar o arquivo theme.xml para ajustar a proporção da tela ou outras configurações do tema.</p>
+<p>É possível lançar jogos de PS3 a partir do ES-DE, mas é um pouco complicado. <a href="https://github.com/dragoonDorise/EmuDeck/wiki/RPCS3#how-to-configure-rpcs3-for-emulationstation-de">Aqui está um guia para o processo</a>.</p>
+<blockquote>
+<p>Uma dica rápida de navegação: para rolar para baixo nas configurações do EmulationStation, pressione o botão R2. Isso ajudará a navegar rapidamente por coleções maiores de jogos ou sair rapidamente do ES-DE (pressione START, R2, A e depois A).</p>
+</blockquote>
+<h3 id="atualizando-o-emudeck-e-emuladores">Atualizando o EmuDeck e emuladores<a class="headerlink" href="#atualizando-o-emudeck-e-emuladores" title="Permanent link">&para;</a></h3>
+<p>A plataforma EmuDeck terá atualizações periódicas para adicionar novos recursos ou opções. Para atualizar, abra o EmuDeck e ele encontrará a atualização, instalará e reiniciará o EmuDeck para você. No GitHub deles, você pode ler <a href="https://github.com/dragoonDorise/EmuDeck/releases">o registro de mudanças das atualizações lançadas</a>.</p>
+<p>Depois de instalar o EmuDeck, você terá duas formas de atualizar seus emuladores. Muitos serão atualizados individualmente, como qualquer outro aplicativo, usando a ferramenta de atualização integrada da loja Discover. Basta iniciar no Modo Desktop e você verá um ícone de seta &ldquo;Para cima&rdquo; na barra de tarefas inferior direita. Clique nele e instale seus emuladores. Você também pode abrir o EmuDeck e selecionar &ldquo;Ferramentas e Coisas&rdquo; &gt; Atualizar emuladores e ferramentas &gt; Atualizar Flatpaks para fazer o mesmo.</p>
+<p>Outros emuladores são instalados diretamente do site do desenvolvedor, que também está integrado ao EmuDeck. Para atualizar esses, abra o EmuDeck e selecione &ldquo;Ferramentas e Coisas&rdquo; &gt; Atualizar emuladores e ferramentas &gt; Atualizar AppImages.</p>
+<p>Observe que, ao executar uma atualização no EmuDeck, ela pode sobrescrever quaisquer configurações personalizadas que você tenha feito. Embora haja uma opção no script de atualização que permite escolher não sobrescrever suas configurações, isso ainda pode acontecer à medida que os aplicativos ou o EmuDeck passam por pequenas melhorias. Para garantir que as configurações do seu jogo favorito persistam nas atualizações, às vezes é melhor fazer uma configuração de configurações por jogo (esse processo varia dependendo do sistema que você está emulando).</p>
+<blockquote>
+<p>Além disso, uma atualização do EmuDeck ou de um emulador pode às vezes resultar em comportamentos inesperados. Isso é normal ao tentar consolidar os esforços de toda uma comunidade de emulação em uma única ferramenta! Se você enfrentar alguns problemas, recomendo verificar o servidor Discord do EmuDeck, onde outros podem ajudar a resolver a questão.</p>
+</blockquote>
+<h2 id="cryoutilities">CryoUtilities<a class="headerlink" href="#cryoutilities" title="Permanent link">&para;</a></h2>
+<p><a href="https://github.com/CryoByte33/steam-deck-utilities">CryoUtilities</a> é uma ferramenta que permite algumas otimizações de desempenho ocultas que melhoram a suavidade do jogo para emuladores de ponta, como o Yuzu (Nintendo Switch). Quando usado em conjunto com o plugin PowerTools apresentado abaixo, você pode ter uma jogabilidade melhorada com muito pouco trabalho. Esta ferramenta foi criada pelo YouTuber <a href="https://www.youtube.com/@cryobyte33">CryoByte33</a> e você pode encontrar sua explicação detalhada da ferramenta e seus benefícios neste <a href="https://youtu.be/C9EjXYZUqUs">vídeo</a>.</p>
+<p>Para instalar:</p>
+<ol>
+<li>No modo desktop do Steam Deck, use um navegador web como o Firefox e vá para o <a href="https://github.com/CryoByte33/steam-deck-utilities">GitHub do CryoUtilities</a>, <a href="https://github.com/CryoByte33/steam-deck-utilities#install">baixe o pacote mais recente</a> e salve-o em sua área de trabalho clicando com o botão direito e selecionando &ldquo;Salvar como&rdquo; (<a href="https://raw.githubusercontent.com/CryoByte33/steam-deck-utilities/main/InstallCryoUtilities.desktop">link direto aqui</a>).</li>
+<li>Se ainda não o fez, será necessário criar uma senha sudo. Para fazer isso, abra o aplicativo Konsole e digite a palavra &ldquo;passwd&rdquo; e pressione ENTER. Será solicitado que você crie uma senha do sistema (ou solicite a alteração da senha, caso já exista). Crie uma senha e lembre-se dela para depois.</li>
+<li>Dê um duplo clique no ícone na área de trabalho. Ele executará um script de instalação e criará mais ícones na área de trabalho para você.</li>
+<li>Abra o aplicativo CryoUtilities, ele solicitará a senha sudo que você acabou de criar.</li>
+<li>Uma vez no menu principal, você pode simplesmente tocar no botão &ldquo;Recomendado&rdquo; e deixar o aplicativo fazer o resto do trabalho. Para uma explicação mais longa de todo o conjunto de configurações, confira este <a href="https://youtu.be/C9EjXYZUqUs">vídeo do desenvolvedor</a>.</li>
+<li>Desligue seu dispositivo e, em seguida, mantenha pressionado o botão VOLUME UP enquanto liga o dispositivo. Você pode soltar os botões assim que ouvir o som &ldquo;bloop&rdquo; do Steam Deck. Isso o levará ao menu BIOS. Usando o trackpad direito, navegue até &ldquo;Setup Utility&rdquo; no canto inferior direito e pressione o botão R2 para clicar nele. Vá para Avançado &gt; UMA Frame Buffer Size e altere de 1G para 4G. Em seguida, pressione o botão SELECT e confirme para salvar as alterações e reiniciar o dispositivo.</li>
+<li>Se você quiser reverter às configurações de fábrica, basta reabrir o CryoUtilities e clicar na opção &ldquo;Stock&rdquo;. Você também precisará fazer as etapas demonstradas na Etapa <a class="magiclink magiclink-github magiclink-issue" href="https://github.com/valdecircarvalho/guia-do-steam-deck/issues/6" title="GitHub Issue: valdecircarvalho/guia-do-steam-deck #6">#6</a> do processo de instalação acima, revertendo o tamanho da VRAM de volta para 1GB.</li>
+</ol>
+<p>Observe que a configuração recomendada do CryoUtilities criará um arquivo de troca (swap file) de 16 GB no SSD interno. Se você estiver usando o Steam Deck de 64 GB, onde o armazenamento interno é escasso, isso pode ser uma preocupação. Recomendo usar um cartão microSD grande para armazenar seus jogos e melhorar sua capacidade de armazenamento.</p>
+<h2 id="ferramentas-adicionais-do-emudeck">Ferramentas adicionais do EmuDeck<a class="headerlink" href="#ferramentas-adicionais-do-emudeck" title="Permanent link">&para;</a></h2>
+<p>Além de instalar e configurar seus sistemas retrô favoritos, o EmuDeck possui algumas ferramentas integradas que podem melhorar sua experiência, e podem ser acessadas abrindo o EmuDeck e navegando até <strong>Ferramentas &amp; Coisas (Tools &amp; Stuff)</strong>.</p>
+<ul>
+<li><strong>PowerTools</strong>: PowerTools é um plugin que permitirá ajustar emuladores e jogos específicos para obter o melhor desempenho. Por exemplo, ele funciona muito bem com o Dolphin, permitindo reduzir o número de threads de CPU usadas pelo aplicativo de 8 para 3 (certifique-se de também desativar o SMT), o que fará com que as 3 threads funcionem em uma velocidade de clock mais alta e proporcionem uma jogabilidade suave.</li>
+</ul>
+<p>Se estiver usando o EmuDeck, você pode instalar o PowerTools diretamente no aplicativo. Abra o EmuDeck e selecione &ldquo;Ferramentas &amp; Coisas&rdquo; &gt; PowerTools e siga as instruções. Para instalar o PowerTools manualmente, você precisará usar uma ferramenta chamada <strong><a href="https://deckbrew.xyz/en/user-guide/home">Decky Loader</a></strong>, que fornece uma loja e um caminho de instalação para plugins como o PowerTools. Para instalar o Decky Loader, <a href="https://deckbrew.xyz/en/user-guide/install">siga as instruções</a> em seu site. Depois de instalado, você deve encontrar o menu de plugins na parte inferior do seu Quick Access Menu (QAM) pressionando o botão &ldquo;três pontos&rdquo; enquanto estiver no modo de jogo. A partir daí, você pode tocar no ícone da loja e encontrar o PowerTools. Observe que todos os plugins requerem acesso sudo, e o EmuDeck ou Decky Loader o guiarão pelo processo quando necessário.</p>
+<ul>
+<li><strong>GyroDSU</strong>: GyroDSU é um plugin que libera os controles giroscópios do Steam Deck para serem usados em emuladores para 3DS, Wii, Wii U e Switch. Para começar, <a href="https://github.com/dragoonDorise/EmuDeck/wiki/frequently-asked-questions#how-do-i-install-SteamDeckGyroDSU">confira este guia na página wiki do EmuDeck</a>.</li>
+</ul>
+<p>Observe que o uso de plugins pode, às vezes, fazer com que o dispositivo funcione de forma irregular e travar. Por exemplo, ao sair do PowerTools, é melhor pressionar o botão B no Steam Deck do que pressionar o botão QAM (&ldquo;três pontos&rdquo;), o que às vezes pode causar travamento do Steam Deck.</p>
+<p><strong>EmuDeck Compressor</strong>: Esta ferramenta analisará suas ROMs e as comprimirá para um formato compactado, economizando até 70% do espaço de armazenamento. Jogos de PSX, PS2, Sega CD e Dreamcast serão convertidos para o formato CHD, e jogos do GameCube/Wii serão convertidos para o formato RVZ.</p>
+<p><strong>Verificador de BIOS/BIOS Checker</strong>: Esta ferramenta verificará sua pasta de BIOS e informará se há algum problema. Mesmo que você tenha adicionado BIOS, elas podem não passar nesta verificação devido a uma incompatibilidade de letras maiúsculas/minúsculas, ou pode não ser o arquivo exato que o EmuDeck está procurando.</p>
+<p><strong>Configurações rápidas/Quick Settings</strong>: Se você mudou de ideia sobre molduras, shaders ou proporções de aspecto para sistemas específicos, você pode usar esta ferramenta para alternar rapidamente essas opções.</p>
+<p><strong>SaveBackup</strong>: Esta ferramenta fará backup de seus jogos salvos em um serviço de nuvem como Google Drive ou Dropbox. Esta ferramenta está em beta e, por enquanto, só fará backup de seus jogos salvos. No futuro, esta ferramenta também sincronizará com outros dispositivos.</p>
+<p><strong>Guias de emuladores/Emulator Guides</strong>: Esta seção possui uma lista suspensa dos diferentes emuladores, com algumas notas sobre o emulador. A parte mais útil desta seção é que cada emulador possui um botão &ldquo;Redefinir configuração&rdquo;. Então, se você estragar suas configurações do GameCube e quiser redefini-las sem executar toda a atualização do EmuDeck, você pode simplesmente redefinir as configurações do GameCube aqui.</p>
+<p><strong>Redefinir ou desinstalar o EmuDeck/Reset or Uninstall EmuDeck</strong>: Se você deseja redefinir o EmuDeck para o padrão ou desinstalar o aplicativo completamente, também pode fazer isso na seção &ldquo;Ferramentas &amp; Coisas&rdquo;(Tools &amp; Stuff).</p>
+<p>Outra ferramenta útil, mas não faz parte do EmuDeck:</p>
+<p><strong>VibrantDeck</strong>: VibrantDeck é um plugin que permite aumentar os níveis de saturação na tela do seu Steam Deck. Ele é instalado através do DeckyLoader, que será instalado ao mesmo tempo que o PowerTools e o GyroDSU. Pessoalmente, uso uma configuração de VibrantDeck de 120.</p>
+<h2 id="hotkeys">Hotkeys<a class="headerlink" href="#hotkeys" title="Permanent link">&para;</a></h2>
+<p>Um dos desafios de emular jogos no Steam Deck é encontrar uma boa maneira de imitar os controladores originais para os sistemas que você deseja emular. O EmuDeck pré-configurará os controles para você usando as ligações que você vê acima. Se desejar ajustar algum deles, você pode entrar nas configurações do emulador e ajustá-los conforme sua preferência.</p>
+<p>Observe que, para alguns sistemas (Wii U, 3DS, etc.), você precisará habilitar um Perfil do Controlador Steam para que as teclas de atalho funcionem. Vamos usar o 3DS como exemplo. Tudo o que você precisa fazer é inicializar um jogo do 3DS enquanto estiver no modo de jogo do Steam Deck, pressionar o botão STEAM &gt; Configurações do Controlador &gt; Layout Atual &gt; Modelo &gt; EmuDeck - Citra 3DS. Observe que isso deve ser feito UMA VEZ para cada jogo, ele lembrará o perfil depois disso.</p>
+<h2 id="retroarch">RetroArch<a class="headerlink" href="#retroarch" title="Permanent link">&para;</a></h2>
+<p>Aplicativo: RetroArch (FlatPak)
+Tipos de arquivo: variados
+BIOS: variadas (colocar na pasta /Emulation/bios/)
+Mais informações: <a href="https://github.com/dragoonDorise/EmuDeck/wiki/Retroarch">página da wiki do EmuDeck</a></p>
+<p>RetroArch é um programa de emulação tudo-em-um que oferece muitas opções padronizadas, como hotkeys universais, implementação de trapaças fácil, shaders, filtros, autosaves e muito mais. Para todos os sistemas de baixo desempenho (basicamente tudo até PSP), eu prefiro usar o RetroArch, mas para os sistemas mais difíceis de emular, muitas vezes é melhor usar os emuladores independentes. Existem também emuladores independentes para os sistemas que funcionam bem no RetroArch (PS1, PSP, N64).</p>
+<p>Para uma lista dos sistemas mais comuns suportados pelo RetroArch ao usar o EmuDeck, confira <a href="https://github.com/dragoonDorise/EmuDeck/wiki/Retroarch#list-of-retroarch-cores-used-by-emudeck">esta lista da página do GitHub do EmuDeck</a>. Aqui você encontrará o nome do sistema e as extensões de arquivo aceitas, além de quaisquer arquivos de BIOS necessários, se houver. Uma solução fácil para as BIOS é procurar por um &ldquo;pacote de BIOS RetroArch&rdquo; e colocar todos os arquivos de BIOS do pacote na pasta /Emulation/bios/. Esses pacotes provavelmente contêm mais arquivos do que você precisa, mas funcionarão em caso de necessidade.</p>
+<blockquote>
+<p><strong>Observe que o RetroArch requer que o Steam Deck esteja sendo executado a 60Hz</strong>. Se estiver experimentando desaceleração, pressione o botão QAM (&ldquo;três pontos&rdquo;), vá para a seção de Bateria (Desempenho) e verifique se o Limite de Taxa de Quadros e a Taxa de Atualização estão ambos definidos como 60.</p>
+</blockquote>
+<ul>
+<li><strong>Jogos com vários discos (Multi-Disc Games)</strong>: se estiver jogando algo com vários discos, a maneira mais fácil de gerenciá-los é através de um arquivo m3u. <a href="https://github.com/dragoonDorise/EmuDeck/wiki/File-Management#method-1-creating-an-m3u-file">Aqui está um excelente tutorial da página wiki do EmuDeck</a>.</li>
+</ul>
+<p>Arquivos de sistema PSP: Se estiver executando jogos de PSP pelo RetroArch, você precisará baixar os arquivos de sistema do PSP dentro do próprio aplicativo. Abra o RetroArch, vá para o Menu Principal &gt; Atualização Online &gt; Baixar Arquivos do Sistema do Núcleo &gt; PPSSPP.zip - isso fará o download e a instalação dos arquivos para fazer os menus funcionarem corretamente.</p>
+<p>Tamanhos de imagem N64: Devido à natureza do processamento de vídeo do N64, alguns jogos terão barras pretas ao redor da imagem (isso foi algo embutido em certos jogos de N64). Se quiser ampliar a imagem para remover essas bordas, pressione SELECT + Y para abrir o menu rápido do RetroArch, pressione B para voltar ao menu principal, selecione Configurações &gt; Vídeo &gt; Escala &gt; Proporção de Aspecto e defina como Personalizado. Em seguida, ajuste os parâmetros de proporção de aspecto personalizados para que a imagem se estenda por toda a tela (ou como preferir). Quando estiver satisfeito com o resultado, vá para Menu Rápido &gt; Substituições de Jogos Salvas. Agora, toda vez que iniciar esse jogo, ele será ampliado corretamente.</p>
+<ul>
+<li>
+<p><strong>Correção do limite de 30fps do N64</strong> (N64 30fps cap fix): Se você está enfrentando um limite de 30fps em jogos N64, é necessário    desativar a opção &ldquo;rewind&rdquo;. Abra um jogo N64, pressione SELECT + Y para abrir o menu rápido do RetroArch, pressione B para voltar ao menu principal e selecione Configurações &gt; Frame Throttling &gt; Rewind e desative-o, isso deve corrigir o problema. Depois disso, você pode ir em Quick Menu &gt; Overrides &gt; Save Core Overrides para que todos os jogos N64 tenham a opção &ldquo;rewind&rdquo; desativada.</p>
+</li>
+<li>
+<p><strong>Conquistas retroativas (RetroAchievements)</strong>: uma das características mais legais do RetroArch é a integração com o RetroAchievements. Esta é uma ferramenta comunitária multiplataforma que ajuda você a rastrear e alcançar conquistas em jogos retrô. Como parte do processo de instalação do EmuDeck, você terá a oportunidade de integrar suas conquistas retroativas à experiência do EmuDeck e RetroArch. Para começar, registre-se para obter uma conta gratuita no site RetroAchievements e, em seguida, certifique-se de inserir seus dados de login ao configurar o EmuDeck. Se você já instalou o EmuDeck, mas deseja adicionar conquistas retroativas posteriormente, não se preocupe - basta voltar para o modo Desktop, entrar no modo Custom e adicionar seus dados de login quando solicitado.</p>
+</li>
+</ul>
+<p>Aqui está uma lista dos <a href="https://github.com/dragoonDorise/EmuDeck#hotkeys">atalhos universais</a> mais importantes para sistemas RetroArch:</p>
+<ul>
+<li>Sair do jogo: SELECT + START</li>
+<li>Avançar rápido: SELECT + R2</li>
+<li>Salvar estado: SELECT + R1</li>
+<li>Carregar estado: SELECT + L1</li>
+<li>Menu rápido do RetroArch: SELECT + Y (ou L3 + R3)</li>
+<li>Alternar FPS: SELECT + X</li>
+</ul>
+<p>Observe que RetroArch pode ser um aplicativo bastante complexo de usar. O EmuDeck configurará a maioria das coisas para você e a experiência deve ser perfeita para que você nunca precise interagir com os menus do RetroArch. Mas se há algo específico que você gostaria de fazer com o aplicativo, eu recomendaria verificar o <a href="https://retrogamecorps.com/2022/02/28/retroarch-starter-guide/">meu Guia Inicial do RetroArch</a> <sup>Nota: Por agora não pretendo traduzir o texto do Guia do RetroArch do Russ</sup> para mergulhar mais profundamente em suas opções.</p>
+
+
+  
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
+            Voltar para o topo
+          </button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Rodapé" >
+        
+          
+          <a href="../guia1/" class="md-footer__link md-footer__link--prev" aria-label="Anterior: Guia Descomplicado do Emudeck" rel="prev">
+            <div class="md-footer__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Anterior
+              </span>
+              <div class="md-ellipsis">
+                Guia Descomplicado do Emudeck
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../packs-completos-de-emuladores-para-o-steam-deck/" class="md-footer__link md-footer__link--next" aria-label="Próximo: Packs de Emuladores para o Steam Deck" rel="next">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Próximo
+              </span>
+              <div class="md-ellipsis">
+                Packs de Emuladores para o Steam Deck
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; 2023 - Guia do Steam Deck (v3) por Valdecir Carvalho.  <br> Guia do Steam Deck is a fan project and is in no way associated with Valve and/or Steam.  <br> The Steam Deck, logos, and images are property of Valve. All game images and logos are property of their respective owners. <a href="#__consent"></a>
+
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+        <div class="md-social">
+  
+    
+    
+    
+    
+    <a href="https://github.com/valdecircarvalho/guia-do-steam-deck" target="_blank" rel="noopener" title="Github Guia do Steam Deck" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+    <a href="https://twitter.com/guiadosteamdeck" target="_blank" rel="noopener" title="Twitter Guia do Steam Deck @guiadosteamdeck" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+    <a href="https://valdecir.me" target="_blank" rel="noopener" title="Valdecir Carvalho" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M118.6 80c-11.5 0-21.4 7.9-24 19.1L57 260.3c20.5-6.2 48.3-12.3 78.7-12.3 32.3 0 61.8 6.9 82.8 13.5 10.6 3.3 19.3 6.7 25.4 9.2 3.1 1.3 5.5 2.4 7.3 3.2.9.4 1.6.7 2.1 1l.6.3.2.1h.1l-6.3 12.7 6.3-12.7c5.8 2.9 10.4 7.3 13.5 12.7h40.6c3.1-5.3 7.7-9.8 13.5-12.7l6.3 12.7-6.3-12.7h.1l.2-.1.6-.3c.5-.2 1.2-.6 2.1-1 1.8-.8 4.2-1.9 7.3-3.2 6.1-2.6 14.8-5.9 25.4-9.2 21-6.6 50.4-13.5 82.8-13.5 30.4 0 58.2 6.1 78.7 12.3L481.4 99.1c-2.6-11.2-12.6-19.1-24-19.1-3.1 0-6.2.6-9.2 1.8l-31.3 12.5c-12.3 4.9-26.3-1.1-31.2-13.4s1.1-26.3 13.4-31.2l31.3-12.5c8.6-3.4 17.7-5.2 27-5.2 33.8 0 63.1 23.3 70.8 56.2l43.9 188c1.7 7.3 2.9 14.7 3.5 22.1.3 1.9.5 3.8.5 5.7v64c0 61.9-50.1 112-112 112h-44.4c-59.4 0-108.5-46.4-111.8-105.8l-1.3-22.2h-37.2l-1.2 22.2C264.9 433.6 215.8 480 156.3 480H112C50.1 480 0 429.9 0 368v-64c0-1.9.2-3.8.5-5.7.6-7.4 1.8-14.8 3.5-22.1l43.9-188C55.5 55.3 84.8 32 118.6 32c9.2 0 18.4 1.8 27 5.2l31.3 12.5c12.3 4.9 18.3 18.9 13.4 31.2s-18.9 18.3-31.2 13.4l-31.3-12.5c-2.9-1.2-6-1.8-9.2-1.8zM64 325.4V368c0 26.5 21.5 48 48 48h44.3c25.5 0 46.5-19.9 47.9-45.3l2.5-45.6c-2.3-.8-4.9-1.7-7.5-2.5-17.2-5.4-39.9-10.5-63.6-10.5-23.7 0-46.2 5.1-63.2 10.5-3.1 1-5.9 1.9-8.5 2.9zM512 368v-42.6c-2.6-.9-5.5-1.9-8.5-2.9-17-5.4-39.5-10.5-63.2-10.5-23.7 0-46.4 5.1-63.6 10.5-2.7.8-5.2 1.7-7.5 2.5l2.5 45.6c1.4 25.4 22.5 45.3 47.9 45.3H464c26.5 0 48-21.5 48-48z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+      <div class="md-consent" data-md-component="consent" id="__consent" hidden>
+        <div class="md-consent__overlay"></div>
+        <aside class="md-consent__inner">
+          <form class="md-consent__form md-grid md-typeset" name="consent">
+            
+
+  
+    
+  
+
+
+
+
+
+  
+
+<h4>Cookie consent</h4>
+<p>Usamos cookies para reconhecer suas visitas repetidas e preferências, bem como para medir a eficácia de nossa documentação e se os usuários encontrar o que eles estão procurando. Com o seu consentimento, você está nos ajudando a tornar nossa documentação melhor</p>
+<input class="md-toggle" type="checkbox" id="__settings" checked>
+<div class="md-consent__settings">
+  <ul class="task-list">
+    
+      
+      
+        
+        
+      
+      <li class="task-list-item">
+        <label class="task-list-control">
+          <input type="checkbox" name="analytics" checked>
+          <span class="task-list-indicator"></span>
+          Google Analytics
+        </label>
+      </li>
+    
+  </ul>
+</div>
+<div class="md-consent__controls">
+  
+    
+      <button class="md-button md-button--primary">Aceitar</button>
+    
+    
+    
+  
+    
+    
+      <button type="reset" class="md-button md-button--primary">Rejeitar</button>
+    
+    
+  
+</div>
+          </form>
+        </aside>
+      </div>
+      <script>var consent=__md_get("__consent");if(consent)for(var input of document.forms.consent.elements)input.name&&(input.checked=consent[input.name]||!1);else"file:"!==location.protocol&&setTimeout(function(){document.querySelector("[data-md-component=consent]").hidden=!1},250);var action,form=document.forms.consent;for(action of["submit","reset"])form.addEventListener(action,function(e){if(e.preventDefault(),"reset"===e.type)for(var n of document.forms.consent.elements)n.name&&(n.checked=!1);__md_set("__consent",Object.fromEntries(Array.from(new FormData(form).keys()).map(function(e){return[e,!0]}))),location.hash="",location.reload()})</script>
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.tracking", "navigation.tabs", "navigation.tabs.sticky", null, null, "navigation.indexes", "toc.follow", null, "navigation.top", "search.suggest", "search.highlight", "search.share", "announce.dismiss", "navigation.footer"], "search": "../../assets/javascripts/workers/search.208ed371.min.js", "tags": {"CSS": "css", "HTML5": "html", "JavaScript": "js"}, "translations": {"clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "search.result.more.one": "mais 1 nesta p\u00e1gina", "search.result.more.other": "# mais nesta p\u00e1gina", "search.result.none": "Nenhum documento encontrado", "search.result.one": "1 documento encontrado", "search.result.other": "# documentos encontrados", "search.result.placeholder": "Digite para iniciar a busca", "search.result.term.missing": "Ausente", "select.version": "Selecione a vers\u00e3o"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.fac441b0.min.js"></script>
+      
+        <script src="../../js/open_in_new_tab.js"></script>
+      
+    
+  </body>
+</html>
