@@ -19,11 +19,20 @@ search:
 
 ## Configurações Iniciais
 
+!!! warning "Minha Opinião Pessoal"
+
+        Curta o seu Steam Deck. **Resista a tentação de instalar um monte de jogos, plugins, aplicativos, software, tweaks, etc, ao menos no começo.** O Steam Deck funciona tão bem AS-IS, assim que sai da caixa, que você não precisa de NADA para se divertir, apenas jogos. Por outro lado, o Steam Deck ofereçe tantas opções de customização, softwares, emuladores, plugins que se você embarcar nessa no começo, você pode acabar gastando mais tempo "customizando" e **tentando** tunar o seu Deck que não vai sobrar tempo para se divertir jogando, além que se alguma customização der errado, você não vai saber o que deu errado. 
+
+!!! info " "
+
+        As informações dessa página foram compiladas a partir de diversas fontes e da minha experiência pessoal. As informações podem ou não servir para você! Leia tudo e decida o que você quer fazer ou não!
+
 ### Ligando o console. Primeiro boot!
 
 Após tirar o seu novo Steam Deck da caixa - aprecie cada momento do unbox - dê aquela cheirada para sentir o cheiro de brinquedo novo (eu sempre faço isso).
 
-![Modelos de SSD M.2](/img/steamdeck-fechado.jpg)
+
+![Steam Deck na caixa com o lacre](/img/steamdeck-fechado.jpg)
 
 - Caso esteja usando o seu Steam Deck pela primeira vez, você precisará deixá-lo ligado na tomada por alguns minutos usando a fonte de alimentação fornecida para despertá-lo do modo de economia de energia configurado de fábrica. 
 
@@ -126,6 +135,12 @@ Como dito anteriormente, a Valve criou um game especialmente para isso e de queb
 [Aperture Deck Job](https://store.steampowered.com/app/1902490/Aperture_Desk_Job/)
 
 ### Instale seus jogos preferidos
+
+Se você já tem jogos da Steam, primeiro verifique se eles são compatíveis com o Steam Deck. Minha recomendação é que você começe instalando os jogos compatíveis primeiro. Isso vai garantir uma melhor experiência. 
+
+Na sessão [Jogos](/jogos/jogos), você pode ler mais informações sobre jogos compatíveis com o Steam Deck, jogos verificados, jogos **Deck Ready** na sua biblioteca de jogos, etc.
+
+Mais para frente, você pode começar a explorar outras maneiras de instalar e rodar jogos não compatíveis com o Steam Deck.
 
 ### Explore o Modo Desktop do Steam Deck
 
