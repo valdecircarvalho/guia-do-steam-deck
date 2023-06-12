@@ -145,6 +145,10 @@ Mais para frente, você pode começar a explorar outras maneiras de instalar e r
 ### Explore o Modo Desktop do Steam Deck
 
 
+### Configurações avançadas
+
+Agora que você já se acostumou com o seu Steam Deck, já se divertiu... veja a sessão com algumas **[Configurações Avaçadas](/configuracoes-avancadas/configuracoes-avancadas-steam-deck/) do Steam Deck**
+
 ### Links Úteis
 
 !!! tip "Links Úteis"
