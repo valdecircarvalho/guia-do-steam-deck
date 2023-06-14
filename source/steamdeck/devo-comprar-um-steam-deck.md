@@ -1,21 +1,32 @@
 ---
-title: Artigo - Minha Relação com o Steam Deck
-description: Um mês com o Steam Deck e como eu retomei o gosto por videoogames
+title: Devo comprar um Steam Deck? 
+description: Devo comprar um Steam Deck? 
 authors:
     - Valdecir Carvalho
-date: 2023-03-01
+date: 2023-04-01
 tags:
   - steamdeck
 ---
 
-## Um mês com o Steam Deck e como eu retomei o gosto por videoogames.
+:fontawesome-solid-person-digging: **_Em construção_**
+:simple-steamdeck:
 
-_2023-02-07_
+# Devo comprar um Steam Deck? 
 
-Eu sempre gostei de jogar video game, ainda hoje lembro do dia que ganhei o meu primeiro ATARI 2600, lá no ano de 1987
-Recentemente, comprei um Steam Deck - se você não sabe o que é um Steam Deck, vou resumir rapidinho aqui para você: é um PC portátil da Valve (aquela da Steam) que se parece com um Nintendo Switch, só que muito mais poderoso. - e posso dizer que faz muito tempo que não me divirto tanto com um gadget. Esse joguinho é poderoso o suficiente para rodar a grande maioria dos jogos de PC AAA do mercado com uma qualidade super bacana. 
+Essa é uma pergunta que eu vejo direto nos sites e fóruns pela internet.
 
-### Mas porque estou me divertindo tanto? 
+Quando comprei o meu Steam Deck, lá em Janeiro/2023, escrevi um artigo sobre [como eu retomei o gosto por videoogames](/artigos/minha-relacao-com-steamdeck)
+
+Passados seis meses com o Steam Deck, muita coisa do que escrevi continuam valendo.
+
+Mas respondendo a pergunta: Devo comprar um Steam Deck? 
+
+Resposta curta: SIM! 
+Resposta longa: Depende :) 
+
+Porque depende? 
+
+Estou em duvida entre o "insira o nome do console aqui" e o Steam Deck
 
  1. É super simples de usar. Basta baixar o jogo da Steam e começar a brincar. 
  2. Você aperta um botão e bum… já tá no jogo. Então qualquer 15 minutinhos que eu tenho livre já pego para jogar um pouquinho. Quando acaba o tempo, aperta o botão e ele hiberna. 
@@ -39,11 +50,3 @@ EMU DECK, um sistema simples e fácil de rodar emuladores no Steam Deck - https:
  3. Como o Steam Deck é um PC que roda uma versão de Linux, você pode customizar da maneira que quiser e se você for um NERD igual eu, você VAI QUERER customizar e isso da trabalho, horas e horas de vídeo, blogs e Reddit. Por outro lado, se quiser deixar no padrão, vai funcionar de boas. (Por isso que eu gosto da Apple, como é tudo fechadinho, não tem a tentação de ficar fuçando). 
  4. Vai ficar “defasado” meio que logo. O Steam Deck foi lançado já tem quase um ano, então a tendência é que em breve uma nova versão seja lançada, mais pontente e com mais recursos. Mas esse é o preço que se paga. 
  5. Já existem outros handhelds até mais potentes que o Steam Deck, mas de todos os reviews que eu andei vendo pela internet, nenhum compete com ele no quesito preço. 
-
-É isso, estou feliz demais com o brinquedo até o momento, estou me divertindo bastante e adorando a experiência. Esse aparelho me fez gostar de jogar videogame novamente.
-
-Se você está tentado a comprar um Steam Deck, o que posso dizer é vai fundo!!! 
-
--- Valdecir Carvalho - [iamval.me](https://iamval.me)
-
-[guiadosteamdeck.com.br](https://guiadosteamdeck.com.br)

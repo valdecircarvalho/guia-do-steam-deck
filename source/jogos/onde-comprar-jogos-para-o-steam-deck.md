@@ -21,12 +21,13 @@ Existem vários sites onde você pode comprar jogos Steam (chaves de jogos) e ge
 
 Recomendo ter um pouco de cuidado, verificar o site, modo de pagamento, devolução, etc. Minha experiência até o momento foi com o site Eneba e não tive nenhum problema, paguei com cartão em Reais e o processo foi bem simples.
 
-- [Fanatical](https://www.fanatical.com/)
-- [Eneba](https://www.eneba.com/br/)
-- [Nuuvem](https://www.nuuvem.com/br-en/)
-- [GG Deals - Steam Deals](https://gg.deals/deals/steam-deals/)
-- [SteamDB Sales](https://steamdb.info/sales/)
-- [SteamDB Sales - Novidades](https://steamdb.info/sales/history/)
+- [Fanatical](https://www.fanatical.com/) - Loja alternativa para compra de keys para Steam
+- [Eneba](https://www.eneba.com/br/) - Loja alternativa para compra de keys para Steam
+- [Nuuvem](https://www.nuuvem.com/br-en/) - Loja alternativa para compra de keys para Steam
+- [IsThereAnyDeal](https://isthereanydeal.com/) - Comparador de preços entre vários sites de vendas de keys
+- [GG Deals - Steam Deals](https://gg.deals/deals/steam-deals/) - Comparador de preços entre vários sites de vendas de keys
+- [SteamDB Sales](https://steamdb.info/sales/) - Mostra as próximas Sales da Steam (onde você pode conseguir grandes descontos!)
+- [SteamDB Sales - Novidades](https://steamdb.info/sales/history/) - O que está em Sale na Steam no momento. Sempre bom para descobrir jogos com descontos
 
 
 !!! info "Fontes"

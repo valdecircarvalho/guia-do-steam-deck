@@ -101,6 +101,14 @@ Mais algumas contas no Twitter que vale a pena seguir e que falam sobre Steam De
 
 ### Grupos WhatsApp
 
+### Foruns
+
+- [Steam Deck no GBATemp](https://gbatemp.net/forums/steam-deck.335/)
+- [Steam Deck no SteamCommunity.com](https://steamcommunity.com/app/1675200/discussions/)
+- [Steam Deck no XDA-Developers.com](https://forum.xda-developers.com/f/valve-steam-deck.12403/)
+- [Steam Deck no Adrenaline](https://forum.adrenaline.com.br/threads/topico-dedicado-steam-deck-o-videogame-portatil-da-valve.686817/)
+- 
+
 ### Communidades Reddit
 
 - [r/steamdeckbrasil](https://www.reddit.com/r/steamdeckbrasil/) ** esse subredit foi criado e é mantido por mim :)
@@ -170,7 +178,6 @@ Mais algumas contas no Twitter que vale a pena seguir e que falam sobre Steam De
 - [ProtonDB](https://www.protondb.com/) - Banco de dados colaborativo de relatórios de compatibilidade de jogos para Linux e Steam Deck.
 - [sharedeck.games - An unofficial site to find and share Steam Deck performance configurations.](https://sharedeck.games/)
 - [Linux Gaming Central](https://www.linuxgamecast.com/category/news/) - Notícias sobre jogos para Linux, incluindo notícias do Steam Deck.
-
 
 ----
 ## Canais de Youtube sobre o Steam Deck
