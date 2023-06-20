@@ -43,3 +43,6 @@
 [submodule "aux-repos/megathread"]
 	path = aux-repos/megathread
 	url = https://gitlab.com/r-roms/megathread.git
+[submodule "aux-repos/FMHYedit"]
+	path = aux-repos/FMHYedit
+	url = https://github.com/fmhy/FMHYedit.git
