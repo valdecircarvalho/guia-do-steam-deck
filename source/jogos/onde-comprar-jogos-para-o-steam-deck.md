@@ -24,6 +24,8 @@ Recomendo ter um pouco de cuidado, verificar o site, modo de pagamento, devoluç
 - [Fanatical](https://www.fanatical.com/) - Loja alternativa para compra de keys para Steam
 - [Eneba](https://www.eneba.com/br/) - Loja alternativa para compra de keys para Steam
 - [Nuuvem](https://www.nuuvem.com/br-en/) - Loja alternativa para compra de keys para Steam
+- [Hype Games](https://hype.games/)
+- [Green Man Gaming](https://www.greenmangaming.com/)
 - [IsThereAnyDeal](https://isthereanydeal.com/) - Comparador de preços entre vários sites de vendas de keys
 - [GG Deals - Steam Deals](https://gg.deals/deals/steam-deals/) - Comparador de preços entre vários sites de vendas de keys
 - [SteamDB Sales](https://steamdb.info/sales/) - Mostra as próximas Sales da Steam (onde você pode conseguir grandes descontos!)
