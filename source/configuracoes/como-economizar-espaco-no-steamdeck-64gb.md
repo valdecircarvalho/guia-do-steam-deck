@@ -1,0 +1,1 @@
+https://www.reddit.com/r/SteamDeck/comments/14lqi00/how_to_save_space_on_your_64gb_steam_deck/

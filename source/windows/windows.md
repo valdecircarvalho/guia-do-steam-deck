@@ -12,6 +12,8 @@ tags:
 # Windows no Steam Deck
 **_Em construção_**
 
+Antes de começar, já vou responder a primeira pergunta que todo novo usuário do Steam Deck tem: É possível instalar o Windows no Steam Deck? E a resposta é SIM! É possível. 
+
 ## Posso instalar o Windows no meu Steam Deck?
 
 ## Porque devo instalar o Windows no Steam Deck?
