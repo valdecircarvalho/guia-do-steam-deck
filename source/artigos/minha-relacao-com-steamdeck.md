@@ -1,6 +1,6 @@
 ---
 title: Artigo - Minha Relação com o Steam Deck
-description: Um mês com o Steam Deck e como eu retomei o gosto por videoogames
+description: Um mês com o Steam Deck e como eu retomei o gosto por videogames
 authors:
     - Valdecir Carvalho
 date: 2023-03-01
@@ -8,12 +8,15 @@ tags:
   - steamdeck
 ---
 
-## Um mês com o Steam Deck e como eu retomei o gosto por videoogames.
+## Um mês com o Steam Deck e como eu retomei o gosto por videogames.
 
 _2023-02-07_
 
-Eu sempre gostei de jogar video game, ainda hoje lembro do dia que ganhei o meu primeiro ATARI 2600, lá no ano de 1987
-Recentemente, comprei um Steam Deck - se você não sabe o que é um Steam Deck, vou resumir rapidinho aqui para você: é um PC portátil da Valve (aquela da Steam) que se parece com um Nintendo Switch, só que muito mais poderoso. - e posso dizer que faz muito tempo que não me divirto tanto com um gadget. Esse joguinho é poderoso o suficiente para rodar a grande maioria dos jogos de PC AAA do mercado com uma qualidade super bacana. 
+Eu sempre gostei de jogar video game, ainda hoje lembro do dia que ganhei o meu primeiro ATARI 2600, lá no ano de 1987. Depois disso, eu passei por toda a era 8-bits, tive NES, Master System, Gameboy, depois veio o 16-bits com o SNES e o Mega Drive, depois o Playstation 1, PSP, Xbox 360, isso sem contar os arcades ou o famoso fliperama.
+
+Recentemente, comprei um Steam Deck - se você não sabe o que é um Steam Deck, vou resumir rapidinho aqui para você: é um PC portátil da Valve (aquela da Steam) que se parece com um Nintendo Switch, só que muito mais poderoso. - e posso dizer que faz muito tempo que não me divirto tanto com um gadget. 
+
+Esse joguinho é poderoso o suficiente para rodar a grande maioria dos jogos de PC AAA do mercado com uma qualidade super bacana. 
 
 ### Mas porque estou me divertindo tanto? 
 

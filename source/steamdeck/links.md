@@ -167,6 +167,7 @@ Mais algumas contas no Twitter que vale a pena seguir e que falam sobre Steam De
 - [steamdeckhq.com](https://steamdeckhq.com/)
 - [steamdecklife.com](https://steamdecklife.com/)
 - [overkill.wtf](https://overkill.wtf/tag/steam-deck/)
+- [Steam Deck News](https://steamdeck.news/)
 - [Retro Resolve](https://retroresolve.com/tag/steam-deck/)
 
 ----

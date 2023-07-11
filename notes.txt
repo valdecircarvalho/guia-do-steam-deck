@@ -37,14 +37,39 @@ git submodule add https://github.com/ryanrudolfoba/SteamDeck-Clover-dualboot.git
 git submodule add https://github.com/matthewbarreiro/awesome-steam-deck.git
 git submodule add https://github.com/brenoprata10/steam-deck-romate.git
 git submodule add https://github.com/wilco42/awesome-steamdeck.git
-
 git submodule add https://github.com/XargonWan/RetroDECK.wiki.git
 git submodule add https://github.com/baldsealion/Steam-Deck-Ultimate-Windows-Guide.git
 git submodule add https://github.com/popsUlfr/steam-deck-tricks.git
 git submodule add https://github.com/Matalus/steamdeck-tips.git
-
-
 git submodule add https://gitlab.com/r-roms/megathread.git
-
-
 git submodule add https://github.com/fmhy/FMHYedit.git
+git submodule add https://github.com/Minibattle/WinDeckOS
+
+
+git submodule update --remote --merge 
+
+
+# Get the submodule initially
+git submodule add ssh://bla submodule_dir
+git submodule init
+
+# Time passes, submodule upstream is updated
+# and you now want to update
+
+# Change to the submodule directory
+cd submodule_dir
+
+# Checkout desired branch
+git checkout master
+
+# Update
+git pull
+
+# Get back to your project root
+cd ..
+
+# Now the submodules are in the state you want, so
+git commit -am "Pulled down update to submodule_dir"
+Or, if you're a busy person:
+
+git submodule foreach git pull origin master

@@ -149,6 +149,10 @@ Mais para frente, você pode começar a explorar outras maneiras de instalar e r
 
 Agora que você já se acostumou com o seu Steam Deck, já se divertiu... veja a sessão com algumas **[Configurações Avaçadas](/configuracoes-avancadas/configuracoes-avancadas-steam-deck/) do Steam Deck**
 
+### Mais Info
+
+https://twitter.com/SteamDeckHQ/status/1675559267259256833?s=20
+
 ### Links Úteis
 
 !!! tip "Links Úteis"

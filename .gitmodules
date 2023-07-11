@@ -46,3 +46,6 @@
 [submodule "aux-repos/FMHYedit"]
 	path = aux-repos/FMHYedit
 	url = https://github.com/fmhy/FMHYedit.git
+[submodule "aux-repos/WinDeckOS"]
+	path = aux-repos/WinDeckOS
+	url = https://github.com/Minibattle/WinDeckOS
