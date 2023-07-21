@@ -26,38 +26,51 @@ Resposta longa: Depende :)
 
 Porque depende? 
 
- 1. É super simples de usar. Basta baixar o jogo da Steam e começar a brincar. 
- 2. Você aperta um botão e bum… já tá no jogo. Então qualquer 15 minutinhos que eu tenho livre já pego para jogar um pouquinho. Quando acaba o tempo, aperta o botão e ele hiberna. 
- 3. Da para jogar no sofá, na cama, no banheiro, na fila do correio, no Uber, etc. portabilidade é a palavra. E se quiser ainda pode ligar em um monitor ou na TV e jogar com um controle qualquer.
- 4. Como é portátil, não tem todo o trabalho do PC. Liga, espera subir o Windows, abre o jogo… não, está tudo ali na sua mão a um aperto do botão de ligar. 
- 5. Eu nunca fui um cara de jogar no PC, sempre tive para mim que PC é para trabalhar e console é para jogar. Não sei jogar com teclado e mouse, simplesmente não sei e o Steam Deck coloca um controle e uma tela nas minhas mãos. 
- 6. Eu adoro jogo antigo, jogo velho e o Steam Deck emula praticamente TUDO, desde o ATARI 2600 até o Nintendo Switch. Então isso é um paraíso para mim.
-No alt text provided for this image
-EMU DECK, um sistema simples e fácil de rodar emuladores no Steam Deck - https://www.emudeck.com/
- 7. Jogos de PC são mais baratos do que jogos de console (não tô falando daquele CD pirata da feira do PS2 por 5 reais). Desde que comprei o meu Xbox One há 8-9 anos atrás, nunca mais comprei jogo pirata, mas também não compro tantos jogos. E com o Steam Deck da para comprar jogos BACANAS por um preço bem atrativo. E se você tem um Nintendo Switch, vai saber muito bem do que eu estou falando!!!
- 8. Preço: mesmo comprando aqui no Brasil, com todo o ágio do Mercado Libre, ainda é mais barato do que um PC Gamer e tem a vantagem da portabilidade. Se vc conseguir um esquema para trazer da gringa, fica melhor ainda. 
- 9. É leve e confortável de usar por várias horas sem se cansar.
- 10. Da para usar como um PC normal, navegador, planilha, editor de texto, etc… não sei se substituiria o PC do dia a dia, mas quebra o galho bem demais. 
- 11. Existe uma comunidade ENORME, então é bem tranquilo de encontrar resposta para problemas - no final do artigo vou compartilhar um link no meu GitHub onde estou colecionando links interessantes sobre o Steam Deck. 
- 12. É um lindo objeto criado pela engenharia. 
+- É super simples de usar. Basta baixar o jogo da Steam e começar a brincar. 
+
+- Você aperta um botão e bum… já tá no jogo. Então qualquer 15 minutinhos que eu tenho livre já pego para jogar um pouquinho. Quando acaba o tempo, aperta o botão e ele hiberna. 
+
+- Da para jogar no sofá, na cama, no banheiro, na fila do correio, no Uber, etc. portabilidade é a palavra. E se quiser ainda pode ligar em um monitor ou na TV e jogar com um controle qualquer.
+
+- Como é portátil, não tem todo o trabalho do PC. Liga, espera subir o Windows, abre o jogo… não, está tudo ali na sua mão a um aperto do botão de ligar. 
+ 
+- Eu nunca fui um cara de jogar no PC, sempre tive para mim que PC é para trabalhar e console é para jogar. Não sei jogar com teclado e mouse, simplesmente não sei e o Steam Deck coloca um controle e uma tela nas minhas mãos. 
+ 
+- Eu adoro jogo antigo, jogo velho e o Steam Deck emula praticamente TUDO, desde o ATARI 2600 até o Nintendo Switch. Então isso é um paraíso para mim. EMU DECK, um sistema simples e fácil de rodar emuladores no Steam Deck - https://www.emudeck.com/
+
+- Jogos de PC são mais baratos do que jogos de console (não tô falando daquele CD pirata da feira do PS2 por 5 reais). Desde que comprei o meu Xbox One há 8-9 anos atrás, nunca mais comprei jogo pirata, mas também não compro tantos jogos. E com o Steam Deck da para comprar jogos BACANAS por um preço bem atrativo. E se você tem um Nintendo Switch, vai saber muito bem do que eu estou falando!!!
+
+- Preço: mesmo comprando aqui no Brasil, com todo o ágio do Mercado Libre, ainda é mais barato do que um PC Gamer e tem a vantagem da portabilidade. Se vc conseguir um esquema para trazer da gringa, fica melhor ainda. 
+
+- É leve e confortável de usar por várias horas sem se cansar.
+
+- Da para usar como um PC normal, navegador, planilha, editor de texto, etc… não sei se substituiria o PC do dia a dia, mas quebra o galho bem demais. 
+ 
+- Existe uma comunidade ENORME, então é bem tranquilo de encontrar resposta para problemas - no final do artigo vou compartilhar um link no meu GitHub onde estou colecionando links interessantes sobre o Steam Deck. 
+
+- É um lindo objeto criado pela engenharia. 
 
 ### Mas nem tudo são flores:
 
- 1. Custo no Brasil. Se você comprar um aqui no Mercado Livre, vai pagar coisa de R$3000-R$3500 pelo modelo mais simples (64GB). Depois vai ter que gastar mais uns trocos com um SD card de pelo menos 512GB para colocar os joguinhos, mais um “Dock” para ter mais portas (HDMI, USB, rede, etc). 
- 2. Bateria: Até você aprender a otimizar as configurações para aquele jogo, vai ser muito tentador jogar com tudo no máximo e isso vai drenar duas bateria. Em média, você consegue entre 2-3 horas de um jogo com tudo no máximo. Se configurar direitinho, vai chegar em 4-5 horas dependendo do jogo. Então sempre vai precisar estar perto da tomada ou investir em um bom power bank. 
- 3. Como o Steam Deck é um PC que roda uma versão de Linux, você pode customizar da maneira que quiser e se você for um NERD igual eu, você VAI QUERER customizar e isso da trabalho, horas e horas de vídeo, blogs e Reddit. Por outro lado, se quiser deixar no padrão, vai funcionar de boas. (Por isso que eu gosto da Apple, como é tudo fechadinho, não tem a tentação de ficar fuçando). 
- 4. Vai ficar “defasado” meio que logo. O Steam Deck foi lançado já tem quase um ano, então a tendência é que em breve uma nova versão seja lançada, mais pontente e com mais recursos. Mas esse é o preço que se paga. 
- 5. Já existem outros handhelds até mais potentes que o Steam Deck, mas de todos os reviews que eu andei vendo pela internet, nenhum compete com ele no quesito preço. 
+- Custo no Brasil. Se você comprar um aqui no Mercado Livre, vai pagar coisa de R$3000-R$3500 pelo modelo mais simples (64GB). Depois vai ter que gastar mais uns trocos com um SD card de pelo menos 512GB para colocar os joguinhos, mais um “Dock” para ter mais portas (HDMI, USB, rede, etc). 
+
+- Bateria: Até você aprender a otimizar as configurações para aquele jogo, vai ser muito tentador jogar com tudo no máximo e isso vai drenar duas bateria. Em média, você consegue entre 2-3 horas de um jogo com tudo no máximo. Se configurar direitinho, vai chegar em 4-5 horas dependendo do jogo. Então sempre vai precisar estar perto da tomada ou investir em um bom power bank. 
+
+- Como o Steam Deck é um PC que roda uma versão de Linux, você pode customizar da maneira que quiser e se você for um NERD igual eu, você VAI QUERER customizar e isso da trabalho, horas e horas de vídeo, blogs e Reddit. Por outro lado, se quiser deixar no padrão, vai funcionar de boas. (Por isso que eu gosto da Apple, como é tudo fechadinho, não tem a tentação de ficar fuçando). 
+
+- Vai ficar “defasado” meio que logo. O Steam Deck foi lançado já tem quase um ano, então a tendência é que em breve uma nova versão seja lançada, mais pontente e com mais recursos. Mas esse é o preço que se paga. 
+
+- Já existem outros handhelds até mais potentes que o Steam Deck, mas de todos os reviews que eu andei vendo pela internet, nenhum compete com ele no quesito preço. 
 
 ### Para quem é o Steam Deck?
 
 Vamos lá, quem é o usuário típico do Steam Deck? 
 
-Aquele gamer mais casual, que não é tarado em FPS ou resoluções altíssimas, que curte se DIVERTIR jogando e não está muito interessado em uma super performance e quer apenas curtir o seu jogo sem querer trabalho, instala o jogo, liga e se diverte, sem precisar ficar fuçando ou fazendo muitas configurações.
+- Aquele gamer mais casual, que não é tarado em FPS ou resoluções altíssimas, que curte se DIVERTIR jogando e não está muito interessado em uma super performance e quer apenas curtir o seu jogo sem querer trabalho, instala o jogo, liga e se diverte, sem precisar ficar fuçando ou fazendo muitas configurações.
 
-Outro usuário que irá curtir muito o Steam Deck, é aquele que gosta de fuçar, futucar, instalar mods, emuladores, hacks, configurando cada detalhe, etc. O Steam Deck, te permite fazer tudo isso e muito mais. A comunidade em torno do Steam Deck é gigantesca, existe muita gente na comunidade criando softwares, hacks e melhorias para o Steam Deck.
+- Outro usuário que irá curtir muito o Steam Deck, é aquele que gosta de fuçar, futucar, instalar mods, emuladores, hacks, configurando cada detalhe, etc. O Steam Deck, te permite fazer tudo isso e muito mais. A comunidade em torno do Steam Deck é gigantesca, existe muita gente na comunidade criando softwares, hacks e melhorias para o Steam Deck.
 
-Outro público alvo do Steam Deck, é aquele gamer que já tem os consoles ou um PC Gamer, mas não tem TEMPO ou disposição para sentar no sofá ou na mesa para jogar. 
+- Outro público alvo do Steam Deck, é aquele gamer que já tem os consoles ou um PC Gamer, mas não tem TEMPO ou disposição para sentar no sofá ou na mesa para jogar. 
 
 Então em resumo, o Steam Deck serve para todos os públicos, desde o gamer casual que quer apenas se divertir, até aquele gamer e thinker que quer fuçar cada pedacinho do console.
 
@@ -81,6 +94,10 @@ O Steam Deck, pode facilmente subistituir o seu notebook ou PC para trabalhos ma
 
 Pessoalmente, eu não vejo muita praticidade se comparado com o notebook. 
 
+### Ahhhh, mas eu posso montar um Mini-PC bem mais barato do que o Steam Deck!
+
+Sim, você pode! Vai ser igual ao Steam Deck? NÃO!
+Você vai economizar uma grana? Sim, mas ainda assim, você não vai ter um Steam Deck e nem todas as facilidades do equipamento.
 
 ### Não acredita em mim? Da uma olhada nesses posts do Reddit da comunidade /r/GameseCultura
 
