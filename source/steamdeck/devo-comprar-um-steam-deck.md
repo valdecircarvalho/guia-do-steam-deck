@@ -100,3 +100,6 @@ Não só somente eu que estou falando que o Steam Deck é um equipamento maravil
 
 - [O SteamDeck conseguiu mudar a minha percepção sobre jogos e sobre eu mesmo](https://www.reddit.com/r/gamesEcultura/comments/w1fjxd/o_steamdeck_conseguiu_mudar_a_minha_percep%C3%A7%C3%A3o/)
 
+- [Mais um feliz proprietário do Steamdeck!](https://www.reddit.com/r/gamesEcultura/comments/155bmj2/mais_um_feliz_propriet%C3%A1rio_do_steamdeck/)
+
+- [Who is the Average Steam Deck Owner?](https://www.reddit.com/r/SteamDeck/comments/14tqk3y/who_is_the_average_steam_deck_owner/)

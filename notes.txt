@@ -44,7 +44,7 @@ git submodule add https://github.com/Matalus/steamdeck-tips.git
 git submodule add https://gitlab.com/r-roms/megathread.git
 git submodule add https://github.com/fmhy/FMHYedit.git
 git submodule add https://github.com/Minibattle/WinDeckOS
-
+git submodule add https://github.com/EmuDeck/emudeck.github.io.git
 
 git submodule update --remote --merge 
 
