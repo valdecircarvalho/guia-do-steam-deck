@@ -52,6 +52,7 @@ EMU DECK, um sistema simples e fácil de rodar emuladores no Steam Deck - https:
 ### Para quem é o Steam Deck?
 
 Vamos lá, quem é o usuário típico do Steam Deck? 
+
 Aquele gamer mais casual, que não é tarado em FPS ou resoluções altíssimas, que curte se DIVERTIR jogando e não está muito interessado em uma super performance e quer apenas curtir o seu jogo sem querer trabalho, instala o jogo, liga e se diverte, sem precisar ficar fuçando ou fazendo muitas configurações.
 
 Outro usuário que irá curtir muito o Steam Deck, é aquele que gosta de fuçar, futucar, instalar mods, emuladores, hacks, configurando cada detalhe, etc. O Steam Deck, te permite fazer tudo isso e muito mais. A comunidade em torno do Steam Deck é gigantesca, existe muita gente na comunidade criando softwares, hacks e melhorias para o Steam Deck.
@@ -62,16 +63,39 @@ Então em resumo, o Steam Deck serve para todos os públicos, desde o gamer casu
 
 ### Para quem não é o Steam Deck?
 
+O Steam Deck defiinitivamente não é para aquele gamer hardcore que quer jogar tudo no ULTRA, com 1 milhão de FPSs, 4K, 4 monitores, teclado, mouse, etc. 
+
+Mas mesmo assim, se você é esse gamer, deveria dar uma chance ao Steam Deck para aquele jogo mais casual, para jogar no sofá ou enquanto espera no carro ou está longe do seu PCzão da NASA. 
+
 ### Devo compara um Steam Deck ou um < insira o nome do console aqui >?
+
+Tudo depende! Coloquei abaixo alguns relatos, onde pessoas contam que trocou o seu console pelo Steam Deck e estão muito felizes. Outras que depois que compraram o Steam Deck, praticamente não usaram o console.
+
+Minha opinião pessoal, se você já tem o console XXX e quer o Steam Deck, mantenha os dois se puder. São produtos com propósitos bastante diferentes, mas que ter a sua atividade final JOGAR VIDEOGAME!
+
+### Devo comprar um Steam Deck e vender o meu notebook ou PC? 
+
+Mais uma vez, depende!
+
+O Steam Deck, pode facilmente subistituir o seu notebook ou PC para trabalhos mais leves, mas se você procurar, vai ver que muita gente diz usar o Steam Deck como PC principal, com um monitor, teclado e mouse. 
+
+Pessoalmente, eu não vejo muita praticidade se comparado com o notebook. 
+
 
 ### Não acredita em mim? Da uma olhada nesses posts do Reddit da comunidade /r/GameseCultura
 
 Não só somente eu que estou falando que o Steam Deck é um equipamento maravilhoso! Veja esses e-mails 
 - [O Steam Deck é sensacional. Caso você esteja em dúvida, vale muito a pena.](https://www.reddit.com/r/gamesEcultura/comments/14rh2x9/o_steam_deck_%C3%A9_sensacional_caso_voc%C3%AA_esteja_em/)
+
 - [Tá valendo a pena comprar um Steam Deck aqui no brazillian?](https://www.reddit.com/r/gamesEcultura/comments/14onpoj/t%C3%A1_valendo_a_pena_comprar_um_steam_deck_aqui_no/)
+
 - [Alguém aí tem Steam Deck?](https://www.reddit.com/r/gamesEcultura/comments/14is78y/algu%C3%A9m_a%C3%AD_tem_steam_deck/)
+
 - [Troquei meu PS4 por um Steam Deck e não poderia estar mais feliz!](https://www.reddit.com/r/gamesEcultura/comments/148c1ne/troquei_meu_ps4_por_um_steam_deck_e_n%C3%A3o_poderia/)
+
 - [O Steam Deck foi a melhor compra que eu fiz nos últimos anos](https://www.reddit.com/r/gamesEcultura/comments/146whpy/o_steam_deck_foi_a_melhor_compra_que_eu_fiz_nos/)
+
 - [Comprei um Steam Deck. Minhas primeiras impressões](https://www.reddit.com/r/gamesEcultura/comments/13p6yu1/comprei_um_steam_deck_minhas_primeiras_impress%C3%B5es/)
+
 - [O SteamDeck conseguiu mudar a minha percepção sobre jogos e sobre eu mesmo](https://www.reddit.com/r/gamesEcultura/comments/w1fjxd/o_steamdeck_conseguiu_mudar_a_minha_percep%C3%A7%C3%A3o/)
 

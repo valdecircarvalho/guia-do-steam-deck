@@ -49,3 +49,6 @@
 [submodule "aux-repos/WinDeckOS"]
 	path = aux-repos/WinDeckOS
 	url = https://github.com/Minibattle/WinDeckOS
+[submodule "aux-repos/emudeck.github.io"]
+	path = aux-repos/emudeck.github.io
+	url = https://github.com/EmuDeck/emudeck.github.io.git
