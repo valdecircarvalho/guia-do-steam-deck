@@ -84,7 +84,8 @@ Pessoalmente, eu não vejo muita praticidade se comparado com o notebook.
 
 ### Não acredita em mim? Da uma olhada nesses posts do Reddit da comunidade /r/GameseCultura
 
-Não só somente eu que estou falando que o Steam Deck é um equipamento maravilhoso! Veja esses e-mails 
+Não só somente eu que estou falando que o Steam Deck é um equipamento maravilhoso! Veja esses posts:
+
 - [O Steam Deck é sensacional. Caso você esteja em dúvida, vale muito a pena.](https://www.reddit.com/r/gamesEcultura/comments/14rh2x9/o_steam_deck_%C3%A9_sensacional_caso_voc%C3%AA_esteja_em/)
 
 - [Tá valendo a pena comprar um Steam Deck aqui no brazillian?](https://www.reddit.com/r/gamesEcultura/comments/14onpoj/t%C3%A1_valendo_a_pena_comprar_um_steam_deck_aqui_no/)
