@@ -58,7 +58,7 @@ Porque depende?
 
 - Como o Steam Deck é um PC que roda uma versão de Linux, você pode customizar da maneira que quiser e se você for um NERD igual eu, você VAI QUERER customizar e isso da trabalho, horas e horas de vídeo, blogs e Reddit. Por outro lado, se quiser deixar no padrão, vai funcionar de boas. (Por isso que eu gosto da Apple, como é tudo fechadinho, não tem a tentação de ficar fuçando). 
 
-- Vai ficar “defasado” meio que logo. O Steam Deck foi lançado já tem quase um ano, então a tendência é que em breve uma nova versão seja lançada, mais pontente e com mais recursos. Mas esse é o preço que se paga. 
+- Vai ficar “defasado” meio que logo. O Steam Deck foi lançado já tem quase um ano, então a tendência é que em breve uma nova versão seja lançada, mais pontente e com mais recursos. Mas esse é o preço que se paga. Update - A Valve já anunciou que não irá lançar uma nova versão do Steam Deck em pelo menos 2-3 anos, então, antes de 2025-2026, não espere ver uma nova versão do Steam Deck no mercado [Valve says the Steam Deck 2 is years away](https://www.rockpapershotgun.com/the-community-continues-to-blow-our-minds-valve-talk-the-steam-deck-one-year-on)
 
 - Já existem outros handhelds até mais potentes que o Steam Deck, mas de todos os reviews que eu andei vendo pela internet, nenhum compete com ele no quesito preço. 
 
