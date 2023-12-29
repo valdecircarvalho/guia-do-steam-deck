@@ -5,7 +5,7 @@ authors:
     - Valdecir Carvalho
 date: 2023-03-01
 tags:
-  - steamdeck
+  - artigos
 ---
 
 ## Um mês com o Steam Deck e como eu retomei o gosto por videogames.

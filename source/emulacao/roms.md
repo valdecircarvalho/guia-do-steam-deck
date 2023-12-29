@@ -22,22 +22,20 @@ Recomendo fortemente que você use um Ad Block no seu browser quando for acessar
 
     Tenha bastante cuidado em acessar alguns sites. Eu acessei e verifiquei todos os links abaixo, mas não posso garantir que algum deles possa ter vírus ou algo do tipo. A responsabilidade é toda sua.
 
-Question
-: Answer
+ - /r/pirataria Megathread - Link da Megathread no canal /r/pirataria (em Português) no Reddit. Muito além de games.
+https://c-pirataria.github.io/megathread/
 
-/r/Roms Megathread - Link da Megathread no canal /r/Roms no Reddit. Muito conteúdo de praticamente todos os sistemas. Constantemente atualizado.
-: https://r-roms.github.io/
+- /r/Roms Megathread - Link da Megathread no canal /r/Roms no Reddit. Muito conteúdo de praticamente todos os sistemas. Constantemente atualizado.
+https://r-roms.github.io/
 
-Myrient - Tem praticamente TUDO. Packs No-Intro/Redump, TOSEC, etc. Um dos meus sites prediletos
-: https://myrient.erista.me/
+- Myrient - Tem praticamente TUDO. Packs No-Intro/Redump, TOSEC, etc. Um dos meus sites prediletos
+https://myrient.erista.me/
 
-CDRomance - Site antigo e clássico. Aqui você irá encontrar traduções, romhacks e roms de PS2/PS1/GCN
-: https://cdromance.com/
+- CDRomance - Site antigo e clássico. Aqui você irá encontrar traduções, romhacks e roms de PS2/PS1/GCN
+https://cdromance.com/
 
-hShop - All your 3DS .CIA, updates, themes, dlc and more 3DS Needs!
-: https://hshop.erista.me/
-
-
+- hShop - All your 3DS .CIA, updates, themes, dlc and more 3DS Needs!
+https://hshop.erista.me/
 
 - Emulation Game Tech Wiki, Rom & Iso Sites - A huge wiki of sites you can use to download roms!
 https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_sites
@@ -85,68 +83,8 @@ https://archive.org/download/2019_11_25_redump_bios/Redump-BIOS/
 - Darthsternie's Firmware And Exploit Archive - Switch Firmwares, 3DS, PS5/PS4 and more stuff.
 https://darthsternie.net/
 
--DS Firmware - If you want to run DS games without DSIWare with MelonDS
+- DS Firmware - If you want to run DS games without DSIWare with MelonDS
 https://cdn.discordapp.com/attachments/961248372696682576/989896663403487232/Nintendo_DS_Bios_and_Firmware.zip
 
 - DSI Firmware - added some DSIWare games such as flipnote for you, just change the system name :))
 https://drive.google.com/file/d/1_FGrjlpPt3qVMLrXfAxWFmrLjMOYrG3e/view?usp=sharing
-
-- DSI Ware games loaded in this NAND, by the way
-Mayonnaise on an escalator
-It's going upstairs so see ya' later
-Bye bye, to the sky
-I wanna see you as you're getting so high
-You know you're not gonna stay
-You're escalating away
-Out of my life
-And out of my day
-Look at me now
-I wanna see you again
-
-- Google - Can't find that one stupid ps2 bios? Be as reckless as me to google it! It worked 11 out of the 10 times.
-
-## Emulators
-
-Emulators are used to load up your roms and get retro gaming! There are various benefits using it such as using Save States, Fast Forwarding, Cheats, Upscaling and way more!
-Keep in mind that Xbox Series X, PS5 and IOS emulators don't exist yet. Any video telling you they are are a scam! (
-
-Emulation On Windows
-List of emulators recommended by bamba. Sorry Linux/MacOS Users!
-
-Emulation Game Tech Wiki - Emulation On Windows, big list, big thing, handy thing.
-https://emulation.gametechwiki.com/index.php/Emulators_on_Windows
-RetroArch - Multi system emulator, requires configuration but it will reward you with a simple to use emulator. launch retroarch, connect ps4 controller and game on!
-NES
-Mesen - Mesen is a Emulator for NES, probably the best out of there in my opinion. Supports HD Texture packs and has a cool suspend function.
-SNES
-Snes9X - A classic, and still rocks to this day!
-GBA
-VisualBoyAdvance/MGba
-GB/GBC
-Sameboy
-DS
-MelonDS - With wifi support and DSI support! Requires Bios Use https://drive.google.com/file/d/1_FGrjlpPt3qVMLrXfAxWFmrLjMOYrG3e/view?usp=sharing as DSI Bios
-N64
-Project64/Simple64 - Project64's support splash screen sucks ass though but the best to use for beginners.
-PS1
-Duckstation - quack Requires BIOS
-PS2
-PCSX2 - Requires BIOS
-PS3
-RPCS3 - Requires BIOS Please keep in mind if you are asking support for RPCS3 that you watch out what you say, cause they reaaaally HATE piracy.
-PSP
-PPSSPP - PPSSPP Has a VR Version which runs on a Oculus Quest 2 and Pico.
-Wii/Gamecube
-Dolphin
-Wii U
-Cemu
-Switch
-Ryujinx/yuzu - Your choice what to use. I prefer Ryujinx but that is just me.
-Sega Genesis, Mega Drive
-BlastEm
-Master System | Game Gear | Genesis | Mega Drive | Mega CD
-Genesis Plus GX
-Sega Dreamcast
-redream - It is worth nothing that to play DC games in HD you have to buy premium. Check Useful stuff to find a trick to get premium unlocked for redream on PC!
-Nintendo 3DS
-Citra

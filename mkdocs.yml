@@ -171,6 +171,8 @@ extra:
 nav:
   - Home: 
     - index.md
+    - Artigos:
+      - artigos/index.md 
     - Steam Deck: 
       - O Steam Deck: steamdeck/steamdeck.md
       - Acessórios: steamdeck/steamdeck-acessorios.md
