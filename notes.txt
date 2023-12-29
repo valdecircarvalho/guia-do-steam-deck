@@ -46,6 +46,8 @@ git submodule add https://github.com/fmhy/FMHYedit.git
 git submodule add https://github.com/Minibattle/WinDeckOS
 git submodule add https://github.com/EmuDeck/emudeck.github.io.git
 
+git submodule add https://github.com/c-pirataria/megathread.git megathread_br
+
 git submodule update --remote --merge 
 
 
