@@ -3,7 +3,7 @@ title: Artigo - Um ano com o Steam Deck
 description: Um ano com o Steam Deck, minhas experiëncias!
 authors:
     - Valdecir Carvalho
-date: 2023-01-01
+date: 2024-01-01
 tags:
   - artigos
 ---

@@ -20,4 +20,4 @@ Esse trabalho está **em construção** :fontawesome-solid-person-digging: e em 
 Veja como [**contribuir**](contribua.md) com o **Guia do Steam Deck**
 
 !!! info "Atualização"
-    :simple-steamdeck: Site atualizado em 20/07/2023 :material-new-box:
+    :simple-steamdeck: Site atualizado em 29/12/2023 :material-new-box:
