@@ -228,6 +228,13 @@ nav:
         - CryoUtilities: hacks-e-utilitarios/cryoutilities.md
         - Decky Loader: hacks-e-utilitarios/deckyloader.md
     - Ajuda & Dicas: ajuda/ajuda.md
+    - The Steam Deck Guide in English: 
+        - English Speakers Start Here: english/the-steam-deck-guide.md
+        - About the Steam Deck Guide: english/about.md
+        - English Index: english/english-index.md
+    #- Steam Deck Depot: depot.md
+    - Steam Deck Depot: http://depot.guiadosteamdeck.com.br/
+    - FAQ: faq/faq.md
   #- Game Config: game-config/index.md
   - FAQ: faq/faq.md
   - Sobre o Guia do Steam Deck: sobre.md

@@ -55,3 +55,6 @@
 [submodule "aux-repos/megathread_br"]
 	path = aux-repos/megathread_br
 	url = https://github.com/c-pirataria/megathread.git
+[submodule "aux-repos/EmuDeckWiki"]
+	path = aux-repos/EmuDeckWiki
+	url = https://github.com/EmuDeck/emudeck.github.io.git
